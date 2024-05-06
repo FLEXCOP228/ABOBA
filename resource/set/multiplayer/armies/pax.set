@@ -1,0 +1,6 @@
+{army
+	{id 8}
+	{title "mp/army/pax"} 
+	{icon "/interface/pages/multi/flag_pax"}
+	{flag "/interface/pages/multi/flag_pax"}
+}

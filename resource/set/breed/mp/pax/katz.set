@@ -1,0 +1,61 @@
+{breed
+	{skin "jap_t1"}
+	{portrait pax_katz}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality ger}
+	{perks
+		{"health" "200%"
+		}
+		{"health_regeneration" "125%"
+		}
+		{"stamina" "150%"
+		}
+		{"stamina_regeneration" "125%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 1.5
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_2
+		}
+		{"smg" lvl_2
+		}
+		{"mgun" lvl_2
+		}
+		{"rifle" lvl_2
+		}
+		{"rocketlauncher" lvl_2
+		}
+		{"melee" lvl_2
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 6
+		}
+		{"lvl_2" 10
+		}
+		{"lvl_3" 20
+		}
+		{"lvl_4" 30
+		}
+		{"lvl_5" 50
+		}
+	}
+	{inventory
+		{item "medkit"}
+		{item "flame_thrower_g"}
+		{item "tank_balloon" filling "fuel" 9999}
+		{item "bandage" 10}
+		{in_hands 1}
+	}
+}

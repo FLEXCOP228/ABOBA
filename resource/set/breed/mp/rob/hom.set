@@ -1,0 +1,56 @@
+{breed
+	{skin "rus_partizan2"}
+	{portrait rob_hom}
+	{icon home_guard}
+	{icon_priority 0}
+	{nationality usa}
+	{perks
+		{"health" "1000%"
+		}
+		{"health_regeneration" "20%"
+		}
+		{"stamina" "300%"
+		}
+		{"stamina_regeneration" "300%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.9
+		}
+		{"tank" 0.6
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_1
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+	}
+	{veterancy
+		{"lvl_1" 11111
+		}
+		{"lvl_2" 31111
+		}
+		{"lvl_3" 11111
+		}
+		{"lvl_4" 11111
+		}
+		{"lvl_5" 11111
+		}
+	}
+	{inventory
+		{item "browning" filling "hmgun ammo" 100}
+		{item "hmgun ammo" 1000}
+		{in_hands 0}
+	}
+}

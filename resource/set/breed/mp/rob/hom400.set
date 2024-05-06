@@ -1,0 +1,56 @@
+{breed
+	{skin "rus_tankman"}
+	{portrait rob_hom400}
+	{icon home_guard}
+	{icon_priority 0}
+	{nationality usa}
+	{perks
+		{"health" "75%"
+		}
+		{"health_regeneration" "20%"
+		}
+		{"stamina" "125%"
+		}
+		{"stamina_regeneration" "125%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.7
+		}
+		{"tank" 0.6
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_1
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+	}
+	{veterancy
+		{"lvl_1" 1
+		}
+		{"lvl_2" 3
+		}
+		{"lvl_3" 5
+		}
+		{"lvl_4" 10
+		}
+		{"lvl_5" 20
+		}
+	}
+	{inventory
+		{item "pistol ammo" 500}
+		{item "mp28" filling "pistol ammo" 30}
+		{in_hands 1}
+	}
+}

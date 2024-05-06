@@ -1,0 +1,6 @@
+{army
+	{id 9}
+	{title "mp/army/rob"} 
+	{icon "/interface/pages/multi/flag_rob"}
+	{flag "/interface/pages/multi/flag_rob"}
+}

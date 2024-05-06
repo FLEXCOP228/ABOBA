@@ -1,0 +1,853 @@
+{map
+	{Land
+		{Position 0 0}
+	}
+	{Clips
+		{"[auto]"
+			{world -3000 -3000 3000 3000}
+			{camera -3000 -3000 3000 3000}
+			{pather -3000 -3000 3000 3000}
+			{distance 200 800}
+			{viewAngle 20 50}
+		}
+	}
+	{Ocean
+		{active}
+		{state moderate}
+		{zlevel -25}
+		{waveamount 8}
+		{wavedir 27}
+	}
+	{Entity "t_build1a" 0x4000
+		{Position -2748.19 2615.69}
+		{xform zl -159.5}
+	}
+	{Entity "t_build1a" 0x4020
+		{Position -2748.19 2615.69}
+		{xform zl -159.5}
+	}
+	{Entity "fence3m1a" 0x4040
+		{Position -2522.52 2507.65}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4051
+		{Position -2416.77 2556.16}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4062
+		{Position -2204.95 2652.9}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4063
+		{Position -2310.7 2604.39}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4084
+		{Position -2340.23 2987.48}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4085
+		{Position -2445.98 2938.97}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4086
+		{Position -2657.8 2842.23}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4087
+		{Position -2552.05 2890.74}
+		{xform zl 114.38}
+	}
+	{Entity "fence3m1a" 0x4090
+		{Position -2273.13 2997.99}
+		{xform zl 23.08}
+	}
+	{Entity "fence3m1a" 0x4099
+		{Position -2134.74 2656.77}
+		{xform zl -158.67}
+	}
+	{Entity "t_build5a" 0x1000
+		{Position 2467.86 2239.91}
+	}
+	{Entity "control_tower" 0x7000
+		{Position -1879.55 2643.69 0}
+		{xform zl -163.27}
+	}
+	{Entity "cooling_tower" 0x6400
+		{Position -2265.23 2693}
+	}
+	{Entity "cooling_tower" 0x6401
+		{Position -2390.9 2683.53}
+	}
+	{Entity "cooling_tower" 0x6402
+		{Position -2514.66 2631.27}
+	}
+	{Entity "radar_mount" 0x6403
+		{Position 266.82 2313.18}
+		{xform zl -11.51}
+	}
+	{Entity "radar_mount" 0x6404
+		{Position 509.61 2262.92}
+	}
+	{Entity "radar_mount" 0x6405
+		{Position 725.44 2296.45}
+		{xform zl 33.26}
+	}
+	{Entity "fire_station_a" 0x6406
+		{Position -720.59 2452.37}
+	}
+	{Entity "dok_fence1" 0xc00
+		{Position -1386.55 2393.07}
+		{xform zl 87.09}
+	}
+	{Entity "dok_fence1" 0xc01
+		{Position -1280.59 2386.36}
+		{xform zl 87.09}
+	}
+	{Entity "dok_fence1" 0xc02
+		{Position -1598.7 2404.14}
+		{xform zl 87.09}
+	}
+	{Entity "dok_fence1" 0xc03
+		{Position -1492.74 2397.44}
+		{xform zl 87.09}
+	}
+	{Entity "dok_wall3" 0x4c00
+		{Position -1704.83 2255.03 -13.86}
+		{xform zl 93.42}
+	}
+	{Entity "dok_wall3" 0x4c01
+		{Position -1649.56 2256.74 -6.94}
+		{xform zl 93.42}
+	}
+	{Entity "dok_wall3" 0x4c02
+		{Position -1594.06 2262.64 -4.35}
+		{xform zl 93.42}
+	}
+	{Entity "dok_wall3" 0x4c03
+		{Position -1538.79 2264.34 -19.51}
+		{xform zl 93.42}
+	}
+	{Entity "dok_wall3" 0x4c04
+		{Position -1488.85 2265.66 -24.87}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c05
+		{Position -1433.6 2263.36 -24.44}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c06
+		{Position -1377.82 2265.22 -17.7}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c07
+		{Position -1322.57 2262.92 -40.93}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c08
+		{Position -1277.96 2197.02 -55.08}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c09
+		{Position -1222.71 2194.72 -25.61}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c0a
+		{Position -1166.93 2196.58 -8.44}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c0b
+		{Position -1111.68 2194.28 -4.49}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c0c
+		{Position -1080.75 2154.55 -6.61}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c0d
+		{Position -1025.5 2152.25 5.96}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c0e
+		{Position -969.72 2154.11 2.73}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c0f
+		{Position -914.47 2151.81 -1.04}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c10
+		{Position -858.3 2127.8 -13.93}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c11
+		{Position -805.85 2103.7 -10.98}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c12
+		{Position -754.64 2099.72 -3.76}
+		{xform zl 89.27}
+	}
+	{Entity "dok_wall3" 0x4c13
+		{Position -699.39 2097.42 0.58}
+		{xform zl 89.27}
+	}
+	{Entity "car-dead1" 0x2c00
+		{Position -611.11 2173.82}
+	}
+	{Entity "car-dead1" 0x2c01
+		{Position -521.8 2174.07}
+	}
+	{Entity "car-dead1" 0x2c02
+		{Position -428.9 2176.85}
+	}
+	{Entity "car-dead1" 0x2c03
+		{Position -337.64 2175.24}
+	}
+	{Entity "car-dead1" 0x2c04
+		{Position -243.47 2175.27}
+	}
+	{Entity "car-dead1" 0x2c05
+		{Position -148.76 2171.28}
+	}
+	{Entity "car-dead1" 0x2c06
+		{Position -58.23 2157.45}
+	}
+	{Entity "car-dead1" 0x2c07
+		{Position 31.08 2157.7}
+	}
+	{Entity "car-dead1" 0x2c08
+		{Position 123.97 2160.48}
+	}
+	{Entity "car-dead1" 0x2c09
+		{Position 215.23 2158.87}
+	}
+	{Entity "car-dead1" 0x2c0a
+		{Position 309.4 2158.9}
+	}
+	{Entity "car-dead1" 0x2c0b
+		{Position 404.11 2154.91}
+	}
+	{Entity "car-dead1" 0x2c0c
+		{Position 505.93 2033.62}
+	}
+	{Entity "car-dead1" 0x2c0d
+		{Position 595.24 2033.87}
+	}
+	{Entity "car-dead1" 0x2c0e
+		{Position 688.14 2036.65}
+	}
+	{Entity "car-dead1" 0x2c0f
+		{Position 779.4 2035.04}
+	}
+	{Entity "car-dead1" 0x2c10
+		{Position 873.57 2035.07}
+	}
+	{Entity "car-dead1" 0x2c11
+		{Position 1991.82 2232.9}
+	}
+	{Entity "car-dead1" 0x2c12
+		{Position 1241.29 2176.04}
+	}
+	{Entity "car-dead1" 0x2c13
+		{Position 1199.7 2013.41}
+	}
+	{Entity "car-dead1" 0x2c14
+		{Position 1292.6 2016.19}
+	}
+	{Entity "car-dead1" 0x2c15
+		{Position 1383.86 2014.58}
+	}
+	{Entity "car-dead1" 0x2c16
+		{Position 1478.03 2014.61}
+	}
+	{Entity "car-dead1" 0x2c17
+		{Position 1572.74 2010.62}
+	}
+	{Entity "car-dead1" 0x2c18
+		{Position 1720.54 1958.48}
+	}
+	{Entity "car-dead1" 0x2c19
+		{Position 1809.85 1958.73}
+	}
+	{Entity "car-dead1" 0x2c1a
+		{Position 1902.75 1961.51}
+	}
+	{Entity "car-dead1" 0x2c1b
+		{Position 1994.01 1959.9}
+	}
+	{Entity "car-dead1" 0x2c1c
+		{Position 2088.18 1959.93}
+	}
+	{Entity "car-dead1" 0x2c1d
+		{Position 2182.89 1955.94}
+	}
+	{Entity "car-dead1" 0x2c1e
+		{Position 2321.08 1985.3}
+	}
+	{Entity "car-dead1" 0x2c1f
+		{Position 2410.39 1985.55}
+	}
+	{Entity "car-dead1" 0x2c20
+		{Position 2503.29 1988.33}
+	}
+	{Entity "car-dead1" 0x2c21
+		{Position 2594.55 1986.72}
+	}
+	{Entity "car-dead1" 0x2c22
+		{Position 2688.72 1986.75}
+	}
+	{Entity "car-dead1" 0x2c23
+		{Position 2783.43 1982.76}
+	}
+	{Entity "car-dead1" 0x2c24
+		{Position -2257.21 2381.95}
+	}
+	{Entity "car-dead1" 0x2c25
+		{Position -2167.9 2382.2}
+	}
+	{Entity "car-dead1" 0x2c26
+		{Position -2075 2384.98}
+	}
+	{Entity "car-dead1" 0x2c27
+		{Position -1983.74 2383.37}
+	}
+	{Entity "car-dead1" 0x2c28
+		{Position -1889.57 2383.4}
+	}
+	{Entity "car-dead1" 0x2c29
+		{Position -1794.86 2379.41}
+	}
+	{Entity "car-dead1" 0x2c2a
+		{Position -2782.07 2428.33}
+	}
+	{Entity "car-dead1" 0x2c2b
+		{Position -2692.76 2428.58}
+	}
+	{Entity "car-dead1" 0x2c2c
+		{Position -2599.86 2431.36}
+	}
+	{Entity "car-dead1" 0x2c2d
+		{Position -2508.6 2429.75}
+	}
+	{Entity "car-dead1" 0x2c2e
+		{Position -2414.43 2429.78}
+	}
+	{Entity "car-dead1" 0x2c2f
+		{Position -2319.72 2425.79}
+	}
+	{Entity "car-dead1" 0x2c30
+		{Position -2898.38 2443.1}
+	}
+	{Entity "gate_snackbar" 0x409a
+		{Position -1166.38 2370.48}
+		{xform zl 79.8 scale 1.21}
+	}
+	{Entity "u_boat_trap_1" 0x409b
+		{Position -1163.05 1865.48 -4.63}
+		{xform zl -91.13}
+	}
+	{Entity "u_boat_trap_1" 0x409c
+		{Position -1162.13 1581.48 -2.43}
+		{xform zl 89.67}
+	}
+	{Entity "u_boat_trap_1" 0x409d
+		{Position -1167.18 1281.33 -8.84}
+		{xform zl 89.67}
+	}
+	{Entity "u_boat_trap_1" 0x409e
+		{Position -1168.11 1565.33 -10.35}
+		{xform zl -91.13}
+	}
+	{Entity "u_boat_trap_1" 0x409f
+		{Position -1167.23 2035.47 -16.37}
+		{xform zl -91.13}
+	}
+	{Entity "u_boat_trap_1" 0x40a0
+		{Position -1166.48 2205.74 -15.84}
+		{xform zl -91.13}
+	}
+	{Entity "pz1b_ger2" 0x40a1
+		{Position -1164.77 2379.68}
+		{xform zl -97.76}
+		{Volume "ram"
+			{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}}
+		}
+		{Player 0}
+		{MID 10002}
+	}
+	{Entity "control_tower" 0x40bd
+		{Position 1059.84 2280.76 277.5}
+		{xform zl -94.45 y 173.33 zw 149.06 scale 1.307}
+	}
+	{Entity "t_build1a_door1" 0x38
+		{SkeletonSrc "t_build1a_door1_x"}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "t_build1a_door1" 0x57
+		{SkeletonSrc "t_build1a_door1_x"}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "pz3" 0xdb
+		{Position -3043.21 2501.98}
+		{xform zl -98.13}
+		{Extender "enumerator"
+			{number 907}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10003}
+	}
+	{Entity "pz3" 0xdc
+		{Position -1515.31 2543.58}
+		{xform zl -91.5}
+		{Extender "enumerator"
+			{number 577}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10004}
+	}
+	{Entity "pz3" 0xdd
+		{Position -109.15 2408.94}
+		{xform zl -86.48}
+		{Extender "enumerator"
+			{number 822}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10005}
+	}
+	{Entity "pz3" 0xde
+		{Position 453.3 2555.03}
+		{xform zl -104.36}
+		{Extender "enumerator"
+			{number 697}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10006}
+	}
+	{Entity "pz3" 0xdf
+		{Position 1361.66 2516.39}
+		{xform zl -89.64}
+		{Extender "enumerator"
+			{number 854}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10007}
+	}
+	{Entity "pz3" 0xe0
+		{Position 2066.53 2661.89}
+		{xform zl -89.24}
+		{Extender "enumerator"
+			{number 534}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10008}
+	}
+	{Entity "pz3" 0xe1
+		{Position 1737.93 2636.94}
+		{xform zl -89.19}
+		{Extender "enumerator"
+			{number 53}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10009}
+	}
+	{Entity "pz3" 0xe2
+		{Position 2867.72 2406.22}
+		{xform zl -91.14}
+		{Extender "enumerator"
+			{number 558}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10010}
+	}
+	{Entity "pz3" 0xe3
+		{Position 176.82 2613.13}
+		{xform zl -99.13}
+		{Extender "enumerator"
+			{number 44}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10011}
+	}
+	{Entity "pz3" 0xe4
+		{Position -1333.52 2516.85}
+		{xform zl -94.45}
+		{Extender "enumerator"
+			{number 802}
+			{digit_folder "ger"}
+		}
+		{Player 0}
+		{MID 10012}
+	}
+	{Entity "pak57" 0xe5
+		{Position -1695.83 2414.66}
+		{xform zl -109.43}
+		{Placer
+			{State "driver1" {Disable}}
+			{State "driver2" {Disable}}
+			{State "seat1" {Disable}}
+			{State "seat2" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+		}
+		{Player 0}
+		{MID 10013}
+	}
+	{Entity "maxim" 0xe6
+		{Position -785.69 2200.67 0}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10014}
+	}
+	{Entity "maxim" 0xe8
+		{Position -1130.73 2318.58 0}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10015}
+	}
+	{Entity "maxim" 0xea
+		{Position 1021.47 2007.86 0}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10016}
+	}
+	{Entity "maxim" 0xec
+		{Position 1657.99 2010.59 0}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10017}
+	}
+	{Entity "maxim" 0xee
+		{Position 441.41 2080.13 0}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10018}
+	}
+	{Entity "maxim" 0xf0
+		{Position 49.96 2154.8 32}
+		{xform zl -160.81 y 1.71 zw 73.46}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10019}
+	}
+	{Entity "maxim" 0xf2
+		{Position -2976.35 2432.47 0}
+		{xform zl -179.57 y 1.71 zw 106.5}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10020}
+	}
+	{Entity "maxim" 0xf4
+		{Position -2298.51 2416.76 30.5}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10021}
+	}
+	{Entity "maxim" 0xf6
+		{Position -1218.93 2348.97 0.5}
+		{xform zl -132.49 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10022}
+	}
+	{Entity "maxim" 0xf8
+		{Position 2924.76 1985.42 0}
+		{xform zl -179.57 y 1.71 zw 73.47}
+		{Placer
+			{State "driver" {Disable}}
+		}
+		{Extender "cannon"
+			{animation
+				{switch close}
+			}
+			{ik
+				{bone "basis"
+					{limits -0 0}
+				}
+			}
+		}
+		{AreaDisable "obstacle01"}
+		{Player 0}
+		{MID 10023}
+	}
+	{Entity "railroad5" 0x4003
+		{Position -2610.98 2799.77}
+		{xform zl 24.4}
+	}
+	{Entity "railroad5" 0x4004
+		{Position -2848.91 2691.85}
+		{xform zl 24.4}
+	}
+	{Entity "railroad5_turn2b" 0x4005
+		{Position -2434.18 2869.68 0}
+		{xform zl -168.38}
+	}
+	{Entity "railroad5_turn2b" 0x4006
+		{Position -2316.26 2859.42 0}
+		{xform zl 158.41}
+	}
+	{Entity "railroad5_turn2b" 0x4007
+		{Position -2204.65 2812.62 -2}
+		{xform zl -15.2}
+	}
+	{Entity "railroad5" 0x4008
+		{Position -1905.77 2868.16}
+		{xform zl 24.4}
+	}
+	{Entity "railroad5_turn2b" 0x4009
+		{Position -2084.63 2802.79 -4}
+		{xform zl 5.82}
+	}
+	{Entity "railroad5_turn2b" 0x400a
+		{Position -1727.82 2933.32 -4}
+		{xform zl -173.01}
+	}
+	{Entity "railroad5" 0x400b
+		{Position -1536.04 2936.61}
+	}
+	{Entity "railroad5" 0x400c
+		{Position -1274.78 2936.61}
+	}
+	{Entity "railroad5" 0x400d
+		{Position -1013.52 2936.61}
+	}
+	{Entity "railroad5" 0x400e
+		{Position -752.26 2936.61}
+	}
+	{Entity "railroad5" 0x400f
+		{Position -491 2936.61}
+	}
+	{Entity "railroad5" 0x4010
+		{Position -229.74 2936.61}
+	}
+	{Entity "railroad5" 0x4011
+		{Position 31.52 2936.61}
+	}
+	{Entity "railroad5" 0x4012
+		{Position 292.78 2936.61}
+	}
+	{Entity "railroad5" 0x4013
+		{Position 554.04 2936.61}
+	}
+	{Entity "railroad5" 0x4014
+		{Position 815.3 2936.61}
+	}
+	{Entity "railroad5" 0x4015
+		{Position 1076.56 2936.61}
+	}
+	{Entity "railroad5" 0x4016
+		{Position 1337.82 2936.61}
+	}
+	{Entity "railroad5" 0x4017
+		{Position 1599.08 2936.61}
+	}
+	{Entity "railroad5" 0x4018
+		{Position 1860.34 2936.61}
+	}
+	{Entity "railroad5" 0x4019
+		{Position 2121.6 2936.61}
+	}
+	{Entity "railroad5" 0x401a
+		{Position 2382.86 2936.61}
+	}
+	{Entity "railroad5_turn2b" 0x401b
+		{Position 2571.06 2919.45 -2}
+		{xform zl 159.66}
+	}
+	{Entity "railroad5_turn2b" 0x401c
+		{Position 2670.85 2853.36 -4}
+		{xform zl 133.29}
+	}
+	{Entity "railroad5_turn2b" 0x401d
+		{Position 2712.98 2745.84 -4}
+		{xform zl 89.48}
+	}
+	{Entity "railroad5_turn2b" 0x401e
+		{Position 2684.95 2629.43 -4}
+		{xform zl 63.43}
+	}
+	{Entity "railroad5" 0x401f
+		{Position 2570.84 2477.32}
+		{xform zl 50.58}
+	}
+	{Entity "railroad5" 0x4021
+		{Position 2404.93 2275.5}
+		{xform zl 50.58}
+	}
+	{Entity "steam_locomotive" 0x2000
+		{Position -2513.62 2838.58}
+		{xform zl 21.85}
+		{Volume "ram"
+			{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}}
+		}
+		{Player 0}
+		{MID 10024}
+		{Chassis
+			{Locomotive 1}
+			{Warmingup 1}
+		}
+	}
+	{Entity "trafficator2" 0x6000
+		{Position 2441.3 950.86}
+		{xform zl 8.15 scale 2.32}
+	}
+	{Human "civilian/civilian3" 0x6001
+		{Position -189.87 2623.32}
+		{Player 0}
+		{MID 10001}
+		{NameId 60 0}
+		{FsmState "stand"}
+	}
+	{Link 0x38 {0x4000 "door1"}}
+	{Link 0x57 {0x4020 "door1"}}
+	{Inventory 0x6001
+		{box
+			{clear}
+		}
+	}
+	{Slicer 0x38
+		{"piece01"}
+	}
+	{Slicer 0x57
+		{"piece01"}
+	}
+}

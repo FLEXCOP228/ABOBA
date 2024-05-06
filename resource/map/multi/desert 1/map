@@ -1,0 +1,21 @@
+{map
+	{Land
+		{Position 0 0}
+	}
+	{Clips
+		{"[auto]"
+			{world -3000 -3000 3000 3000}
+			{camera -3000 -3000 3000 3000}
+			{pather -3000 -3000 3000 3000}
+			{distance 200 800}
+			{viewAngle 20 50}
+		}
+	}
+	{Ocean
+		{active 0}
+		{state calm}
+		{zlevel 0}
+		{waveamount 8}
+		{wavedir 50}
+	}
+}

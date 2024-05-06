@@ -1,0 +1,68 @@
+{breed
+	{skin "eng_sniper"}
+	{portrait ukr_zelya}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality ger}
+	{armors
+		{head cap1_ger}
+	}
+	{perks
+		{"health" "1000%"
+		}
+		{"health_regeneration" "600%"
+		}
+		{"stamina" "600%"
+		}
+		{"stamina_regeneration" "500%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 10
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_5
+		}
+		{"smg" lvl_5
+		}
+		{"mgun" lvl_5
+		}
+		{"rifle" lvl_5
+		}
+		{"rocketlauncher" lvl_5
+		}
+		{"melee" lvl_5
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 1
+		}
+		{"lvl_2" 2
+		}
+		{"lvl_3" 3
+		}
+		{"lvl_4" 4
+		}
+		{"lvl_5" 5
+		}
+	}
+	{inventory
+		{item "bandage" 5}
+		{item "smoke_paradrop_ammo grenade"}
+		{item "plant" 3}
+		{item "knife_union"}
+		{item "mg42_120"}
+		{item "mgun ammo" 500}
+		{item "f1 grenade"}
+		{item "type99 grenade"}
+		{in_hands 0}
+	}
+}
