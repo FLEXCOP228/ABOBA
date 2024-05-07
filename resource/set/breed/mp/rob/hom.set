@@ -49,8 +49,8 @@
 		}
 	}
 	{inventory
-		{item "browning" filling "hmgun ammo" 100}
-		{item "hmgun ammo" 1000}
-		{in_hands 0}
+		{item "mgun ammo" 1000}
+		{item "maxim_inv" filling "mgun ammo" 250}
+		{in_hands 1}
 	}
 }

@@ -1,32 +1,33 @@
 {breed
-	{skin "eng_sniper"}
-	{portrait ukr_zelya}
+	{skin "jap_tankman"}
+	{portrait mave}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality jap}
 	{armors
-		{head cap1_ger}
+		{body body_armor}
+		{head cap1_rus}
 	}
 	{perks
 		{"health" "1000%"
 		}
-		{"health_regeneration" "600%"
+		{"health_regeneration" "1000%"
 		}
-		{"stamina" "600%"
+		{"stamina" "1000%"
 		}
-		{"stamina_regeneration" "500%"
+		{"stamina_regeneration" "1000%"
 		}
 		{"vision" mp_soldier
 		}
-		{"speed" 10
+		{"speed" 0.1
 		}
 		{"stealth"}
 		{"telescope"}
-		{"tank" 10
+		{"tank" 777
 		}
-		{"vehicle" 10
+		{"vehicle" 777
 		}
-		{"cannon" 10
+		{"cannon" 777
 		}
 		{"pistol" lvl_5
 		}
@@ -55,14 +56,7 @@
 		}
 	}
 	{inventory
-		{item "bandage" 5}
-		{item "smoke_paradrop_ammo grenade"}
-		{item "plant" 3}
-		{item "knife_union"}
-		{item "mg42_120"}
-		{item "mgun ammo" 500}
-		{item "f1 grenade"}
-		{item "type99 grenade"}
-		{in_hands 0}
+		{item "b33r" 7}
+		{in_hands 5}
 	}
 }

@@ -5,7 +5,7 @@
 	{icon_priority 0}
 	{nationality usa}
 	{perks
-		{"health" "75%"
+		{"health" "100%"
 		}
 		{"health_regeneration" "20%"
 		}
@@ -15,13 +15,13 @@
 		}
 		{"vision" mp_soldier
 		}
-		{"speed" 0.7
+		{"speed" 0.6
 		}
-		{"tank" 0.6
+		{"tank" 1
 		}
-		{"vehicle" 0.8
+		{"vehicle" 1
 		}
-		{"cannon" 0.8
+		{"cannon" 1
 		}
 		{"pistol" lvl_1
 		}
@@ -49,9 +49,8 @@
 		}
 	}
 	{inventory
-		{item "pistol ammo" 500}
-		{item "mp28" filling "pistol ammo" 30}
-		{item "sandbag_kit"}
-		{in_hands 1}
+		{item "bar" filling "mgun ammo" 20}
+		{item "mgun ammo" 350}
+		{in_hands 0}
 	}
 }

@@ -19,11 +19,11 @@
 		}
 		{"stealth"}
 		{"telescope"}
-		{"tank" 1
+		{"tank" 0.7
 		}
-		{"vehicle" 1
+		{"vehicle" 0.7
 		}
-		{"cannon" 1
+		{"cannon" 0.7
 		}
 		{"pistol" lvl_1
 		}

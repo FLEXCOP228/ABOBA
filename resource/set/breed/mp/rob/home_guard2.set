@@ -5,7 +5,7 @@
 	{icon_priority 0}
 	{nationality usa}
 	{perks
-		{"health" "125%"
+		{"health" "150%"
 		}
 		{"health_regeneration" "20%"
 		}
@@ -49,8 +49,10 @@
 		}
 	}
 	{inventory
-		{item "mp3008" filling "pistol ammo" 32}
 		{item "pistol ammo" 500}
-		{in_hands 0}
+		{item "mp41" filling "pistol ammo" 32}
+		{item "rpg43 grenade" 2}
+		{item "smoke grenade" 2}
+		{in_hands 1}
 	}
 }

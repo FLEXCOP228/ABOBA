@@ -1,16 +1,13 @@
 {breed
-	{skin "rus_medic"}
-	{portrait ukr_macaron}
+	{skin "ger_flamer"}
+	{portrait terrain_negative2_00}
 	{icon sniper}
 	{icon_priority 5}
 	{nationality ger}
-	{armors
-		{head cap1_usa}
-	}
 	{perks
-		{"health" "300%"
+		{"health" "100%"
 		}
-		{"health_regeneration" "30%"
+		{"health_regeneration" "100%"
 		}
 		{"stamina" "100%"
 		}
@@ -22,19 +19,19 @@
 		}
 		{"stealth"}
 		{"telescope"}
-		{"tank" 0.7
+		{"tank" 1
 		}
-		{"vehicle" 0.7
+		{"vehicle" 1
 		}
-		{"cannon" 0.7
+		{"cannon" 1
 		}
-		{"pistol" lvl_3
+		{"pistol" lvl_2
 		}
 		{"smg" lvl_1
 		}
 		{"mgun" lvl_1
 		}
-		{"rifle" lvl_3
+		{"rifle" lvl_2
 		}
 		{"rocketlauncher" lvl_1
 		}
@@ -55,11 +52,8 @@
 		}
 	}
 	{inventory
-		{item "bandage" 3}
-		{item "mauzer" filling "rifle ammo" 5}
-		{item "rifle ammo" 100}
-		{item "rpg43 grenade" 3}
-		{item "sandbag_kit"}
-		{in_hands 2}
+		{item "panzerfaust60 weapon" filling "panzerfaust60 ammo" 1}
+		{item "panzerfaust60 ammo"}
+		{in_hands 0}
 	}
 }

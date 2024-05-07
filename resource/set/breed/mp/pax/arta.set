@@ -1,0 +1,60 @@
+{breed
+	{skin "jap_t1"}
+	{portrait none}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality rus}
+	{perks
+		{"health" "125%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "100%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.8
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 0.7
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_2
+		}
+		{"smg" lvl_2
+		}
+		{"mgun" lvl_2
+		}
+		{"rifle" lvl_2
+		}
+		{"rocketlauncher" lvl_2
+		}
+		{"melee" lvl_2
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 6
+		}
+		{"lvl_2" 10
+		}
+		{"lvl_3" 20
+		}
+		{"lvl_4" 30
+		}
+		{"lvl_5" 50
+		}
+	}
+	{inventory
+		{item "bandage" 5}
+		{item "nagan_pb" filling "pistol ammo" 7}
+		{item "pistol ammo" 300}
+		{in_hands 1}
+	}
+}
