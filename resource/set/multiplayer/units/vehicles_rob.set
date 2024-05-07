@@ -5,7 +5,7 @@
 
 ;°°°Button 1°°°
 
-{"willysmb"              ("vs3" c(60) t(all) 			s(rob) n3(2) g(b1) sc(4.00) b(v1) cw(0) cp(0)) {level 2} {cost 110} {fore 1.0}}
+{"willysmb"              ("vs3" c(60) t(all) 			s(rob) n3(3) g(b1) sc(4.00) b(v1) cw(0) cp(0)) {level 2} {cost 110} {fore 1.0}}
 {"willysat"       ("vs3" c(60) t(all)			s(rob) n3(3) g(b2) sc(6.00) b(v1) cw(0) cp(0)) {level 4} {cost 150} {fore 1.0}}
 {"m3_usa"       ("vs3" c(300) t(all) 		s(rob) n3(2) g(b3) sc(6.25) b(v1) cw(0) cp(0)) {level 6} {cost 150} {fore 0.5}}
 

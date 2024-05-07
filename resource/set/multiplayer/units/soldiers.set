@@ -66,6 +66,7 @@
 {"mp/ger2/vehicle_supporter" ("vehicle_supporter" side(ger2))}
 {"mp/pax/vehicle_supporter" ("vehicle_supporter" side(pax))}
 {"mp/ukr/vehicle_supporter" ("vehicle_supporter" side(ukr))}
+{"mp/rob/vehicle_supporter" ("vehicle_supporter" side(rob))}
 
 
 
