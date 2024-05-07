@@ -39,8 +39,20 @@
     {content "* ( mp/%s/tankman:%n1 mp/%s/tankman2:%n2)"}
 )
 
+; 1 vehicle with tankmen
+(define "v"
+    ("generic_v" c(%c) sc(%sc) t(%t %s) g(%g) b(%b) cw(%cw) cp(%cp))
+    {content "* ( mp/%s/tankman1:%n1 mp/%s/tankman2:%n2)"}
+)
+
 ; 1 vehicle with supporters
 (define "vs"
+    ("generic_v" c(%c) sc(%sc) t(%t %s) g(%g) b(%b) cw(%cw) cp(%cp))
+    {content "* ( mp/%s/vehicle_supporter:%n )"}
+)
+
+; 1 vehicle with supporters
+(define "vs1"
     ("generic_v" c(%c) sc(%sc) t(%t %s) g(%g) b(%b) cw(%cw) cp(%cp))
     {content "* ( mp/%s/vehicle_supporter:%n )"}
 )

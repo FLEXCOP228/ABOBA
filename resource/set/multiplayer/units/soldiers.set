@@ -16,6 +16,20 @@
 
 
 
+(define "tankman1"
+    {tags   "tankman1 %side crew man"}
+    {cp     2.0}
+    {score  0.25}
+    {basic}
+    {breed}
+    {cw 0.25}
+)
+{"mp/pax/tankman1" ("tankman1" side(pax))}
+{"mp/rob/tankman1" ("tankman1" side(rob))}
+{"mp/ukr/tankman1" ("tankman1" side(ukr))}
+
+
+
 (define "tankman2"
     {tags   "tankman %side crew man"}
     {cp     2.0}
@@ -30,6 +44,9 @@
 {"mp/eng/tankman2" ("tankman2" side(eng))}
 {"mp/jap/tankman2" ("tankman2" side(jap))}
 {"mp/ger2/tankman2" ("tankman2" side(ger2))}
+{"mp/pax/tankman2" ("tankman2" side(pax))}
+{"mp/rob/tankman2" ("tankman2" side(rob))}
+{"mp/ukr/tankman2" ("tankman2" side(ukr))}
 
 
 
@@ -47,6 +64,8 @@
 {"mp/eng/vehicle_supporter" ("vehicle_supporter" side(eng))}
 {"mp/jap/vehicle_supporter" ("vehicle_supporter" side(jap))}
 {"mp/ger2/vehicle_supporter" ("vehicle_supporter" side(ger2))}
+{"mp/pax/vehicle_supporter" ("vehicle_supporter" side(pax))}
+{"mp/ukr/vehicle_supporter" ("vehicle_supporter" side(ukr))}
 
 
 
