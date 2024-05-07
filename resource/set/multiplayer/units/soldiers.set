@@ -172,6 +172,18 @@
 
 
 
+(define "tractorist"
+    {tags   "tractorist %side infantry man"}
+    {cp     2.0}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/tra/tractorist" ("tractorist" side(tra))}
+
+
+
 (define "homs"
     {tags   "smg %side infantry man"}
     {cp     2.5}

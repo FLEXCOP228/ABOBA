@@ -374,7 +374,7 @@
 			{fire_mode hold}
 		}
 	}
-	{Environment "skirmish/1"}
+	{Environment "1"}
 	{Helpers
 		{reinforcements
 			{scoreTotal 0}
@@ -392,7 +392,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -413,7 +413,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -441,7 +441,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -469,7 +469,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -497,7 +497,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -525,7 +525,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -553,7 +553,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -581,7 +581,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -609,7 +609,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -633,7 +633,7 @@
 						}
 						{"default"
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}

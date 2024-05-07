@@ -281,7 +281,7 @@
 	{Tags "keep_places_without_door" {0x9e "05"}}
 	{Tags "keep_places_without_door" {0x9e "12"}}
 	{Tags "keep_places_without_door" {0x203e "c17"}}
-	{Environment "skirmish/1"}
+	{Environment "1"}
 	{Helpers
 		{reinforcements
 			{scoreTotal 0}
@@ -299,7 +299,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -320,7 +320,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -348,7 +348,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -376,7 +376,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -404,7 +404,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -432,7 +432,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -460,7 +460,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -488,7 +488,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -516,7 +516,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}
@@ -540,7 +540,7 @@
 						}
 						{"default"
 							{"environment"
-								{name "skirmish/1"}
+								{name "1"}
 								{time -1}
 								{apply}
 							}

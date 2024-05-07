@@ -52,9 +52,15 @@
 )
 
 ; 1 vehicle with supporters
+(define "vs3"
+    ("generic_v" c(%c) sc(%sc) t(%t %s) g(%g) b(%b) cw(%cw) cp(%cp))
+    {content "* ( mp/%s/vehicle_supporter:%n3 )"}
+)
+
+; 1 vehicle with tractor
 (define "vs1"
     ("generic_v" c(%c) sc(%sc) t(%t %s) g(%g) b(%b) cw(%cw) cp(%cp))
-    {content "* ( mp/%s/vehicle_supporter:%n )"}
+    {content "* ( mp/%s/tractorist:%n5 )"}
 )
 
 
