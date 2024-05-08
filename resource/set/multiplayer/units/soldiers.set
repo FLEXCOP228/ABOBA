@@ -96,6 +96,21 @@
 
 
 
+(define "farcs"
+    {tags   "farcs %side infantry man"}
+    {cp     1.875}
+    {score  0.25}
+    {basic}
+    {breed}
+    {cw 0.5}
+)
+{"mp/ukr/farc" ("farcs" side(ukr))}
+{"mp/ukr/farc1" ("farcs" side(ukr))}
+{"mp/pax/farc" ("farcs" side(pax))}
+{"mp/pax/farc1" ("farcs" side(pax))}
+
+
+
 (define "rifle"
     {tags   "rifle %side infantry man"}
     {cp     2.5}
@@ -170,6 +185,20 @@
     {cw 1.0}
 )
 {"mp/pax/paxom" ("paxoms" side(pax))}
+
+
+
+(define "shews"
+    {tags   "shews %side infantry man"}
+    {cp     3.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/ukr/shew" ("shews" side(ukr))}
+{"mp/pax/shew" ("shews" side(pax))}
+{"mp/rob/shew" ("shews" side(rob))}
 
 
 

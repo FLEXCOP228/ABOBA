@@ -271,15 +271,22 @@
 				{"vehicle_supporter" "<c(c3baae)>солдат"}
 			}
 			{"ukr"
+				{"shew" "<c(c3baae)>Шевцов"}
+				{"farc" "<c(c3baae)>Фаршмясовец"}
+				{"farc1" "<c(c3baae)>Фаршмясовец"}
 				{"zelya" "<c(c3baae)>Зеля"}
 				{"malkov" "<c(c3baae)>Александр Малков"}
 				{"macaron" "<c(c3baae)>Макарон"}
 			}
 			{"pax"
+				{"shew" "<c(c3baae)>Шевцов"}
+				{"farc" "<c(c3baae)>Фаршмясовец"}
+				{"farc1" "<c(c3baae)>Фаршмясовец"}
 				{"katz" "<c(c3baae)>Кац"}
 				{"paxom" "<c(c3baae)>Пахом"}
 			}
 			{"rob"
+				{"shew" "<c(c3baae)>Шевцов"}
 				{"hom400" "<c(c3baae)>Четыхсотый(Т-400)"}
 				{"hom" "<c(c3baae)>Т-600"}
 				{"home_guard" "<c(c3baae)>Т-800"}
@@ -339,6 +346,11 @@
 		}
 	}
 	{"squad"
+		{"shews(ukr)" "Шевцовы"}
+		{"shews(pax)" "Шевцовы"}
+		{"shews(rob)" "Шевцовы"}
+		{"farcs(pax)" "ЧВК Фаршмяс"}
+		{"farcs(ukr)" "ЧВК Фаршмяс"}
 		{"zelyn(ukr)" "95 квартал"}
 		{"malkovs(ukr)" "ОрДа МаЛкОвЫх"}
 		{"macarons(ukr)" "Макарон"}

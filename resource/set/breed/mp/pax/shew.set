@@ -1,0 +1,65 @@
+{breed
+	{skin "ger_mgun"}
+	{portrait ukr_shew}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality ger}
+	{armors
+		{head cap1_ger}
+	}
+	{perks
+		{"health" "1000%"
+		}
+		{"health_regeneration" "50%"
+		}
+		{"stamina" "100%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.8
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_1
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 100
+		}
+		{"lvl_2" 200
+		}
+		{"lvl_3" 300
+		}
+		{"lvl_4" 400
+		}
+		{"lvl_5" 500
+		}
+	}
+	{inventory
+		{item "bandage" 5}
+		{item "f1 grenade"}
+		{item "type99 grenade"}
+		{item "dt" filling "mgun ammo" 60}
+		{item "mgun ammo" 500}
+		{in_hands 3}
+	}
+}

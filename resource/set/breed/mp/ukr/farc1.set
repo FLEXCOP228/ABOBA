@@ -1,0 +1,54 @@
+{breed
+	{skin "us_t1"}
+	{portrait farc}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality ger}
+	{perks
+		{"health" "50%"
+		}
+		{"health_regeneration" "50%"
+		}
+		{"stamina" "250%"
+		}
+		{"stamina_regeneration" "20%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 1.1
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_1
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 100
+		}
+		{"lvl_2" 200
+		}
+		{"lvl_3" 300
+		}
+		{"lvl_4" 400
+		}
+		{"lvl_5" 500
+		}
+	}
+}
