@@ -1,0 +1,9 @@
+;SDL
+{textures
+	{alpha alpha_channel 		; битмапы альфа-блендом
+		(include "alpha.inc")
+    }
+	{light 						; битмапы с лайт-прозрачностью
+		(include "light.inc")
+	}
+} 
