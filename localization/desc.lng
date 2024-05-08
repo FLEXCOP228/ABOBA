@@ -819,8 +819,10 @@
 		{"pz1b_ger2" "PzKpfw I Ausf.B"}
 		{"pz2f" "PzKpfw II Ausf.F"}
 		{"pz2l" "PzKpfw II Luchs"}
-		{"pz3" "PzKpfw III Ausf.J"}
+		{"pz3" "Пупзик 3 джэй"}
 		{"pz3_ger2" "PzKpfw III Ausf.J"}
+		{"pz3_pax" "Пупзик 3 джэй"}
+		{"pz3_ukr" "Пупзик 3 джэй"}
 		{"pz3f" "PzKpfw III Ausf.G"}
 		{"pz3f_ger2" "PzKpfw III Ausf.G"}
 		{"pz3m" "Тральщик Pz III"}
