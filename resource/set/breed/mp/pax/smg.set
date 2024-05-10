@@ -1,0 +1,65 @@
+{breed
+	{skin "us_t4"}
+	{portrait skinx}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality rus}
+	{armors
+		{head fieldcap1_rus}
+	}
+	{perks
+		{"health" "150%"
+		}
+		{"health_regeneration" "125%"
+		}
+		{"stamina" "125%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.9
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 0.7
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_2
+		}
+		{"smg" lvl_2
+		}
+		{"mgun" lvl_2
+		}
+		{"rifle" lvl_2
+		}
+		{"rocketlauncher" lvl_2
+		}
+		{"melee" lvl_2
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 3
+		}
+		{"lvl_2" 4
+		}
+		{"lvl_3" 10
+		}
+		{"lvl_4" 20
+		}
+		{"lvl_5" 45
+		}
+	}
+	{inventory
+		{item "bandage" 3}
+		{item "m61 grenade"}
+		{item "molotov_coctail grenade"}
+		{item "m50reising" filling "pistol ammo" 20}
+		{item "pistol ammo" 1000}
+		{in_hands 3}
+	}
+}

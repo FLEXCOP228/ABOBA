@@ -9,5 +9,5 @@
 	{healthDamage 200}
 	{recoveryTime 0.60}
 	("accuracy_rifle")
-	("speed" s(840))
+	("speed" s(55))
 }
