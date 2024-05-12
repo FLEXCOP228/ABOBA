@@ -19,7 +19,7 @@
 		}
 		{"vision" mp_soldier
 		}
-		{"speed" 0.1
+		{"speed" 0.2
 		}
 		{"stealth"}
 		{"telescope"}

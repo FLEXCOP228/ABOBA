@@ -5,7 +5,7 @@
 	{icon_priority 0}
 	{nationality usa}
 	{perks
-		{"health" "100%"
+		{"health" "200%"
 		}
 		{"health_regeneration" "20%"
 		}
@@ -15,7 +15,7 @@
 		}
 		{"vision" mp_soldier
 		}
-		{"speed" 0.7
+		{"speed" 0.8
 		}
 		{"tank" 1
 		}
@@ -37,15 +37,15 @@
 		}
 	}
 	{veterancy
-		{"lvl_1" 1
+		{"lvl_1" 3
 		}
-		{"lvl_2" 3
+		{"lvl_2" 5
 		}
-		{"lvl_3" 5
+		{"lvl_3" 10
 		}
-		{"lvl_4" 10
+		{"lvl_4" 20
 		}
-		{"lvl_5" 20
+		{"lvl_5" 30
 		}
 	}
 	{inventory

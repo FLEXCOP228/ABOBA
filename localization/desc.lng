@@ -277,8 +277,15 @@
 				{"zelya" "<c(c3baae)>Зеля"}
 				{"malkov" "<c(c3baae)>Александр Малков"}
 				{"macaron" "<c(c3baae)>Макарон"}
+				{"bandera" "<c(c3baae)>Степан Бандера"}
+				{"bandera2" "<c(c3baae)>Степан Бандера"}
 			}
 			{"pax"
+				{"tesas" "<c(c3baae)>Тесак"}
+				{"smg" "<c(c3baae)>Скинхед"}
+				{"rifle" "<c(c3baae)>Скинхед"}
+				{"babka" "<c(c3baae)>Бабка из отрядов путина"}
+				{"babka2" "<c(c3baae)>Бабка из отрядов путина"}
 				{"shew" "<c(c3baae)>Шевцов"}
 				{"farc" "<c(c3baae)>Фаршмясовец"}
 				{"farc1" "<c(c3baae)>Фаршмясовец"}
@@ -349,6 +356,9 @@
 		{"shews(ukr)" "Шевцовы"}
 		{"shews(pax)" "Шевцовы"}
 		{"shews(rob)" "Шевцовы"}
+		{"babkas(pax)" "Отряды путина"}
+		{"banderas(ukr)" "Бандеры"}
+		{"tesass(pax)" "Скинхеды"}
 		{"farcs(pax)" "ЧВК Фаршмяс"}
 		{"farcs(ukr)" "ЧВК Фаршмяс"}
 		{"zelyn(ukr)" "95 квартал"}

@@ -60,6 +60,7 @@
 		{item "molotov_coctail grenade"}
 		{item "sks" filling "rifle ammo" 10}
 		{item "rifle ammo" 100}
+		{item "sandbag_kit"}
 		{in_hands 3}
 	}
 }

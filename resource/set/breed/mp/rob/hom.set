@@ -5,19 +5,19 @@
 	{icon_priority 0}
 	{nationality usa}
 	{perks
-		{"health" "1000%"
+		{"health" "600%"
 		}
-		{"health_regeneration" "20%"
+		{"health_regeneration" "30%"
 		}
-		{"stamina" "300%"
+		{"stamina" "400%"
 		}
-		{"stamina_regeneration" "300%"
+		{"stamina_regeneration" "400%"
 		}
 		{"vision" mp_soldier
 		}
-		{"speed" 0.9
+		{"speed" 0.5
 		}
-		{"tank" 0.6
+		{"tank" 0.5
 		}
 		{"vehicle" 0.8
 		}
@@ -37,15 +37,15 @@
 		}
 	}
 	{veterancy
-		{"lvl_1" 11111
+		{"lvl_1" 50
 		}
-		{"lvl_2" 31111
+		{"lvl_2" 100
 		}
-		{"lvl_3" 11111
+		{"lvl_3" 200
 		}
-		{"lvl_4" 11111
+		{"lvl_4" 400
 		}
-		{"lvl_5" 11111
+		{"lvl_5" 800
 		}
 	}
 	{inventory

@@ -60,6 +60,7 @@
 		{item "molotov_coctail grenade"}
 		{item "m50reising" filling "pistol ammo" 20}
 		{item "pistol ammo" 1000}
+		{item "rg42x3 grenade"}
 		{in_hands 3}
 	}
 }

@@ -125,6 +125,7 @@
 {"mp/eng/rifle" ("rifle" side(eng))}
 {"mp/jap/rifle" ("rifle" side(jap))}
 {"mp/ger2/rifle" ("rifle" side(ger2))}
+{"mp/pax/rifle" ("rifle" side(pax))}
 
 {"mp/rus/rifle2" ("rifle" side(rus))}
 {"mp/ger/rifle2" ("rifle" side(ger))}
@@ -163,6 +164,7 @@
 {"mp/ger/smg" ("smg" side(ger))}
 {"mp/jap/smg" ("smg" side(jap))}
 {"mp/ger2/smg" ("smg" side(ger2))}
+{"mp/pax/smg" ("smg" side(pax))}
 
 {"mp/rus/smg2" ("smg" side(rus))}
 {"mp/usa/smg2" ("smg" side(usa))}
@@ -185,6 +187,42 @@
     {cw 1.0}
 )
 {"mp/pax/paxom" ("paxoms" side(pax))}
+
+(define "tesas"
+    {tags   "tesas %side infantry man"}
+    {cp     2.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/pax/tesas" ("tesas" side(pax))}
+
+
+
+(define "babkas"
+    {tags   "babkas %side infantry man"}
+    {cp     2.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/pax/babka" ("babkas" side(pax))}
+{"mp/pax/babka2" ("babkas" side(pax))}
+
+
+
+(define "banderas"
+    {tags   "banderas %side infantry man"}
+    {cp     2.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/ukr/bandera" ("banderas" side(ukr))}
+{"mp/ukr/bandera2" ("banderas" side(ukr))}
 
 
 

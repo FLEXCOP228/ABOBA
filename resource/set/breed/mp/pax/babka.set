@@ -1,0 +1,65 @@
+{breed
+	{skin "ger_officer"}
+	{portrait zov}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality rus}
+	{armors
+		{head warden_furcap}
+	}
+	{perks
+		{"health" "250%"
+		}
+		{"health_regeneration" "150%"
+		}
+		{"stamina" "125%"
+		}
+		{"stamina_regeneration" "125%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.8
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 0.8
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_4
+		}
+		{"smg" lvl_4
+		}
+		{"mgun" lvl_3
+		}
+		{"rifle" lvl_4
+		}
+		{"rocketlauncher" lvl_4
+		}
+		{"melee" lvl_4
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 2
+		}
+		{"lvl_2" 4
+		}
+		{"lvl_3" 8
+		}
+		{"lvl_4" 12
+		}
+		{"lvl_5" 30
+		}
+	}
+	{inventory
+		{item "bandage" 4}
+		{item "rifle ammo" 500}
+		{item "type3at_a grenade" 2}
+		{item "svt40" filling "rifle ammo" 10}
+		{item "sandbag_kit"}
+		{in_hands 3}
+	}
+}

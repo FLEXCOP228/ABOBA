@@ -11,7 +11,7 @@
 		{spreading 0.1}
 	}	
 	{damage blastwave
-		{energy 2.0} ; kg
+		{energy 3.0} ; kg
 		{area 0.5 5.0}
 	}
 	{possibleDamageRadius 4}

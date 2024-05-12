@@ -53,7 +53,7 @@
 	}
 	{inventory
 		{item "thompson_30" filling "pistol ammo" 30}
-		{item "bandage" 4}
+		{item "bandage" 5}
 		{item "pistol ammo" 750}
 		{item "m61 grenade"}
 		{item "rg42x3 grenade"}

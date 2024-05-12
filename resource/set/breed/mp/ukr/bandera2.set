@@ -1,0 +1,67 @@
+{breed
+	{skin "us_flamer"}
+	{portrait bandera}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality ger}
+	{perks
+		{"health" "300%"
+		}
+		{"health_regeneration" "125%"
+		}
+		{"stamina" "125%"
+		}
+		{"stamina_regeneration" "125%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 1.1
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 0.8
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_4
+		}
+		{"smg" lvl_4
+		}
+		{"mgun" lvl_4
+		}
+		{"rifle" lvl_4
+		}
+		{"rocketlauncher" lvl_4
+		}
+		{"melee" lvl_4
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 5
+		}
+		{"lvl_2" 10
+		}
+		{"lvl_3" 20
+		}
+		{"lvl_4" 30
+		}
+		{"lvl_5" 40
+		}
+	}
+	{inventory
+		{item "bandage" 10}
+		{item "rpg43 grenade" 3}
+		{item "sandbag_kit"}
+		{item "molotov_coctail grenade"}
+		{item "smoke grenade"}
+		{item "m24 grenade" 2}
+		{item "dynamite_ladung"}
+		{item "mp40" filling "pistol ammo" 32}
+		{item "pistol ammo" 1000}
+		{item "smoke_paradrop_ammo grenade"}
+		{in_hands 7}
+	}
+}
