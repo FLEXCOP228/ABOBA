@@ -17,9 +17,9 @@
 	}
 
 
-	("armor_medium" turret(80 80 80 80) body(80 80 80 82))
-	("armor_engine"  t(80 80 80 80))
-	("armor_mantlet" t(80))
+	("armor_medium" turret(77 77 77 77) body(77 77 77 76))
+	("armor_engine"  t(77 77 77 77))
+	("armor_mantlet" t(77))
 
 	("crew_4_human")
 

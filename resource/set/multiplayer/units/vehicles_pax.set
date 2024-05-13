@@ -20,7 +20,7 @@
 
 {"degtyarev_stan"   ("vs3" c(300) t(all cannon) 	s(pax) n3(2) g(c1) sc(5.25) b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 1.0}}
 {"dshk_stan"        ("vs3" c(300) t(all cannon) 	s(pax) n3(2) g(c2) sc(7.50) b(v2) cw(2) cp(5)) {level 3} {cost 150} {fore 0.5}}
-{"bm37"             ("vs3" c(300) t(all cannon mediumcan) 	s(pax) n3(2) g(c3) sc(16.75) b(v2) cw(2) cp(5)) {level 5} {cost 325} {fore 1.0}}
+{"bm37"             ("vs3" c(300) t(all cannon mediumcan) 	s(pax) n3(2) g(c3) sc(16.75) b(v2) cw(2) cp(5)) {level 5} {cost 333} {fore 1.0}}
 
 {"m37"              ("vs3" c(0) t(all cannon) 	s(pax) n3(2) g(c4) sc(6.75)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}
 {"zis3"             ("vs3" c(0) t(all cannon mediumcan) 	s(pax) n3(2) g(c6) sc(11.00) b(v2) cw(2) cp(10)) {level 1} {cost 220} {fore 1.0}}
@@ -30,14 +30,16 @@
 
 ;같캛utton 3같�
 
-{"t26"              ("v" c(150) t(all light arcade) s(pax) n1(2) n2(1) g(d3) sc(10.00) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 0}}
+{"t26"              ("v" c(0) t(all light arcade) s(pax) n1(2) n2(1) g(d3) sc(10.00) b(v3) cw(0) cp(5)) {level 1} {cost 205} {fore 0}}
+{"sdkfz234"              ("v" c(0) t(all light arcade) s(pax) n1(2) n2(1) g(d3) sc(10.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 0}}
+{"t20"              ("v" c(0) t(all light arcade) s(pax) n1(2) n2(1) g(d3) sc(10.00) b(v3) cw(0) cp(5)) {level 1} {cost 133} {fore 0}}
 
 
 
 
 ;같캛utton 4같�
 
-{"pz3_pax"             ("v" c(0) t(all medium) 		s(pax) n1(2) n2(1) g(e1) sc(16.00) b(v4) cw(0) cp(15)) {level 4} {cost 320} {fore 1.0}}
+{"pz3_pax"             ("v" c(0) t(all medium) 		s(pax) n1(2) n2(1) g(e1) sc(16.00) b(v4) cw(0) cp(15)) {level 4} {cost 355} {fore 1.0}}
 
 
 

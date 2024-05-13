@@ -840,7 +840,7 @@
 		{"pz1b" "PzKpfw I Ausf.B"}
 		{"pz1b_ger2" "PzKpfw I Ausf.B"}
 		{"pz2f" "PzKpfw II Ausf.F"}
-		{"pz2l" "PzKpfw II Luchs"}
+		{"pz2l" "Люк"}
 		{"pz3" "Пупзик 3 джэй"}
 		{"pz3_ger2" "PzKpfw III Ausf.J"}
 		{"pz3_pax" "Пупзик 3 джэй"}
@@ -877,7 +877,7 @@
 		{"sdkfz222" "SdKfz 222"}
 		{"sdkfz223" "SdKfz 223"}
 		{"sdkfz232" "SdKfz 232"}
-		{"sdkfz234" "SdKfz 234 \"Пума\""}
+		{"sdkfz234" "Пумик"}
 		{"sdkfz234_ger2" "SdKfz.234 \"Пума\""}
 		{"sdkfz234_1" "SdKfz.234/1"}
 		{"sdkfz234_3" "SdKfz.234/3"}
@@ -907,7 +907,7 @@
 		{"su85" "СУ-85"}
 		{"su100" "СУ-100"}
 		{"swg41" "SWG.41"}
-		{"t20" "T-20 \"Комсомолец\""}
+		{"t20" "МАШИНА СМЕРТИ"}
 		{"t26" "Т-26"}
 		{"t29" "Т29"}
 		{"t34_0" "Т-34/76"}
