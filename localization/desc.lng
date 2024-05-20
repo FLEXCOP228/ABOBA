@@ -275,10 +275,10 @@
 				{"farc" "<c(c3baae)>Фаршмясовец"}
 				{"farc1" "<c(c3baae)>Фаршмясовец"}
 				{"zelya" "<c(c3baae)>Зеля"}
-				{"malkov" "<c(c3baae)>Александр Малков"}
 				{"macaron" "<c(c3baae)>Макарон"}
 				{"bandera" "<c(c3baae)>Степан Бандера"}
 				{"bandera2" "<c(c3baae)>Степан Бандера"}
+				{"obor" "<c(c3baae)>Майданутый"}
 			}
 			{"pax"
 				{"tesas" "<c(c3baae)>Тесак"}
@@ -291,6 +291,7 @@
 				{"farc1" "<c(c3baae)>Фаршмясовец"}
 				{"katz" "<c(c3baae)>Кац"}
 				{"paxom" "<c(c3baae)>Пахом"}
+				{"malkov" "<c(c3baae)>Александр Малков"}
 			}
 			{"rob"
 				{"shew" "<c(c3baae)>Шевцов"}
@@ -353,6 +354,8 @@
 		}
 	}
 	{"squad"
+		{"obors(ukr)" "Самооборона Майдана"}
+		{"pods(pax)" "Секс отряд Поднебесного"}
 		{"shews(ukr)" "Шевцовы"}
 		{"shews(pax)" "Шевцовы"}
 		{"shews(rob)" "Шевцовы"}
@@ -362,7 +365,7 @@
 		{"farcs(pax)" "ЧВК Фаршмяс"}
 		{"farcs(ukr)" "ЧВК Фаршмяс"}
 		{"zelyn(ukr)" "95 квартал"}
-		{"malkovs(ukr)" "ОрДа МаЛкОвЫх"}
+		{"malkovs(pax)" "ОрДа МаЛкОвЫх"}
 		{"macarons(ukr)" "Макарон"}
 		{"kats(pax)" "Максим сас"}
 		{"paxoms(pax)" "ПоЕхАвШиЙ"}

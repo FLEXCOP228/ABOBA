@@ -1,0 +1,64 @@
+{breed
+	{skin "rus_sniper"}
+	{portrait pod1}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality rus}
+	{armors
+		{head rw_cap}
+	}
+	{perks
+		{"health" "75%"
+		}
+		{"health_regeneration" "150%"
+		}
+		{"stamina" "125%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.8
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 0.8
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_2
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 3
+		}
+		{"lvl_2" 4
+		}
+		{"lvl_3" 10
+		}
+		{"lvl_4" 20
+		}
+		{"lvl_5" 45
+		}
+	}
+	{inventory
+		{item "bandage" 3}
+		{item "molotov_coctail grenade"}
+		{item "g43_scope" filling "rifle ammo" 10}
+		{item "rifle ammo" 250}
+		{in_hands 2}
+	}
+}

@@ -96,6 +96,18 @@
 
 
 
+(define "obor"
+    {tags   "obor %side infantry man"}
+    {cp     1.875}
+    {score  0.25}
+    {basic}
+    {breed}
+    {cw 0.5}
+)
+{"mp/ukr/obor" ("obor" side(ukr))}
+
+
+
 (define "farcs"
     {tags   "farcs %side infantry man"}
     {cp     1.875}
@@ -147,6 +159,19 @@
     {cw 1.0}
 )
 {"mp/rus/rifle3" ("rifle_lowcp" side(rus))}
+
+
+
+(define "pod"
+    {tags   "pod %side infantry man"}
+    {cp     3.5}
+    {score  0.60}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/pax/pod" ("pod" side(pax))}
+{"mp/pax/pod2" ("pod" side(pax))}
 
 
 
@@ -662,7 +687,7 @@
     {breed}
     {cw 10.0}
 )
-{"mp/ukr/malkov" ("malkovs" side(ukr))}
+{"mp/pax/malkov" ("malkovs" side(pax))}
 
 (define "macarons"
     {tags   "oficer %side spec infantry man"}

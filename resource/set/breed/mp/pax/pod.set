@@ -1,0 +1,64 @@
+{breed
+	{skin "us_sniper"}
+	{portrait pod2}
+	{icon sniper}
+	{icon_priority 5}
+	{nationality rus}
+	{armors
+		{head winterhat}
+	}
+	{perks
+		{"health" "100%"
+		}
+		{"health_regeneration" "125%"
+		}
+		{"stamina" "125%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.9
+		}
+		{"stealth"}
+		{"telescope"}
+		{"tank" 0.7
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_2
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		{"lvl_1" 3
+		}
+		{"lvl_2" 4
+		}
+		{"lvl_3" 10
+		}
+		{"lvl_4" 20
+		}
+		{"lvl_5" 45
+		}
+	}
+	{inventory
+		{item "bandage" 2}
+		{item "rg42x3 grenade"}
+		{item "mosin_s" filling "rifle ammo" 5}
+		{item "rifle ammo" 750}
+		{in_hands 2}
+	}
+}
