@@ -1,0 +1,62 @@
+{map
+	{Land
+		{Position 0 0}
+	}
+	{Clips
+		{"[auto]"
+			{world -2000 -2000 2000 2000}
+			{camera -2000 -2000 2000 2000}
+			{pather -2000 -2000 2000 2000}
+			{distance 200 800}
+			{viewAngle 20 50}
+		}
+	}
+	{Ocean
+		{active 0}
+		{state calm}
+		{zlevel 0}
+		{waveamount 8}
+		{wavedir 50}
+	}
+	{Entity "new_bench" 0x2
+		{Position 243.15 368.65}
+	}
+	{Entity "new_bench" 0x3
+		{Position 281.87 376.04}
+	}
+	{Entity "new_bench" 0x4
+		{Position 323.29 402.42}
+	}
+	{Entity "new_bench" 0x5
+		{Position 359.95 422.13}
+	}
+	{Entity "new_bench" 0x8
+		{Position 536.09 416.01}
+	}
+	{Entity "new_bench" 0x9
+		{Position 568.24 398.61}
+	}
+	{Entity "new_bench" 0xa
+		{Position 608.36 397.95}
+	}
+	{Entity "new_bench" 0x4000
+		{Position 506.47 421.58}
+	}
+	{Entity "e_cafe_place2" 0x4001
+		{Position 434.76 121.55 0}
+	}
+	{Entity "statue" 0x4002
+		{Position 673.35 277.47 19}
+	}
+	{Entity "statue" 0x4003
+		{Position 179.79 272.3 19}
+	}
+	{Entity "school_ru" 0x4004
+		{Position 405.5 121.82 19}
+		{xform scale 0.897}
+	}
+	{Entity "school_ru_inn_r_1_1" 0x4066
+		{AreaDisable "left"}
+	}
+	{Link 0x4066 {0x4004 "72"}}
+}

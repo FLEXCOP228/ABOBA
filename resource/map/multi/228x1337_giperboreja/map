@@ -1,0 +1,331 @@
+{map
+	{Land
+		{Position 0 0}
+	}
+	{Clips
+		{"[auto]"
+			{world -5000 -5000 5000 5000}
+			{camera -5000 -5000 5000 5000}
+			{pather -5000 -5000 5000 5000}
+			{distance 200 800}
+			{viewAngle 20 50}
+		}
+	}
+	{Ocean
+		{active}
+		{state smooth}
+		{zlevel -50}
+		{waveamount 8}
+		{wavedir 50}
+	}
+	{Entity "church2" 0x4036
+		{Position -731.34 -491.78}
+		{xform zl 163.76 scale 1.19}
+	}
+	{Entity "e-house03a1" 0x4037
+		{Position -219.44 218.4}
+		{xform zl 108.44 scale 1.797}
+	}
+	{Entity "e-house03a1" 0x4051
+		{Position -1097.89 -300.53 442.94}
+		{xform zl -102.41}
+	}
+	{Entity "statue2" 0x405b
+		{Position -725.72 -1617.61}
+	}
+	{Entity "control_tower_lamp" 0x1017
+		{Position -912.57 -3796.05 -1018.86}
+		{xform zl -33.86 y 167.58 zw -105.93}
+		{SkeletonSrc "control_tower_lamp_x"}
+		{PillarFallen}
+		{Simulation {Able 1}}
+		{Extender "light"
+			{lamp "1" off broken}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+		{DisableObstacles}
+	}
+	{Entity "control_tower_lamp" 0x1018
+		{Position -992.91 -3844.74 -1018.86}
+		{xform zl -179.36 y 134.05 zw -50.45}
+		{SkeletonSrc "control_tower_lamp_x"}
+		{PillarFallen}
+		{Simulation {Able 1}}
+		{Extender "light"
+			{lamp "1" off broken}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+		{DisableObstacles}
+	}
+	{Entity "control_tower_lamp" 0x101a
+		{Position -1117.2 -3793.48 -1018.86}
+		{xform zl 30 y 134.23 zw -169.75}
+		{SkeletonSrc "control_tower_lamp_x"}
+		{PillarFallen}
+		{Simulation {Able 1}}
+		{Extender "light"
+			{lamp "1" off broken}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+		{DisableObstacles}
+	}
+	{Entity "control_tower_lamp" 0x101b
+		{Position -1143.19 -3855.36 -1018.86}
+		{xform zl -28.29 y 146.13 zw 158.43}
+		{SkeletonSrc "control_tower_lamp_x"}
+		{PillarFallen}
+		{Simulation {Able 1}}
+		{Extender "light"
+			{lamp "1" off broken}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+		{DisableObstacles}
+	}
+	{Entity "fountain" 0x1038
+		{Position -705.59 21.48}
+		{xform zl 77.09 scale 2.713}
+	}
+	{Entity "control_tower_f1c1" 0x4100
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f1c4" 0x4101
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f1c3" 0x4102
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f2c4" 0x4104
+		{SkeletonSrc "control_tower_f2c4_x"}
+		{Volume "body190"
+			{able {visible 1}}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f2c3" 0x4105
+		{SkeletonSrc "control_tower_f2c3_x"}
+		{Volume "body187"
+			{able {visible 1}}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f2c1" 0x4107
+		{Volume "body189"
+			{able {visible 1}}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f2f4" 0x4108
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f2f1" 0x410a
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f1p2" 0x410c
+		{Volume "body200"
+			{able {bullet 0}{contact 0}{blast 0}}
+		}
+		{Volume "body201"
+			{able {bullet 0}{contact 0}{blast 0}}
+		}
+		{Volume "body202"
+			{able {bullet 0}{contact 0}{blast 0}}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_f1p1" 0x410d
+		{Volume "body206"
+			{able {bullet 0}{contact 0}{blast 0}}
+		}
+		{Volume "body207"
+			{able {bullet 0}{contact 0}{blast 0}}
+		}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_a3" 0x4112
+		{SkeletonSrc "control_tower_a3_x"}
+		{UseShadow 0}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower_t1" 0x4113
+		{SkeletonSrc "control_tower_t1_x"}
+		{Extender "structure_bone"
+			{crushed}
+		}
+	}
+	{Entity "control_tower" 0x4116
+		{Position -762.89 -1361.5 -145.67}
+		{xform zl -139.81}
+		{Placer
+			{State "19" {Unlinked}}
+			{State "23" {Unlinked}}
+			{State "24" {Unlinked}}
+			{State "26" {Unlinked}}
+			{State "27" {Unlinked}}
+		}
+	}
+	{Human "civilian/civilian5" 0x5b
+		{Position -477 123.33}
+		{xform zl -115.73 scale 2.037}
+		{Player 255}
+		{MID 10001}
+		{NameId 0 0}
+		{FsmState "stand"}
+	}
+	{Entity "e-house03a1" 0x6008
+		{Position -685.21 426.51}
+		{xform zl -160.65 scale 1.797}
+	}
+	{Entity "e-house03a1" 0x2008
+		{Position -449.95 -357.11}
+		{xform zl 30.48 scale 1.797}
+	}
+	{Human "civilian/civilian5" 0x6009
+		{Position -557.88 191.03}
+		{xform zl -115.73 scale 2.037}
+		{Player 255}
+		{MID 10002}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian5" 0x600a
+		{Position -670.65 234.38}
+		{xform zl 127.87 scale 2.037}
+		{Player 255}
+		{MID 10003}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian5" 0x600b
+		{Position -821.62 -189.85}
+		{xform zl -85.1 scale 2.037}
+		{Player 255}
+		{MID 10004}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian5" 0x600c
+		{Position -552.32 -156.33}
+		{xform zl -115.73 scale 2.037}
+		{Player 255}
+		{MID 10005}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian5" 0x600d
+		{Position -455.23 -27.8}
+		{xform zl -115.73 scale 2.037}
+		{Player 255}
+		{MID 10006}
+		{FsmState "stand"}
+	}
+	{Link 0x4100 {0x4116 "01"}}
+	{Link 0x4101 {0x4116 "02"}}
+	{Link 0x4102 {0x4116 "03"}}
+	{Link 0x4104 {0x4116 "05"}}
+	{Link 0x4105 {0x4116 "06"}}
+	{Link 0x4107 {0x4116 "08"}}
+	{Link 0x4108 {0x4116 "09"}}
+	{Link 0x410a {0x4116 "11"}}
+	{Link 0x410c {0x4116 "13"}}
+	{Link 0x410d {0x4116 "14"}}
+	{Link 0x4112 {0x4116 "20"}}
+	{Link 0x4113 {0x4116 "21"}}
+	{Inventory 0x5b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x6009
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x600a
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x600b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x600c
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x600d
+		{box
+			{clear}
+		}
+	}
+	{Slicer 0x1017
+		{"sub_piece01" "cornered_parts_construction_piece"}
+	}
+	{Slicer 0x1018
+		{"sub_piece01" "cornered_parts_construction_piece"}
+	}
+	{Slicer 0x101a
+		{"sub_piece01" "cornered_parts_construction_piece"}
+	}
+	{Slicer 0x101b
+		{"sub_piece01" "cornered_parts_construction_piece"}
+	}
+	{Slicer 0x4104
+		{"piece00"}
+		{"piece01"}
+		{"sub_piece00" "cornered_parts_construction_piece"}
+		{"sub_piece01" "cornered_parts_construction_piece"}
+	}
+	{Slicer 0x4105
+		{"piece00"}
+		{"piece01"}
+		{"piece02"}
+		{"sub_piece00" "cornered_parts_construction_piece"}
+		{"sub_piece01" "cornered_parts_construction_piece"}
+		{"sub_piece02" "cornered_parts_construction_piece"}
+	}
+	{Slicer 0x4113
+		{"piece01"}
+		{"piece02"}
+		{"piece03"}
+		{"piece04"}
+		{"piece05"}
+		{"piece06"}
+		{"piece07"}
+		{"piece08"}
+		{"piece09"}
+		{"piece10"}
+		{"piece11"}
+		{"piece12"}
+		{"piece13"}
+		{"piece14"}
+	}
+}

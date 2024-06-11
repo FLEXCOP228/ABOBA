@@ -1,0 +1,12 @@
+{materials
+	{"mtl0"
+		{layer bump
+			{diffuse "/texture/land/rock/cliffy_1clay"}
+			{bump "/texture/land/rock/cliffy_1clay_nm"}
+		}
+		{layer bump
+			{diffuse "/texture/land/town/34a"}
+			{bump "/texture/land/town/34a_nm"}
+		}
+	}
+}
