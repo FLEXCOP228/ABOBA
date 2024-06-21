@@ -1,14 +1,20 @@
-			{"axis" 
-				{title "mp/alliance/axis"}
-				{armies "ger"}
-				{armies "jap"}
-				{armies "ger2"}
-				{icon "/interface/pages/multi/flag_axis"}
+			{"paxoms" 
+				{title "/interface/pages/multi/flag_pax"}
+				{armies "pax"}
+				{icon "/interface/pages/multi/flag_pax"}
 			}
-			{"allies"
-				{title "mp/alliance/allies"}
-				{armies "usa"}
-				{armies "eng"}
-				{armies "rus"}
-				{icon "/interface/pages/multi/flag_allies"}
+			{"ukrains"
+				{title "/interface/pages/multi/flag_ukr"}
+				{armies "ukr"}
+				{icon "/interface/pages/multi/flag_ukr"}
+			}
+			{"robots" 
+				{title "/interface/pages/multi/flag_rob"}
+				{armies "rob"}
+				{icon "/interface/pages/multi/flag_rob"}
+			}
+			{"tractors"
+				{title "/interface/pages/multi/flag_tra"}
+				{armies "tra"}
+				{icon "/interface/pages/multi/flag_tra"}
 			}
