@@ -46,7 +46,7 @@
 		{gameMode "standard"}
 		{unitMode "all_8v8"}
 		{specMode "all_8v8_normal"}
-		("standard_all_8v8" 		start(160) finish(2500) cp(50))
+		("standard_all_8v8" 		start(160) finish(2500) cp(999))
 		{ranked}
 	}
 ;------------------------------------------------------------------------------------------------------------

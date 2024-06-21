@@ -1,0 +1,2821 @@
+{mission
+	{Human "mp/pax/babka" 0x8000
+		{Position -1391.68 -2194.85}
+		{Player 9}
+		{MID 1}
+		{NameId 0 0}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8001
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8002
+		{Position -1321.19 -2213.41}
+		{Player 9}
+		{MID 2}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8003
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8004
+		{Position -1258.29 -2255.87}
+		{Player 9}
+		{MID 3}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8005
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8006
+		{Position -1201.73 -2274.42}
+		{Player 9}
+		{MID 4}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8007
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8008
+		{Position -1152.98 -2289.51}
+		{xform zl -20.8}
+		{Player 9}
+		{MID 5}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8009
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x800a
+		{Position -1124.12 -2304.63}
+		{Player 9}
+		{MID 6}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x800b
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x800c
+		{Position -1075.77 -2313.76 -0.26}
+		{Player 9}
+		{MID 7}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x800d
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x800e
+		{Position -1037.06 -2323.4}
+		{Player 9}
+		{MID 8}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x800f
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8010
+		{Position -998.36 -2335.81}
+		{Player 9}
+		{MID 9}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8011
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8012
+		{Position -958.69 -2349.46}
+		{Player 9}
+		{MID 10}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8013
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8014
+		{Position -911.75 -2371.4}
+		{Player 9}
+		{MID 11}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8015
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8016
+		{Position -869.97 -2398.57}
+		{Player 9}
+		{MID 12}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8017
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8018
+		{Position -830.02 -2404.78}
+		{Player 9}
+		{MID 13}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8019
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x801a
+		{Position -786.39 -2408.92}
+		{Player 9}
+		{MID 14}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x801b
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x801c
+		{Position -746.35 -2411.68}
+		{SpawnedInFog}
+		{Player 9}
+		{MID 15}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x801d
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x801e
+		{Position -703.14 -2397.24}
+		{SpawnedInFog}
+		{Player 9}
+		{MID 16}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x801f
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8020
+		{Position -740.33 -2368.7}
+		{SpawnedInFog}
+		{Player 9}
+		{MID 17}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8021
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8022
+		{Position -778.98 -2373.73}
+		{SpawnedInFog}
+		{Player 9}
+		{MID 18}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8023
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8024
+		{Position -818.25 -2364.89}
+		{SpawnedInFog}
+		{Player 9}
+		{MID 19}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8025
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8026
+		{Position -852.2 -2355.57}
+		{Player 9}
+		{MID 20}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8027
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8028
+		{Position -890.92 -2341.38}
+		{Player 9}
+		{MID 21}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8029
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x802a
+		{Position -931.1 -2325.18}
+		{xform zl 20.8}
+		{Player 9}
+		{MID 22}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x802b
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x802c
+		{Position -991.9 -2299.31 -12.83}
+		{Player 9}
+		{MID 23}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x802d
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x802e
+		{Position -1041.32 -2283.56}
+		{xform zl 15.68}
+		{Player 9}
+		{MID 24}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x802f
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8030
+		{Position -1084.59 -2266.72 -11.95}
+		{Player 9}
+		{MID 25}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8031
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8032
+		{Position -1139.11 -2264.02 -4.02}
+		{Player 9}
+		{MID 26}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8033
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8034
+		{Position -1158.06 -2259.28}
+		{Player 9}
+		{MID 27}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8035
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8036
+		{Position -1208.56 -2246.58}
+		{xform zl 25.92}
+		{Player 9}
+		{MID 28}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8037
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8038
+		{Position -1272.53 -2212.41}
+		{Player 9}
+		{MID 29}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.75}
+					{prevposition -1250.6 -2209.48 24.0611}
+					{prevdirection 0.982207 0.186879 -0.0186479}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x8039
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x803a
+		{Position -1366.61 -2168.46}
+		{xform zl 15.68}
+		{Player 9}
+		{MID 30}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x803b
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x803c
+		{Position -1439.5 -2154.61}
+		{xform zl 25.92 scale 0.91}
+		{Player 9}
+		{MID 31}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1420.33 -2156.96 19.032}
+					{prevdirection 0.849014 -0.287443 -0.157008}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Entity "svt40" 0x803d
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "pz2l" 0x803e
+		{Position -1485.68 -2330.54}
+		{xform zl -89.77}
+		{Volume "ram"
+			{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}}
+		}
+		{Extender "enumerator"
+			{number 526}
+			{digit_folder "ger"}
+		}
+		{Player 9}
+		{MID 32}
+	}
+	{Entity "pz2l" 0x803f
+		{Position -617.12 -2541.59}
+		{xform zl -108.03}
+		{Volume "ram"
+			{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}}
+		}
+		{Extender "enumerator"
+			{number 182}
+			{digit_folder "ger"}
+		}
+		{Player 9}
+		{MID 33}
+	}
+	{Entity "svt40" 0x8040
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8041
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8042
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8043
+		{Position -652.56 -2564.56}
+		{xform zl -4.62}
+		{Player 9}
+		{MID 34}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8044
+		{Position -582.94 -2572.74}
+		{xform zl 175.38}
+		{Player 9}
+		{MID 35}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8045
+		{Position -652.56 -2564.56}
+		{xform zl -4.62}
+		{Player 9}
+		{MID 36}
+		{LastItem "svt40"}
+	}
+	{Entity "svt40" 0x8046
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8047
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8048
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8049
+		{Position -1453.96 -2364.19}
+		{xform zl 171.02}
+		{Player 9}
+		{MID 37}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x804a
+		{Position -1522.76 -2350.76}
+		{xform zl -8.98}
+		{Player 9}
+		{MID 38}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x804b
+		{Position -1453.96 -2364.19}
+		{xform zl 171.02}
+		{Player 9}
+		{MID 39}
+		{LastItem "svt40"}
+	}
+	{Entity "cropped_tree" 0x804c
+		{Position -1458.92 -3861.72 -46.7}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x804d
+		{Position -1454.45 -3879.97 -49.42}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x804e
+		{Position -1452.36 -3894.91 -51.74}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x804f
+		{Position -1449.2 -3906.65 -49.57}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x8050
+		{Position -1390.8 -3815.77 -52.25}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x8051
+		{Position -1661.63 -3819 -46.16}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x8052
+		{Position -1657.16 -3837.25 -53.49}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x8053
+		{Position -1655.07 -3852.19 -54.11}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x8054
+		{Position -1651.91 -3863.93 -52.53}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Entity "cropped_tree" 0x8055
+		{Position -1593.51 -3773.05 -53.09}
+		{xform zl 173.41 y 85.29 zw -155.13}
+	}
+	{Human "mp/ukr/bandera" 0x8056
+		{Position -1090.13 -3824.49}
+		{xform zl 85.36}
+		{Player 0}
+		{MID 40}
+		{NameId 0 0}
+		{FsmState "stand"}
+	}
+	{Entity "mauzer" 0x8057
+		{Extender "stuff"
+			{Item "mauzer" filled}
+		}
+	}
+	{Human "mp/ukr/bandera2" 0x8058
+		{Position -1138.74 -3816.47}
+		{xform zl 157.64}
+		{Player 0}
+		{MID 41}
+		{FsmState "stand"}
+	}
+	{Entity "mp40" 0x8059
+		{Extender "stuff"
+			{Item "mp40" filled}
+		}
+	}
+	{Human "mp/ukr/obor" 0x805a
+		{Position -1247.68 -3809.25}
+		{xform zl 104.02}
+		{Player 0}
+		{MID 42}
+		{LastThrowItem "molotov_coctail grenade"}
+		{FsmState "stand"}
+	}
+	{Human "mp/ukr/obor" 0x805c
+		{Position -1205.67 -3819.23}
+		{xform zl 91.14}
+		{Player 0}
+		{MID 43}
+		{LastThrowItem "molotov_coctail grenade"}
+		{FsmState "stand"}
+	}
+	{Entity "mauzer" 0x805e
+		{Extender "stuff"
+			{Item "mauzer" filled}
+		}
+	}
+	{Entity "mp40" 0x805f
+		{Extender "stuff"
+			{Item "mp40" filled}
+		}
+	}
+	{Human "mp/ukr/bandera" 0x8062
+		{Position -1130.76 -3744.96}
+		{xform zl 85.36}
+		{Player 0}
+		{MID 44}
+		{FsmState "stand"}
+	}
+	{Human "mp/ukr/bandera2" 0x8063
+		{Position -1083.28 -3752.66}
+		{xform zl 85.36}
+		{Player 0}
+		{MID 45}
+		{FsmState "stand"}
+	}
+	{Human "mp/ukr/obor" 0x8064
+		{Position -1224.07 -3728.3}
+		{xform zl 91.14}
+		{Player 0}
+		{MID 46}
+		{LastThrowItem "molotov_coctail grenade"}
+		{FsmState "stand"}
+	}
+	{Human "mp/ukr/obor" 0x8065
+		{Position -1182.72 -3735.65}
+		{xform zl 91.14}
+		{Player 0}
+		{MID 47}
+		{LastThrowItem "molotov_coctail grenade"}
+		{FsmState "stand"}
+	}
+	{Entity "isuzutx40_aa" 0x8066
+		{Position -838.35 -2116.91 9.13}
+		{xform zl -127.71 y 28.57 zw -147.28}
+		{Extender "enumerator"
+			{number 327}
+		}
+		{Player 9}
+		{MID 48}
+	}
+	{Entity "isuzutx40_aa" 0x8067
+		{Position -884.75 -1864.48 19.5}
+		{xform zl -74.56 y 7.59 zw 155.79}
+		{Extender "enumerator"
+			{number 99}
+		}
+		{Player 9}
+		{MID 49}
+	}
+	{Entity "isuzutx40_aa" 0x8068
+		{Position -1002.57 -2072.52 -23.4}
+		{xform zl -141.13 y 5.82 zw -137.37}
+		{Extender "enumerator"
+			{number 346}
+		}
+		{Player 9}
+		{MID 50}
+	}
+	{Entity "svt40" 0x8069
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x806a
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x806b
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x806c
+		{Position -892.03 -1850.79}
+		{xform zl -74.56 y 7.59 zw 155.79}
+		{Player 9}
+		{MID 51}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x806d
+		{Position -889.8 -1884.32}
+		{xform zl 148.38 y 14.05 zw 112.21}
+		{Player 9}
+		{MID 52}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x806e
+		{Position -878.51 -1852.85}
+		{xform zl -74.56 y 7.59 zw 155.79}
+		{Player 9}
+		{MID 53}
+		{LastItem "svt40"}
+	}
+	{Entity "svt40" 0x806f
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8070
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8071
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8072
+		{Position -1006.83 -2093.92}
+		{xform zl 146.18 y 6.57 zw 115}
+		{Player 9}
+		{MID 54}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8073
+		{Position -995.82 -2062.49}
+		{xform zl -141.13 y 5.82 zw -137.37}
+		{Player 9}
+		{MID 55}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8074
+		{Position -1009.43 -2060.42}
+		{xform zl -141.13 y 5.82 zw -137.37}
+		{Player 9}
+		{MID 56}
+		{LastItem "svt40"}
+	}
+	{Entity "svt40" 0x8075
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8076
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8077
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8078
+		{Position -837.7 -2109.62}
+		{xform zl -127.71 y 28.57 zw -147.28}
+		{Player 9}
+		{MID 57}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8079
+		{Position -844.31 -2140.14}
+		{xform zl 70.29 y 23.7 zw -167.27}
+		{Player 9}
+		{MID 58}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x807a
+		{Position -850.32 -2107.7}
+		{xform zl -127.71 y 28.57 zw -147.28}
+		{Player 9}
+		{MID 59}
+		{LastItem "svt40"}
+	}
+	{Entity "steam_locomotive" 0x807b
+		{Position -603.76 -703.54}
+		{Volume "ram"
+			{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}}
+		}
+		{Player 0}
+		{MID 60}
+	}
+	{Entity "hamilcar" 0x807c
+		{Position -572.29 4260.46}
+		{xform zl -179.7 y 3.37 zw 88.27}
+		{SpawnedInFog}
+		{Extender "enumerator"
+			{number 734}
+		}
+		{Player 9}
+		{MID 61}
+	}
+	{Entity "hamilcar" 0x807d
+		{Position -2606.76 1609.07}
+		{xform zl -179.7 y 3.37 zw 179.7}
+		{SpawnedInFog}
+		{Extender "enumerator"
+			{number 362}
+		}
+		{Player 9}
+		{MID 62}
+	}
+	{Entity "hamilcar" 0x807e
+		{Position 1063.86 1203.71}
+		{xform zl -179.7 y 3.37 zw 107.31}
+		{SpawnedInFog}
+		{Extender "enumerator"
+			{number 666}
+		}
+		{Player 9}
+		{MID 63}
+	}
+	{Entity "svt40" 0x807f
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8082
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8083
+		{Position -572.8 4225.79}
+		{xform zl -179.92 y 13.37 zw 88.5}
+		{Player 9}
+		{MID 64}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8086
+		{Position -572.33 4244.6}
+		{xform zl -179.92 y 13.37 zw 88.5}
+		{Player 9}
+		{MID 67}
+		{LastItem "svt40"}
+	}
+	{Entity "svt40" 0x8089
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x808a
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x808d
+		{Position -2590.91 1609.43}
+		{xform zl -179.92 y 13.37 zw 179.93}
+		{Player 9}
+		{MID 70}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x808e
+		{Position -2572.09 1609.43}
+		{xform zl -179.92 y 13.37 zw 179.93}
+		{Player 9}
+		{MID 71}
+		{LastItem "svt40"}
+	}
+	{Entity "svt40" 0x8090
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Entity "svt40" 0x8091
+		{Extender "stuff"
+			{Item "svt40" filled}
+		}
+	}
+	{Human "mp/pax/babka" 0x8094
+		{Position 1074.69 1170.77}
+		{xform zl -179.92 y 13.37 zw 107.54}
+		{Player 9}
+		{MID 73}
+		{LastItem "svt40"}
+	}
+	{Human "mp/pax/babka" 0x8095
+		{Position 1069 1188.71}
+		{xform zl -179.92 y 13.37 zw 107.54}
+		{Player 9}
+		{MID 74}
+		{LastItem "svt40"}
+	}
+	{Link 0x804b {0x803e "gunner"}}
+	{Link 0x8049 {0x803e "driver"}}
+	{Link 0x804a {0x803e "commander"}}
+	{Link 0x8043 {0x803f "gunner"}}
+	{Link 0x8045 {0x803f "driver"}}
+	{Link 0x8044 {0x803f "commander"}}
+	{Link 0x8078 {0x8066 "driver"}}
+	{Link 0x807a {0x8066 "commander"}}
+	{Link 0x8079 {0x8066 "gunner"}}
+	{Link 0x806e {0x8067 "driver"}}
+	{Link 0x806c {0x8067 "commander"}}
+	{Link 0x806d {0x8067 "gunner"}}
+	{Link 0x8073 {0x8068 "driver"}}
+	{Link 0x8074 {0x8068 "commander"}}
+	{Link 0x8072 {0x8068 "gunner"}}
+	{Link 0x8083 {0x807c "driver"}}
+	{Link 0x8086 {0x807c "commander"}}
+	{Link 0x808e {0x807d "driver"}}
+	{Link 0x808d {0x807d "commander"}}
+	{Link 0x8094 {0x807e "driver"}}
+	{Link 0x8095 {0x807e "commander"}}
+	{Tags "keep_places_without_door" 0x4036}
+	{Tags "keep_places_without_door" 0x4037}
+	{Tags "keep_places_without_door" 0x4051}
+	{Tags "keep_places_without_door" 0x6008}
+	{Tags "keep_places_without_door" 0x2008}
+	{Tags "shue" 0x8056}
+	{Tags "shue" 0x8058}
+	{Tags "shue" 0x805a}
+	{Tags "shue" 0x805c}
+	{Tags "shue" 0x8062}
+	{Tags "shue" 0x8063}
+	{Tags "shue" 0x8064}
+	{Tags "shue" 0x8065}
+	{Inventory 0x8000
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8001 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8002
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8003 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8004
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8005 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8006
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8007 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8008
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8009 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x800a
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x800b {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x800c
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x800d {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x800e
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x800f {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8010
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8011 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8012
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8013 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8014
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8015 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8016
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8017 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8018
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8019 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x801a
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x801b {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x801c
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x801d {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x801e
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x801f {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8020
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8021 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8022
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8023 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8024
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8025 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8026
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8027 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8028
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8029 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x802a
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x802b {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x802c
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x802d {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x802e
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x802f {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8030
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8031 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8032
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8033 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8034
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8035 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8036
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8037 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8038
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8039 {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x803a
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x803b {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x803c
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x803d {cell 2 4}{user "hand_right"}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8043
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8040 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8044
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8041 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8045
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8042 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8049
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8046 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x804a
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8047 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x804b
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8048 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8056
+		{box
+			{clear}
+			{item "bandage" 5 {cell 0 0}}
+			{item "bandage" 5 {cell 2 0}}
+			{item 0x8057 {cell 0 1}{user "hand_right"}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "rifle" "ammo" 25 {cell 4 3}}
+			{item "rifle" "ammo" 25 {cell 5 3}}
+			{item "rifle" "ammo" 25 {cell 0 4}}
+			{item "rifle" "ammo" 25 {cell 1 4}}
+			{item "rifle" "ammo" 25 {cell 2 4}}
+			{item "rifle" "ammo" 25 {cell 3 4}}
+			{item "rifle" "ammo" 25 {cell 4 4}}
+			{item "rifle" "ammo" 25 {cell 5 4}}
+			{item "rifle" "ammo" 25 {cell 0 5}}
+			{item "rifle" "ammo" 25 {cell 1 5}}
+			{item "rpg43" "grenade" {cell 2 5}}
+			{item "rpg43" "grenade" {cell 4 5}}
+			{item "rpg43" "grenade" {cell 0 6}}
+			{item "sandbag_kit" {cell 2 6}}
+			{item "molotov_coctail" "grenade" {cell 4 6}}
+			{item "smoke" "grenade" {cell 0 7}}
+			{item "m24" "grenade" {cell 4 7}}
+			{item "m24" "grenade" {cell 0 8}}
+			{item "dynamite_ladung" {cell 2 8}}
+			{item "smoke_paradrop_ammo" "grenade" {cell 4 8}}
+		}
+	}
+	{Inventory 0x8058
+		{box
+			{clear}
+			{item "bandage" 5 {cell 0 0}}
+			{item "bandage" 5 {cell 2 0}}
+			{item "rpg43" "grenade" {cell 4 0}}
+			{item "rpg43" "grenade" {cell 0 1}}
+			{item "rpg43" "grenade" {cell 2 1}}
+			{item "sandbag_kit" {cell 4 1}}
+			{item "molotov_coctail" "grenade" {cell 0 2}}
+			{item "smoke" "grenade" {cell 2 2}}
+			{item "m24" "grenade" {cell 0 3}}
+			{item "m24" "grenade" {cell 2 3}}
+			{item "dynamite_ladung" {cell 4 3}}
+			{item 0x8059 {cell 0 4}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 5}}
+			{item "pistol" "ammo" 100 {cell 0 6}}
+			{item "pistol" "ammo" 100 {cell 2 6}}
+			{item "pistol" "ammo" 100 {cell 4 6}}
+			{item "pistol" "ammo" 100 {cell 0 7}}
+			{item "pistol" "ammo" 100 {cell 2 7}}
+			{item "pistol" "ammo" 100 {cell 4 7}}
+			{item "pistol" "ammo" 100 {cell 0 8}}
+			{item "pistol" "ammo" 100 {cell 2 8}}
+			{item "pistol" "ammo" 100 {cell 4 8}}
+			{item "smoke_paradrop_ammo" "grenade" {cell 0 9}}
+		}
+	}
+	{Inventory 0x805a
+		{box
+			{clear}
+			{item "molotov_coctail" "grenade" {cell 0 0}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 2 0}}
+			{item "molotov_coctail" "grenade" {cell 4 0}}
+		}
+	}
+	{Inventory 0x805c
+		{box
+			{clear}
+			{item "molotov_coctail" "grenade" {cell 0 0}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 2 0}}
+			{item "molotov_coctail" "grenade" {cell 4 0}}
+		}
+	}
+	{Inventory 0x8062
+		{box
+			{clear}
+			{item "bandage" 5 {cell 0 0}}
+			{item "bandage" 5 {cell 2 0}}
+			{item 0x805e {cell 0 1}{user "hand_right"}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "rifle" "ammo" 25 {cell 4 3}}
+			{item "rifle" "ammo" 25 {cell 5 3}}
+			{item "rifle" "ammo" 25 {cell 0 4}}
+			{item "rifle" "ammo" 25 {cell 1 4}}
+			{item "rifle" "ammo" 25 {cell 2 4}}
+			{item "rifle" "ammo" 25 {cell 3 4}}
+			{item "rifle" "ammo" 25 {cell 4 4}}
+			{item "rifle" "ammo" 25 {cell 5 4}}
+			{item "rifle" "ammo" 25 {cell 0 5}}
+			{item "rifle" "ammo" 25 {cell 1 5}}
+			{item "rpg43" "grenade" {cell 2 5}}
+			{item "rpg43" "grenade" {cell 4 5}}
+			{item "rpg43" "grenade" {cell 0 6}}
+			{item "sandbag_kit" {cell 2 6}}
+			{item "molotov_coctail" "grenade" {cell 4 6}}
+			{item "smoke" "grenade" {cell 0 7}}
+			{item "m24" "grenade" {cell 4 7}}
+			{item "m24" "grenade" {cell 0 8}}
+			{item "dynamite_ladung" {cell 2 8}}
+			{item "smoke_paradrop_ammo" "grenade" {cell 4 8}}
+		}
+	}
+	{Inventory 0x8063
+		{box
+			{clear}
+			{item "bandage" 5 {cell 0 0}}
+			{item "bandage" 5 {cell 2 0}}
+			{item "rpg43" "grenade" {cell 4 0}}
+			{item "rpg43" "grenade" {cell 0 1}}
+			{item "rpg43" "grenade" {cell 2 1}}
+			{item "sandbag_kit" {cell 4 1}}
+			{item "molotov_coctail" "grenade" {cell 0 2}}
+			{item "smoke" "grenade" {cell 2 2}}
+			{item "m24" "grenade" {cell 0 3}}
+			{item "m24" "grenade" {cell 2 3}}
+			{item "dynamite_ladung" {cell 4 3}}
+			{item 0x805f {cell 0 4}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 5}}
+			{item "pistol" "ammo" 100 {cell 0 6}}
+			{item "pistol" "ammo" 100 {cell 2 6}}
+			{item "pistol" "ammo" 100 {cell 4 6}}
+			{item "pistol" "ammo" 100 {cell 0 7}}
+			{item "pistol" "ammo" 100 {cell 2 7}}
+			{item "pistol" "ammo" 100 {cell 4 7}}
+			{item "pistol" "ammo" 100 {cell 0 8}}
+			{item "pistol" "ammo" 100 {cell 2 8}}
+			{item "pistol" "ammo" 100 {cell 4 8}}
+			{item "smoke_paradrop_ammo" "grenade" {cell 0 9}}
+		}
+	}
+	{Inventory 0x8064
+		{box
+			{clear}
+			{item "molotov_coctail" "grenade" {cell 0 0}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 2 0}}
+			{item "molotov_coctail" "grenade" {cell 4 0}}
+		}
+	}
+	{Inventory 0x8065
+		{box
+			{clear}
+			{item "molotov_coctail" "grenade" {cell 0 0}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 2 0}}
+			{item "molotov_coctail" "grenade" {cell 4 0}}
+		}
+	}
+	{Inventory 0x806c
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8069 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x806d
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x806a {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x806e
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x806b {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8072
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x806f {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8073
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8070 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8074
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8071 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8078
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8075 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8079
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8076 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x807a
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8077 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8083
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x807f {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8086
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8082 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x808d
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8089 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x808e
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x808a {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8094
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8090 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Inventory 0x8095
+		{box
+			{clear}
+			{item "bandage" 4 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "rifle" "ammo" 25 {cell 2 1}}
+			{item "rifle" "ammo" 25 {cell 3 1}}
+			{item "rifle" "ammo" 25 {cell 4 1}}
+			{item "rifle" "ammo" 25 {cell 5 1}}
+			{item "rifle" "ammo" 25 {cell 0 2}}
+			{item "rifle" "ammo" 25 {cell 1 2}}
+			{item "rifle" "ammo" 25 {cell 2 2}}
+			{item "rifle" "ammo" 25 {cell 3 2}}
+			{item "rifle" "ammo" 25 {cell 4 2}}
+			{item "rifle" "ammo" 25 {cell 5 2}}
+			{item "rifle" "ammo" 25 {cell 0 3}}
+			{item "rifle" "ammo" 25 {cell 1 3}}
+			{item "rifle" "ammo" 25 {cell 2 3}}
+			{item "rifle" "ammo" 25 {cell 3 3}}
+			{item "type3at_a" "grenade" {cell 4 3}}
+			{item "type3at_a" "grenade" {cell 0 4}}
+			{item 0x8091 {cell 2 4}}
+			{item "sandbag_kit" {cell 0 5}}
+			{item "warden_furcap" {cell 2 6}{user "head"}}
+		}
+	}
+	{Brain 0x803e
+		{Properties
+			{look_around 0}
+		}
+	}
+	{Brain 0x803f
+		{Properties
+			{look_around 0}
+		}
+	}
+	{Brain 0x8056
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x8058
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x805a
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x805c
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x8062
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x8063
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x8064
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x8065
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x807b
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x807c
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x807d
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x807e
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Environment "2"}
+	{Helpers
+		{zone "poly"
+			{position -689.12 -22.6292 0}
+			{Name "end"}
+			{Point -300 -500}
+			{Point -300 500}
+			{Point 300 500}
+			{Point 300 -500}
+		}
+		{tasks
+			{"miss"
+				{desc "$/00"}
+				{primary}
+				{state hidden}
+			}
+		}
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+		{triggers
+			{"start"
+				{condition
+				}
+				{actions
+					{"task"
+						{name "miss"}
+					}
+				}
+			}
+			{"end"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{ignore_captured_by_user 0}
+								{tag shue}
+								{zone "end"}
+								{player "0"}
+								{type human}
+							}
+							{count
+								{op ">="}
+								{value 1}
+							}
+						}
+					}
+				}
+				{actions
+					{"task"
+						{name "miss"}
+						{state complete}
+					}
+					{"gameover"
+						{result win}
+						{message "$/02"}
+					}
+				}
+			}
+			{"fail"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{ignore_captured_by_user 0}
+								{tag shue}
+								{player "0"}
+								{type human}
+								{state "not dead"}
+							}
+							{count
+								{op "=="}
+								{value 0}
+							}
+						}
+					}
+				}
+				{actions
+					{"task"
+						{name "miss"}
+						{state fail}
+					}
+					{"gameover"
+						{result loose}
+						{message "$/01"}
+					}
+				}
+			}
+			{"ev"
+				{condition
+				}
+				{actions
+					{"music"
+						{start "/music/kolowrat.mp3"}
+						{stop_all}
+						{volume game}
+						{loop}
+					}
+				}
+			}
+		}
+	}
+	{Fog 1}
+}

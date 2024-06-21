@@ -1,0 +1,12 @@
+{materials
+	{"mtl0"
+		{layer bump
+			{diffuse "/texture/land/town/asfalt_road q1l45"}
+			{bump "/texture/land/town/asfalt_road q1l45_nm"}
+		}
+		{layer bump
+			{diffuse "/texture/land/town/asfalt_road q1l45"}
+			{bump "/texture/land/town/asfalt_road q1l45_nm"}
+		}
+	}
+}

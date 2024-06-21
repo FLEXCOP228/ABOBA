@@ -91,13 +91,13 @@
 		{gameMode "standard"}
 		{unitMode "all"}
 		{specMode "all_normal"}
-		("standard_all" 		start(160) finish(3000) cp(100))
+		("standard_all" 		start(160) finish(3000) cp(999))
 	}
 	{"s:standard_160_all"	
 		{gameMode "standard"}
 		{unitMode "all"}
 		{specMode "all_high"}
-		("standard_all" 		start(600) finish(4000) cp(140))
+		("standard_all" 		start(600) finish(4000) cp(999))
 	}
 	
 ;------------------------------------------------------------------------------------------------------------
@@ -105,49 +105,49 @@
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_50"}
-		("custom_all" 			start(160) finish(3000) cp(50))
+		("custom_all" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_60_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_60"}
-		("custom_all" 			start(160) finish(3000) cp(60))
+		("custom_all" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_80_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_80"}
-		("custom_all" 			start(160) finish(3000) cp(80)) 
+		("custom_all" 			start(160) finish(3000) cp(999)) 
 	}
 	{"c:custom_100_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_100"}
-		("custom_all" 			start(160) finish(3000) cp(100))
+		("custom_all" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_120_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_120"}
-		("custom_all"  			start(160) finish(3000) cp(120))
+		("custom_all"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_140_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_140"}
-		("custom_all"  			start(160) finish(3000) cp(140))
+		("custom_all"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_160_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_160"}
-		("custom_all"  			start(160) finish(3000) cp(160))
+		("custom_all"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_180_all"
 		{gameMode "custom"}
 		{unitMode "all"}
 		{specMode "cp_180"}
-		("custom_all"  			start(160) finish(3000) cp(180))
+		("custom_all"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_200_all"
 		{gameMode "custom"}

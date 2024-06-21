@@ -1,0 +1,2350 @@
+{mission
+	{Human "mp/ukr/obor" 0x8000
+		{Position -89372.9 199.28}
+		{Player 0}
+		{MID 1}
+		{NameId 0 0}
+		{LastThrowItem "molotov_coctail grenade"}
+		{FsmState "stand"}
+	}
+	{Entity "bf109g" 0x8002
+		{Position -89289.8 54.56}
+		{xform zl -179.62 y 15.59 zw 179.96}
+		{Player 0}
+		{MID 2}
+	}
+	{Human "mp/pax/farc1" 0x8003
+		{Position 87466.5 148.51}
+		{Player 9}
+		{MID 3}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0x8004
+		{Position 87465 126.08}
+		{Player 9}
+		{MID 4}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0x8005
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa000
+		{Position 87465.8 178 0.02}
+		{Player 9}
+		{MID 5}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa001
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa002
+		{Position 87481.8 59.97}
+		{Player 9}
+		{MID 6}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa003
+		{Position 87483.6 37.54}
+		{xform zl -0.05}
+		{Player 9}
+		{MID 7}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa004
+		{Position 87481.1 89.46 0.02}
+		{Player 9}
+		{MID 8}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa005
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa006
+		{Position 87475.2 239.43}
+		{Player 9}
+		{MID 9}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa007
+		{Position 87470.7 219.56}
+		{xform zl 22.88}
+		{Player 9}
+		{MID 10}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa008
+		{Position 87474.5 268.92 0.02}
+		{Player 9}
+		{MID 11}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa009
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa00a
+		{Position 87564.4 150.82}
+		{Player 9}
+		{MID 12}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa00b
+		{Position 87562.9 128.39}
+		{Player 9}
+		{MID 13}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa00c
+		{Position 87559.3 172.83}
+		{xform zl -49.72}
+		{Player 9}
+		{MID 14}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa00d
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa00e
+		{Position 87572.3 86.27}
+		{xform zl 34.76}
+		{Player 9}
+		{MID 15}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa00f
+		{Position 87571.8 56.18}
+		{xform zl -19.25}
+		{Player 9}
+		{MID 16}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa010
+		{Position 87569.6 112.24}
+		{xform zl 20.24}
+		{Player 9}
+		{MID 17}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa011
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa012
+		{Position 87570.4 250.64}
+		{Player 9}
+		{MID 18}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa013
+		{Position 87568.9 228.21}
+		{Player 9}
+		{MID 19}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa014
+		{Position 87569.7 280.13 0.02}
+		{Player 9}
+		{MID 20}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa015
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa016
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa017
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa018
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa019
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa01a
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa01b
+		{Position 87629.2 158.78}
+		{xform zl 35.64}
+		{Player 9}
+		{MID 21}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa01c
+		{Position 87618.7 130.37}
+		{xform zl 29.04}
+		{Player 9}
+		{MID 22}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.751}
+					{prevposition 87630.6 145.838 24.1166}
+					{prevdirection 0.720638 0.69293 -0.0230524}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa01d
+		{Position 87624.5 185.86}
+		{xform zl 20.68}
+		{Player 9}
+		{MID 23}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa01e
+		{Position 87639.2 41.85}
+		{Player 9}
+		{MID 24}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa01f
+		{Position 87640.7 64.28}
+		{Player 9}
+		{MID 25}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa020
+		{Position 87642.2 91.98}
+		{xform zl -14.52}
+		{Player 9}
+		{MID 26}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa021
+		{Position 87644.7 226.83}
+		{xform zl 26.96}
+		{Player 9}
+		{MID 27}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa022
+		{Position 87631 243.94}
+		{xform zl -0.88}
+		{Player 9}
+		{MID 28}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa023
+		{Position 87631.2 278.78}
+		{xform zl 35.2}
+		{Player 9}
+		{MID 29}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa024
+		{Position 87721.8 132.7}
+		{Player 9}
+		{MID 30}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa025
+		{Position 87723.3 155.13}
+		{Player 9}
+		{MID 31}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa026
+		{Position 87719.5 179.49}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 32}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa027
+		{Position 87727.7 61.55}
+		{Player 9}
+		{MID 33}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa028
+		{Position 87729.2 83.98}
+		{Player 9}
+		{MID 34}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa029
+		{Position 87728.5 113.47 0.02}
+		{Player 9}
+		{MID 35}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa02a
+		{Position 87727.8 232.52}
+		{Player 9}
+		{MID 36}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa02b
+		{Position 87729.3 254.95}
+		{Player 9}
+		{MID 37}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa02c
+		{Position 87728.6 284.44 0.02}
+		{Player 9}
+		{MID 38}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa02d
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa02e
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa02f
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa030
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa031
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa032
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa033
+		{Position 87827.2 153.16}
+		{Player 9}
+		{MID 39}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa034
+		{Position 87825.7 130.73}
+		{Player 9}
+		{MID 40}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa035
+		{Position 87826.5 182.65 0.02}
+		{Player 9}
+		{MID 41}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa036
+		{Position 87841 42.19}
+		{Player 9}
+		{MID 42}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa037
+		{Position 87842.5 64.62}
+		{Player 9}
+		{MID 43}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa038
+		{Position 87841.8 94.11 0.02}
+		{Player 9}
+		{MID 44}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa039
+		{Position 87832 220.6}
+		{xform zl -14.96}
+		{Player 9}
+		{MID 45}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa03a
+		{Position 87836 244.08}
+		{Player 9}
+		{MID 46}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa03b
+		{Position 87835.2 273.57 0.02}
+		{Player 9}
+		{MID 47}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa03c
+		{Position 87923.6 133.04}
+		{Player 9}
+		{MID 48}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa03d
+		{Position 87925.1 155.47}
+		{Player 9}
+		{MID 49}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa03e
+		{Position 87921.3 179.83}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 50}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa03f
+		{Position 87929.5 61.89}
+		{Player 9}
+		{MID 51}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8165}
+					{prevposition 87949.2 57.8658 23.3039}
+					{prevdirection 0.919119 -0.391212 -0.0466268}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa040
+		{Position 87931 84.32}
+		{Player 9}
+		{MID 52}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa041
+		{Position 87930.3 113.81 0.02}
+		{Player 9}
+		{MID 53}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa042
+		{Position 87929.6 232.86}
+		{Player 9}
+		{MID 54}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa043
+		{Position 87931.1 255.29}
+		{Player 9}
+		{MID 55}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa044
+		{Position 87930.5 284.78 0.02}
+		{Player 9}
+		{MID 56}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa045
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa046
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa047
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa048
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa049
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa04a
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa04b
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa04c
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa04d
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa04e
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa04f
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa050
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa051
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa052
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa053
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa054
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa055
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa056
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa057
+		{Position 87456.7 -155.81}
+		{Player 9}
+		{MID 57}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa058
+		{Position 87455.2 -178.24}
+		{Player 9}
+		{MID 58}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa059
+		{Position 87456.2 -126.02 0.02}
+		{Player 9}
+		{MID 59}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa05a
+		{Position 87470.5 -266.78}
+		{Player 9}
+		{MID 60}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa05b
+		{Position 87472 -244.35}
+		{Player 9}
+		{MID 61}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa05c
+		{Position 87471.3 -214.86 0.02}
+		{Player 9}
+		{MID 62}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa05d
+		{Position 87463.9 -87.32}
+		{Player 9}
+		{MID 63}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa05e
+		{Position 87465.4 -64.89}
+		{Player 9}
+		{MID 64}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa05f
+		{Position 87464.7 -35.4 0.02}
+		{Player 9}
+		{MID 65}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa060
+		{Position 87553.1 -175.93}
+		{Player 9}
+		{MID 66}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa061
+		{Position 87554.6 -153.62}
+		{Player 9}
+		{MID 67}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa062
+		{Position 87549.9 -129.48}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 68}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa063
+		{Position 87559 -247.08}
+		{Player 9}
+		{MID 69}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.953864}
+					{prevposition 87574.6 -257.488 20.494}
+					{prevdirection 0.675632 -0.717772 -0.168301}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa064
+		{Position 87560.5 -224.33}
+		{Player 9}
+		{MID 70}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa065
+		{Position 87559.8 -194.82 0.02}
+		{Player 9}
+		{MID 71}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa066
+		{Position 87558.8 -76.04}
+		{Player 9}
+		{MID 72}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa067
+		{Position 87560.6 -53.68}
+		{Player 9}
+		{MID 73}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa068
+		{Position 87559.9 -24.19 0.02}
+		{Player 9}
+		{MID 74}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa069
+		{Position 87614.1 -173.93}
+		{Player 9}
+		{MID 75}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa06a
+		{Position 87629.4 -262.47}
+		{Player 9}
+		{MID 76}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa06b
+		{Position 87622.8 -83.01}
+		{Player 9}
+		{MID 77}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa06c
+		{Position 87712 -171.62}
+		{Player 9}
+		{MID 78}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa06d
+		{Position 87717.9 -242.77}
+		{Player 9}
+		{MID 79}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa06e
+		{Position 87718 -71.8}
+		{Player 9}
+		{MID 80}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa06f
+		{Position 87615.4 -151.19}
+		{Player 9}
+		{MID 81}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa070
+		{Position 87615.1 -122.37 0.02}
+		{Player 9}
+		{MID 82}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa071
+		{Position 87630.9 -240.04}
+		{Player 9}
+		{MID 83}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa072
+		{Position 87630.2 -210.55 0.02}
+		{Player 9}
+		{MID 84}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa073
+		{Position 87624.3 -60.58}
+		{Player 9}
+		{MID 85}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa074
+		{Position 87623.3 -31.22 0.02}
+		{Player 9}
+		{MID 86}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa075
+		{Position 87713.5 -149.19}
+		{Player 9}
+		{MID 87}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa076
+		{Position 87709.7 -124.83}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 88}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa077
+		{Position 87719.4 -220.34}
+		{Player 9}
+		{MID 89}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa078
+		{Position 87718.7 -190.85 0.02}
+		{Player 9}
+		{MID 90}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa079
+		{Position 87719.5 -49.37}
+		{Player 9}
+		{MID 91}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa07a
+		{Position 87718.5 -19.91 0.02}
+		{Player 9}
+		{MID 92}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa07b
+		{Position 87815.9 -173.59}
+		{Player 9}
+		{MID 93}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa07c
+		{Position 87831.2 -262.13}
+		{Player 9}
+		{MID 94}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa07d
+		{Position 87824.7 -82.67}
+		{Player 9}
+		{MID 95}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa07e
+		{Position 87913.8 -171.28}
+		{Player 9}
+		{MID 96}
+		{FsmState "lie"}
+	}
+	{Human "mp/pax/farc" 0xa07f
+		{Position 87919.7 -242.43}
+		{Player 9}
+		{MID 97}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa080
+		{Position 87919.8 -71.46}
+		{Player 9}
+		{MID 98}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa081
+		{Position 87817.4 -151.16}
+		{Player 9}
+		{MID 99}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa082
+		{Position 87816.8 -122.04 0.02}
+		{Player 9}
+		{MID 100}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa083
+		{Position 87832.7 -239.7}
+		{Player 9}
+		{MID 101}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa084
+		{Position 87832 -210.21 0.02}
+		{Player 9}
+		{MID 102}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa085
+		{Position 87826.2 -60.24}
+		{Player 9}
+		{MID 103}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa086
+		{Position 87825.4 -30.75 0.02}
+		{Player 9}
+		{MID 104}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa087
+		{Position 87915.3 -148.85}
+		{Player 9}
+		{MID 105}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa088
+		{Position 87911.5 -124.49}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 106}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa089
+		{Position 87921.2 -220}
+		{Player 9}
+		{MID 107}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa08a
+		{Position 87920.5 -190.51 0.02}
+		{Player 9}
+		{MID 108}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa08b
+		{Position 87921.3 -49.03}
+		{Player 9}
+		{MID 109}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa08c
+		{Position 87920.7 -19.54 0.02}
+		{Player 9}
+		{MID 110}
+		{FsmState "stand"}
+	}
+	{Entity "mosin" 0xa08d
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa08e
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa08f
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa090
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa091
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa092
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa093
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa094
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa095
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa096
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa097
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa098
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa099
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa09a
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa09b
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa09c
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa09d
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Entity "mosin" 0xa09e
+		{Extender "stuff"
+			{Item "mosin" filled}
+		}
+	}
+	{Human "mp/pax/farc1" 0xa09f
+		{Position 87478.2 418.47}
+		{Player 9}
+		{MID 111}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0a0
+		{Position 87476.7 396.04}
+		{Player 9}
+		{MID 112}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0a1
+		{Position 87477.5 447.96 0.02}
+		{Player 9}
+		{MID 113}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0a2
+		{Position 87492 307.5}
+		{Player 9}
+		{MID 114}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0a3
+		{Position 87493.5 329.93}
+		{Player 9}
+		{MID 115}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0a4
+		{Position 87492.8 359.42 0.02}
+		{Player 9}
+		{MID 116}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0a5
+		{Position 87485.4 486.96}
+		{Player 9}
+		{MID 117}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0a6
+		{Position 87486.9 509.39}
+		{Player 9}
+		{MID 118}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0a7
+		{Position 87486.2 538.88 0.02}
+		{Player 9}
+		{MID 119}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0a8
+		{Position 87574.6 398.35}
+		{Player 9}
+		{MID 120}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0a9
+		{Position 87576.1 420.78}
+		{Player 9}
+		{MID 121}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0aa
+		{Position 87572.3 445.14}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 122}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0ab
+		{Position 87580.5 327.2}
+		{Player 9}
+		{MID 123}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0ac
+		{Position 87582 349.63}
+		{Player 9}
+		{MID 124}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0ad
+		{Position 87581.3 379.12 0.02}
+		{Player 9}
+		{MID 125}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0ae
+		{Position 87580.6 498.17}
+		{Player 9}
+		{MID 126}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0af
+		{Position 87582.1 520.6}
+		{Player 9}
+		{MID 127}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0b0
+		{Position 87581.4 550.09 0.02}
+		{Player 9}
+		{MID 128}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0b1
+		{Position 87635.6 400.35}
+		{Player 9}
+		{MID 129}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0b2
+		{Position 87650.9 311.81}
+		{Player 9}
+		{MID 130}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0b3
+		{Position 87644.3 491.27}
+		{Player 9}
+		{MID 131}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0b4
+		{Position 87733.5 402.66}
+		{Player 9}
+		{MID 132}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0b5
+		{Position 87739.4 331.51}
+		{Player 9}
+		{MID 133}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0b6
+		{Position 87739.5 502.48}
+		{Player 9}
+		{MID 134}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0b7
+		{Position 87637.1 422.78}
+		{Player 9}
+		{MID 135}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0b8
+		{Position 87636.4 452.27 0.02}
+		{Player 9}
+		{MID 136}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0b9
+		{Position 87652.4 334.24}
+		{Player 9}
+		{MID 137}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0ba
+		{Position 87651.7 363.73 0.02}
+		{Player 9}
+		{MID 138}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0bb
+		{Position 87645.8 513.7}
+		{Player 9}
+		{MID 139}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0bc
+		{Position 87645.1 543.19 0.02}
+		{Player 9}
+		{MID 140}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0bd
+		{Position 87735 425.09}
+		{Player 9}
+		{MID 141}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0be
+		{Position 87731.2 449.45}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 142}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0bf
+		{Position 87740.9 353.94}
+		{Player 9}
+		{MID 143}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0c0
+		{Position 87740.2 383.43 0.02}
+		{Player 9}
+		{MID 144}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0c1
+		{Position 87741 524.91}
+		{Player 9}
+		{MID 145}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0c2
+		{Position 87740.3 554.4 0.02}
+		{Player 9}
+		{MID 146}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0c3
+		{Position 87837.4 400.69}
+		{Player 9}
+		{MID 147}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0c4
+		{Position 87852.7 312.15}
+		{Player 9}
+		{MID 148}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0c5
+		{Position 87846.2 491.61}
+		{Player 9}
+		{MID 149}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0c6
+		{Position 87935.3 403}
+		{Player 9}
+		{MID 150}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0c7
+		{Position 87941.2 331.85}
+		{Player 9}
+		{MID 151}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc" 0xa0c8
+		{Position 87941.3 502.82}
+		{Player 9}
+		{MID 152}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition 87954.8 491.134 21.9084}
+					{prevdirection 0.508887 -0.85223 -0.121408}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0c9
+		{Position 87838.9 423.12}
+		{Player 9}
+		{MID 153}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0ca
+		{Position 87838.2 452.61 0.02}
+		{Player 9}
+		{MID 154}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0cb
+		{Position 87854.2 334.58}
+		{Player 9}
+		{MID 155}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0cc
+		{Position 87853.5 364.07 0.02}
+		{Player 9}
+		{MID 156}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0cd
+		{Position 87847.7 514.04}
+		{Player 9}
+		{MID 157}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0ce
+		{Position 87846.9 543.53 0.02}
+		{Player 9}
+		{MID 158}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0cf
+		{Position 87936.8 425.43}
+		{Player 9}
+		{MID 159}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0d0
+		{Position 87933 449.79}
+		{xform zl -35.2}
+		{Player 9}
+		{MID 160}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0d1
+		{Position 87942.7 354.28}
+		{Player 9}
+		{MID 161}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0d2
+		{Position 87942 383.77 0.02}
+		{Player 9}
+		{MID 162}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0d3
+		{Position 87942.8 525.25}
+		{Player 9}
+		{MID 163}
+		{FsmState "stand"}
+	}
+	{Human "mp/pax/farc1" 0xa0d4
+		{Position 87942.2 554.74 0.02}
+		{Player 9}
+		{MID 164}
+		{FsmState "stand"}
+	}
+	{Tags "zzz" 0x8000}
+	{Tags "pahom" 0x8003}
+	{Tags "pahom" 0x8004}
+	{Tags "pahom" 0xa000}
+	{Inventory 0x8000
+		{box
+			{clear}
+			{item "molotov_coctail" "grenade" {cell 0 0}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 2 0}}
+			{item "molotov_coctail" "grenade" {cell 4 0}}
+		}
+	}
+	{Inventory 0x8003
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x8004
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0x8005 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa000
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa002
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa003
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa001 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa004
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa006
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa007
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa005 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa008
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa00a
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa00b
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa009 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa00c
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa00e
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa00f
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa00d {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa010
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa012
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa013
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa011 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa014
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa01b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa01c
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa015 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa01d
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa01e
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa016 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa01f
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa020
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa021
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa017 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa022
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa023
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa024
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa018 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa025
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa026
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa027
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa019 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa028
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa029
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa02a
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa01a {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa02b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa02c
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa033
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa034
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa02d {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa035
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa036
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa02e {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa037
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa038
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa039
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa02f {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa03a
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa03b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa03c
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa030 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa03d
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa03e
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa03f
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa031 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa040
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa041
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa042
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa032 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa043
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa044
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa057
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa058
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa045 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa059
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa05a
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa046 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa05b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa05c
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa05d
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa047 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa05e
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa05f
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa060
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa048 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa061
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa062
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa063
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa049 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa064
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa065
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa066
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa04a {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa067
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa068
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa069
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa04b {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa06a
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa04c {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa06b
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa04d {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa06c
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa04e {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa06d
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa04f {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa06e
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa050 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa06f
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa070
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa071
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa072
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa073
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa074
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa075
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa076
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa077
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa078
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa079
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa07a
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa07b
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa051 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa07c
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa052 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa07d
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa053 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa07e
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa054 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa07f
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa055 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa080
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa056 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa081
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa082
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa083
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa084
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa085
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa086
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa087
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa088
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa089
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa08a
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa08b
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa08c
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa09f
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0a0
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa08d {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0a1
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0a2
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa08e {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0a3
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0a4
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0a5
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa08f {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0a6
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0a7
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0a8
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa090 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0a9
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0aa
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0ab
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa091 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0ac
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0ad
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0ae
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa092 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0af
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0b0
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0b1
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa093 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0b2
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa094 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0b3
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa095 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0b4
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa096 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0b5
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa097 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0b6
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa098 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0b7
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0b8
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0b9
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0ba
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0bb
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0bc
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0bd
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0be
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0bf
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0c0
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0c1
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0c2
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0c3
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa099 {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0c4
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa09a {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0c5
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa09b {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0c6
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa09c {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0c7
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa09d {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0c8
+		{box
+			{clear}
+			{item "rifle" "ammo" 5 {cell 0 0}}
+			{item 0xa09e {cell 1 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xa0c9
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0ca
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0cb
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0cc
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0cd
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0ce
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0cf
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0d0
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0d1
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0d2
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0d3
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xa0d4
+		{box
+			{clear}
+		}
+	}
+	{Brain 0x8000
+		{Properties
+			{control user}
+		}
+	}
+	{Environment "1"}
+	{Helpers
+		{zone "circle"
+			{position -89298 55.9599 0}
+			{Name "123"}
+			{Radius 150}
+		}
+		{tasks
+			{"krpk"
+				{desc "$/00"}
+				{primary}
+				{state hidden}
+			}
+		}
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+		{triggers
+			{"start"
+				{condition
+				}
+				{actions
+					{"task"
+						{name "krpk"}
+					}
+				}
+			}
+			{"druhyj"
+				{condition
+				}
+				{actions
+					{"delay"
+						{time 15}
+					}
+					{"music"
+						{start "/music/zzz.mp3"}
+						{stop_all}
+						{volume game}
+						{loop}
+					}
+				}
+			}
+			{"end"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{ignore_captured_by_user 0}
+								{tag pahom}
+								{state "not dead"}
+							}
+							{count
+								{op "<<="}
+								{value 0}
+							}
+						}
+					}
+				}
+				{actions
+					{"task"
+						{name "krpk"}
+						{state complete}
+					}
+					{"gameover"
+						{result win}
+						{message "$/01"}
+					}
+				}
+			}
+			{"fail"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{ignore_captured_by_user 0}
+								{tag zzz}
+							}
+							{count
+								{op "<<="}
+								{value 0}
+							}
+						}
+					}
+				}
+				{actions
+					{"task"
+						{name "krpk"}
+						{state fail}
+					}
+					{"gameover"
+						{result loose}
+						{message "$/02"}
+					}
+				}
+			}
+		}
+	}
+	{Fog 1}
+}

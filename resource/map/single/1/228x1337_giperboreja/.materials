@@ -1,0 +1,11 @@
+{materials
+	{"mtl0"
+		{layer bump
+			{diffuse "/texture/land/_new/beach_02"}
+			{bump "/texture/land/_new/beach_02_nm"}
+		}
+		{layer bump
+			{diffuse "/texture/land/grass"}
+		}
+	}
+}

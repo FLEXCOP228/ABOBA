@@ -97,13 +97,13 @@
 		{gameMode "standard"}
 		{unitMode "user"}
 		{specMode "all_normal"}
-		("standard_user" 		start(160) finish(3000) cp(100))
+		("standard_user" 		start(160) finish(3000) cp(999))
 	}
 	{"s:standard_160_user"	
 		{gameMode "standard"}
 		{unitMode "user"}
 		{specMode "all_high"}
-		("standard_user" 		start(600) finish(4000) cp(140))
+		("standard_user" 		start(600) finish(4000) cp(999))
 	}
 	
 ;------------------------------------------------------------------------------------------------------------
@@ -117,43 +117,43 @@
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_60"}
-		("custom_user" 			start(160) finish(3000) cp(60)) 
+		("custom_user" 			start(160) finish(3000) cp(999)) 
 	}
 	{"c:custom_80_user"
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_80"}
-		("custom_user" 			start(160) finish(3000) cp(80)) 
+		("custom_user" 			start(160) finish(3000) cp(999)) 
 	}
 	{"c:custom_100_user"
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_100"}
-		("custom_user" 			start(160) finish(3000) cp(100))
+		("custom_user" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_120_user"
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_120"}
-		("custom_user"  		start(160) finish(3000) cp(120))
+		("custom_user"  		start(160) finish(3000) cp(999))
 	}
 	{"c:custom_140_user"
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_140"}
-		("custom_user"  		start(160) finish(3000) cp(140))
+		("custom_user"  		start(160) finish(3000) cp(999))
 	}
 	{"c:custom_160_user"
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_160"}
-		("custom_user"  		start(160) finish(3000) cp(160))
+		("custom_user"  		start(160) finish(3000) cp(999))
 	}
 	{"c:custom_180_user"
 		{gameMode "custom"}
 		{unitMode "user"}
 		{specMode "cp_180"}
-		("custom_user"  		start(160) finish(3000) cp(180))
+		("custom_user"  		start(160) finish(3000) cp(999))
 	}
 	{"c:custom_200_user"
 		{gameMode "custom"}

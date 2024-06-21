@@ -1,0 +1,901 @@
+{map
+	{Land
+		{Position 0 0}
+	}
+	{Clips
+		{"[auto]"
+			{world -90000 -1000 90000 1000}
+			{camera -90000 -1000 90000 1000}
+			{pather -90000 -1000 90000 1000}
+			{distance 200 800}
+			{viewAngle 20 50}
+		}
+	}
+	{Ocean
+		{active 0}
+		{state calm}
+		{zlevel 0}
+		{waveamount 8}
+		{wavedir 50}
+	}
+	{Entity "new_fir2" 0x1
+		{Position -89515.4 797.14 0.04}
+	}
+	{Entity "new_fir2" 0x2
+		{Position -89301.4 594.91 -0.09}
+	}
+	{Entity "new_fir2" 0x3
+		{Position -89461.9 307.1 -0.05}
+	}
+	{Entity "new_fir2" 0x4
+		{Position -89645.2 56.87 0.04}
+	}
+	{Entity "new_fir2" 0x5
+		{Position -89510.1 -81.03 0.05}
+	}
+	{Entity "new_fir2" 0x6
+		{Position -89393 -245.66}
+	}
+	{Entity "new_fir2" 0x7
+		{Position -89800.3 -673.79 0.03}
+	}
+	{Entity "new_fir2" 0x8
+		{Position -89829.6 -448.19 0.1}
+	}
+	{Entity "new_fir2" 0x9
+		{Position -89768.8 163.62 0.09}
+	}
+	{Entity "new_fir2" 0xa
+		{Position -89766.2 893.38 0.08}
+	}
+	{Entity "new_fir2" 0xb
+		{Position -89918.3 579.65 -0.16}
+	}
+	{Entity "new_fir2" 0xc
+		{Position -89873.7 -766.52 -0.13}
+	}
+	{Human "civilian/civilian3" 0xd
+		{Position -89334.7 373.63 -0.1}
+		{Player 0}
+		{MID 10001}
+		{NameId 0 0}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0xe
+		{Position -89246.8 922.49 0.18}
+		{Player 0}
+		{MID 10002}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0xf
+		{Position -89431 -605.95 0.2}
+		{Player 0}
+		{MID 10003}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x10
+		{Position -89895.3 -26.97 -0.07}
+		{Player 0}
+		{MID 10004}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x11
+		{Position -89948.9 861.45 -0.05}
+		{Player 0}
+		{MID 10005}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x12
+		{Position -89924.4 -924.22 -0.02}
+		{Player 0}
+		{MID 10006}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x13
+		{Position -89894.7 -289.65 -0.21}
+		{Player 0}
+		{MID 10007}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x14
+		{Position -89900.3 439.26 -0.16}
+		{Player 0}
+		{MID 10008}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x15
+		{Position -89925.8 1034.78 0.03}
+		{Player 0}
+		{MID 10009}
+		{FsmState "stand"}
+	}
+	{Human "civilian/civilian3" 0x16
+		{Position -89725.6 -314.65}
+		{xform zl -31.6}
+		{Player 0}
+		{MID 10010}
+		{FsmState "stand"}
+	}
+	{Entity "new_fir2" 0x17
+		{Position -89647.6 -292.13 0.05}
+	}
+	{Entity "new_fir2" 0x18
+		{Position -89530.5 -456.76}
+	}
+	{Entity "new_fir2" 0x19
+		{Position -89638.7 -716.03 0.05}
+	}
+	{Entity "new_fir2" 0x1a
+		{Position -89521.6 -880.66}
+	}
+	{Entity "new_fir2" 0x1b
+		{Position -89749.6 513.53 0.05}
+	}
+	{Entity "new_fir2" 0x1c
+		{Position -89632.5 348.9}
+	}
+	{Entity "new_fir2" 0x1d
+		{Position -89838.8 -18.32 0.05}
+	}
+	{Entity "new_fir2" 0x1e
+		{Position -89721.7 -182.95}
+	}
+	{Entity "new_fir2" 0x1f
+		{Position -89708 -437.56 0.05}
+	}
+	{Entity "new_fir2" 0x20
+		{Position -89590.9 -602.19}
+	}
+	{Entity "new_fir2" 0x21
+		{Position -89795.6 -767.59 0.05}
+	}
+	{Entity "new_fir2" 0x22
+		{Position -89678.5 -932.22}
+	}
+	{Entity "new_fir2" 0x23
+		{Position -89594.5 626.45 0.05}
+	}
+	{Entity "new_fir2" 0x24
+		{Position -89477.3 461.82}
+	}
+	{Entity "new_fir2" 0x25
+		{Position -89858 816.57 0.05}
+	}
+	{Entity "new_fir2" 0x26
+		{Position -89740.9 651.94}
+	}
+	{Entity "rusch_tower" 0x4000
+		{Position -89063.8 511.95 0.07}
+	}
+	{Entity "rusch_tower" 0x4001
+		{Position -88919.3 491.48 -0.08}
+	}
+	{Entity "rusch_tower" 0x4002
+		{Position -88794.5 472.33 -0.07}
+	}
+	{Entity "rusch_tower" 0x4003
+		{Position -88645.7 446.21 0.09}
+	}
+	{Entity "rusch_tower" 0x4004
+		{Position -88489 463.02 0.07}
+	}
+	{Entity "rusch_tower" 0x4005
+		{Position -88344.5 442.55 -0.08}
+	}
+	{Entity "rusch_tower" 0x4006
+		{Position -88219.7 423.4 -0.07}
+	}
+	{Entity "rusch_tower" 0x4007
+		{Position -88070.9 397.28 0.09}
+	}
+	{Entity "rusch_tower" 0x4008
+		{Position -87951.1 443.99 0.07}
+	}
+	{Entity "rusch_tower" 0x4009
+		{Position -87806.6 423.52 -0.08}
+	}
+	{Entity "rusch_tower" 0x400a
+		{Position -87681.8 404.37 -0.07}
+	}
+	{Entity "rusch_tower" 0x400b
+		{Position -87533 378.25 0.09}
+	}
+	{Entity "rusch_tower" 0x400c
+		{Position -87376.6 429.84 0.07}
+	}
+	{Entity "rusch_tower" 0x400d
+		{Position -87232.1 409.37 -0.08}
+	}
+	{Entity "rusch_tower" 0x400e
+		{Position -87107.3 390.22 -0.07}
+	}
+	{Entity "rusch_tower" 0x400f
+		{Position -86958.5 364.1 0.09}
+	}
+	{Entity "rusch_tower" 0x4014
+		{Position -87104.3 -282.2 0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4015
+		{Position -87249.8 -270.78 -0.08}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4016
+		{Position -87375.6 -259.46 -0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4017
+		{Position -87525.7 -242.67 0.09}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4018
+		{Position -87681.1 -269.23 0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4019
+		{Position -87826.6 -257.84 -0.08}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x401a
+		{Position -87952.3 -246.5 -0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x401b
+		{Position -88102.5 -229.74 0.09}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x401c
+		{Position -88219.1 -283.83 0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x401d
+		{Position -88364.6 -272.44 -0.08}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x401e
+		{Position -88490.3 -261.1 -0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x401f
+		{Position -88640.5 -244.34 0.09}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4020
+		{Position -88793.3 -305.59 0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4021
+		{Position -88938.9 -294.18 -0.08}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4022
+		{Position -89064.6 -282.87 -0.07}
+		{xform zl -176.42}
+	}
+	{Entity "rusch_tower" 0x4023
+		{Position -89214.8 -266.09 0.09}
+		{xform zl -176.42}
+	}
+	{Entity "king_norm" 0x2010
+		{Position 87225.9 553.64 0.08}
+	}
+	{Entity "king_norm" 0x2011
+		{Position 87227.5 532.7 -0.09}
+	}
+	{Entity "king_norm" 0x2012
+		{Position 87227.7 506.5 0.08}
+	}
+	{Entity "king_norm" 0x2013
+		{Position 87229.3 485.56 -0.09}
+	}
+	{Entity "king_norm" 0x2014
+		{Position 87229.1 462.41 0.08}
+	}
+	{Entity "king_norm" 0x2015
+		{Position 87230.7 441.47 -0.09}
+	}
+	{Entity "king_norm" 0x2016
+		{Position 87230.9 415.27 0.08}
+	}
+	{Entity "king_norm" 0x2017
+		{Position 87232.5 394.33 -0.09}
+	}
+	{Entity "king_norm" 0x2018
+		{Position 87234.5 368.15 0.08}
+	}
+	{Entity "king_norm" 0x2019
+		{Position 87236.1 347.21 -0.09}
+	}
+	{Entity "king_norm" 0x201a
+		{Position 87236.3 321.01 0.08}
+	}
+	{Entity "king_norm" 0x201b
+		{Position 87237.8 300.07 -0.09}
+	}
+	{Entity "king_norm" 0x201c
+		{Position 87237.7 276.92 0.08}
+	}
+	{Entity "king_norm" 0x201d
+		{Position 87239.3 255.98 -0.09}
+	}
+	{Entity "king_norm" 0x201e
+		{Position 87239.5 229.78 0.08}
+	}
+	{Entity "king_norm" 0x201f
+		{Position 87241.1 208.84 -0.09}
+	}
+	{Entity "king_norm" 0x6000
+		{Position 87260.3 -174.67 0.08}
+	}
+	{Entity "king_norm" 0x6001
+		{Position 87261.9 -195.61 -0.09}
+	}
+	{Entity "king_norm" 0x6002
+		{Position 87262.1 -221.81 0.08}
+	}
+	{Entity "king_norm" 0x6003
+		{Position 87263.7 -242.75 -0.09}
+	}
+	{Entity "king_norm" 0x6004
+		{Position 87263.5 -265.9 0.08}
+	}
+	{Entity "king_norm" 0x6005
+		{Position 87265.1 -286.84 -0.09}
+	}
+	{Entity "king_norm" 0x6006
+		{Position 87265.3 -313.04 0.08}
+	}
+	{Entity "king_norm" 0x6007
+		{Position 87266.9 -333.98 -0.09}
+	}
+	{Entity "king_norm" 0x6008
+		{Position 87255.2 9.18 0.08}
+	}
+	{Entity "king_norm" 0x6009
+		{Position 87256.8 -11.76 -0.09}
+	}
+	{Entity "king_norm" 0x600a
+		{Position 87257 -37.96 0.08}
+	}
+	{Entity "king_norm" 0x600b
+		{Position 87258.6 -58.9 -0.09}
+	}
+	{Entity "king_norm" 0x600c
+		{Position 87258.4 -82.05 0.08}
+	}
+	{Entity "king_norm" 0x600d
+		{Position 87260 -102.99 -0.09}
+	}
+	{Entity "king_norm" 0x600e
+		{Position 87260.2 -129.19 0.08}
+	}
+	{Entity "king_norm" 0x600f
+		{Position 87261.8 -150.13 -0.09}
+	}
+	{Entity "king_norm" 0x6010
+		{Position 87589.7 587.15 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6011
+		{Position 87568.8 585.64 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6012
+		{Position 87542.6 585.54 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6013
+		{Position 87521.6 584.01 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6014
+		{Position 87498.5 584.3 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6015
+		{Position 87477.5 582.79 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6016
+		{Position 87451.3 582.7 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6017
+		{Position 87430.4 581.16 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6018
+		{Position 87404.2 579.27 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6019
+		{Position 87383.3 577.72 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x601a
+		{Position 87357.1 577.63 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x601b
+		{Position 87336.1 576.22 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x601c
+		{Position 87313 576.41 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x601d
+		{Position 87292 574.89 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x601e
+		{Position 87265.8 574.78 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x601f
+		{Position 87244.9 573.27 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6020
+		{Position 87969.7 600.93 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6021
+		{Position 87948.8 599.42 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6022
+		{Position 87922.6 599.32 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6023
+		{Position 87901.6 597.79 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6024
+		{Position 87878.5 598.08 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6025
+		{Position 87857.5 596.57 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6026
+		{Position 87831.3 596.48 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6027
+		{Position 87810.4 594.94 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6028
+		{Position 87784.2 593.05 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6029
+		{Position 87763.3 591.5 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x602a
+		{Position 87737.1 591.41 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x602b
+		{Position 87716.1 590 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x602c
+		{Position 87693 590.19 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x602d
+		{Position 87672 588.67 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x602e
+		{Position 87645.8 588.56 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x602f
+		{Position 87624.9 587.05 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6030
+		{Position 87637.6 -351.05 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6031
+		{Position 87616.7 -352.56 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6032
+		{Position 87590.5 -352.66 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6033
+		{Position 87569.5 -354.19 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6034
+		{Position 87546.4 -353.9 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6035
+		{Position 87525.4 -355.41 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6036
+		{Position 87499.2 -355.5 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6037
+		{Position 87478.3 -357.04 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6038
+		{Position 87452.1 -358.93 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6039
+		{Position 87431.2 -360.48 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x603a
+		{Position 87405 -360.57 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x603b
+		{Position 87384 -361.98 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x603c
+		{Position 87360.9 -361.79 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x603d
+		{Position 87339.9 -363.31 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x603e
+		{Position 87313.7 -363.42 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x603f
+		{Position 87292.8 -364.93 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6040
+		{Position 88006.8 -341.33 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6041
+		{Position 87985.9 -342.84 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6042
+		{Position 87959.7 -342.94 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6043
+		{Position 87938.7 -344.47 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6044
+		{Position 87915.6 -344.18 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6045
+		{Position 87894.6 -345.69 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6046
+		{Position 87868.4 -345.78 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6047
+		{Position 87847.5 -347.32 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6048
+		{Position 87821.3 -349.21 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6049
+		{Position 87800.4 -350.76 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x604a
+		{Position 87774.2 -350.85 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x604b
+		{Position 87753.2 -352.26 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x604c
+		{Position 87730.1 -352.07 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x604d
+		{Position 87709.1 -353.59 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x604e
+		{Position 87682.9 -353.7 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x604f
+		{Position 87662 -355.21 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6050
+		{Position 88169.8 61.53 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6051
+		{Position 88170.2 40.58 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6052
+		{Position 88168.8 14.43 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6053
+		{Position 88169.1 -6.64 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6054
+		{Position 88167.5 -29.68 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6055
+		{Position 88167.8 -50.75 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6056
+		{Position 88166.4 -76.92 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6057
+		{Position 88166.8 -97.87 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6058
+		{Position 88167.1 -124.12 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6059
+		{Position 88167.5 -145.08 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x605a
+		{Position 88166.1 -171.24 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x605b
+		{Position 88166.3 -192.27 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x605c
+		{Position 88164.8 -215.35 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x605d
+		{Position 88165.1 -236.42 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x605e
+		{Position 88163.7 -262.59 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x605f
+		{Position 88164.1 -283.52 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6060
+		{Position 88179.4 440.94 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6061
+		{Position 88179.8 419.99 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6062
+		{Position 88178.4 393.84 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6063
+		{Position 88178.7 372.77 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6064
+		{Position 88177.1 349.73 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6065
+		{Position 88177.4 328.66 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6066
+		{Position 88176 302.49 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6067
+		{Position 88176.4 281.54 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6068
+		{Position 88176.7 255.29 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6069
+		{Position 88177.1 234.33 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x606a
+		{Position 88175.7 208.17 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x606b
+		{Position 88175.9 187.14 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x606c
+		{Position 88174.4 164.06 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x606d
+		{Position 88174.7 142.99 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x606e
+		{Position 88173.3 116.82 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x606f
+		{Position 88173.7 95.89 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6070
+		{Position 88178.2 560.97 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6071
+		{Position 88178.6 540.02 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6072
+		{Position 88177.2 513.87 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6073
+		{Position 88177.5 492.8 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6074
+		{Position 88175.9 469.76 0.08}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6075
+		{Position 88176.2 448.69 -0.09}
+		{xform zl -3.48}
+	}
+	{Entity "king_norm" 0x6076
+		{Position 88150 -340.65 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6077
+		{Position 88129.1 -342.16 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6078
+		{Position 88102.9 -342.26 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6079
+		{Position 88081.9 -343.79 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x607a
+		{Position 88058.8 -343.5 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x607b
+		{Position 88037.8 -345.01 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x607c
+		{Position 88011.6 -345.1 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x607d
+		{Position 87990.7 -346.64 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x607e
+		{Position 88188.4 607.72 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x607f
+		{Position 88167.5 606.21 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6080
+		{Position 88141.3 606.11 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6081
+		{Position 88120.3 604.58 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6082
+		{Position 88097.2 604.87 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6083
+		{Position 88076.2 603.36 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6084
+		{Position 88050 603.27 0.08}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6085
+		{Position 88029.1 601.73 -0.09}
+		{xform zl -90.22}
+	}
+	{Entity "king_norm" 0x6086
+		{Position 88002.9 599.84 0.08}
+		{xform zl -90.22}
+	}
+	{Inventory 0xd
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xe
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0xf
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x10
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x11
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x12
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x13
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x14
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x15
+		{box
+			{clear}
+		}
+	}
+	{Inventory 0x16
+		{box
+			{clear}
+		}
+	}
+}

@@ -91,14 +91,14 @@
 		{gameMode "standard"}
 		{unitMode "competitive"}
 		{specMode "competitive_normal"}
-		("standard_competitive" 		start(160) finish(3000) cp(100))
+		("standard_competitive" 		start(160) finish(3000) cp(999))
 		{ranked}
 	}
 	{"s:standard_160_competitive"	
 		{gameMode "standard"}
 		{unitMode "competitive"}
 		{specMode "competitive_high"}
-		("standard_competitive" 		start(600) finish(4000) cp(140))
+		("standard_competitive" 		start(600) finish(4000) cp(999))
 	}
 
 ;------------------------------------------------------------------------------------------------------------
@@ -106,55 +106,55 @@
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_50"}
-		("custom_competitive" 			start(160) finish(3000) cp(50))
+		("custom_competitive" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_60_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_60"}
-		("custom_competitive" 			start(160) finish(3000) cp(60))
+		("custom_competitive" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_80_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_80"}
-		("custom_competitive" 			start(160) finish(3000) cp(80)) 
+		("custom_competitive" 			start(160) finish(3000) cp(999)) 
 	}
 	{"c:custom_100_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_100"}
-		("custom_competitive" 			start(160) finish(3000) cp(100))
+		("custom_competitive" 			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_120_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_120"}
-		("custom_competitive"  			start(160) finish(3000) cp(120))
+		("custom_competitive"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_140_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_140"}
-		("custom_competitive"  			start(160) finish(3000) cp(140))
+		("custom_competitive"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_160_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_160"}
-		("custom_competitive"  			start(160) finish(3000) cp(160))
+		("custom_competitive"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_180_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_180"}
-		("custom_competitive"  			start(160) finish(3000) cp(180))
+		("custom_competitive"  			start(160) finish(3000) cp(999))
 	}
 	{"c:custom_200_competitive"
 		{gameMode "custom"}
 		{unitMode "competitive"}
 		{specMode "cp_200"}
-		("custom_competitive"  			start(160) finish(3000) cp(200))
+		("custom_competitive"  			start(160) finish(3000) cp(999))
 	}
 ;------------------------------------------------------------------------------------------------------------
 }
