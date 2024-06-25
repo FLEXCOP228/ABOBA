@@ -164,15 +164,6 @@
 		{Position 2675.27 2795.09}
 		{Player 0}
 		{MID 60}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.896563}
-					{prevposition 2691.27 2789.03 21.8808}
-					{prevdirection 0.802461 -0.581989 -0.131704}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/pax/katz" 0xe004
@@ -185,12 +176,30 @@
 		{Position 2656.12 2919.74}
 		{Player 0}
 		{MID 62}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.979113}
+					{prevposition 2670.69 2911.37 20.3171}
+					{prevdirection 0.701057 -0.691918 -0.172536}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/pax/katz" 0xe008
 		{Position 2656.26 2971.95}
 		{Player 0}
 		{MID 63}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.809038}
+					{prevposition 2670.96 2964.64 22.0497}
+					{prevdirection 0.701427 -0.705864 -0.0987765}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/pax/katz" 0xe00a
@@ -302,6 +311,15 @@
 		{xform zl -41.76}
 		{Player 1}
 		{MID 7}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.871149}
+					{prevposition 377.363 -3002.5 20.9731}
+					{prevdirection 0.0680692 -0.985383 -0.156165}
+				}
+			}
+		}
 		{LastThrowItem "m24x5 grenade"}
 		{FsmState "stand"}
 	}
@@ -987,6 +1005,9 @@
 				{position -1301.72 2767.56 0}
 			}
 		}
+	}
+	{Players
+		{user 0}
 	}
 	{Fog 1}
 }

@@ -3,6 +3,15 @@
 		{Position -1391.68 -2194.85}
 		{Player 9}
 		{MID 1}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1377.82 -2209.4 21.4321}
+					{prevdirection 0.439101 -0.889671 -0.125208}
+				}
+			}
+		}
 		{NameId 0 0}
 		{FsmState "stand"}
 	}
@@ -157,7 +166,6 @@
 	}
 	{Human "mp/pax/babka" 0x801c
 		{Position -746.35 -2411.68}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 15}
 		{FsmState "stand"}
@@ -169,7 +177,6 @@
 	}
 	{Human "mp/pax/babka" 0x801e
 		{Position -703.14 -2397.24}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 16}
 		{FsmState "stand"}
@@ -181,7 +188,6 @@
 	}
 	{Human "mp/pax/babka" 0x8020
 		{Position -740.33 -2368.7}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 17}
 		{FsmState "stand"}
@@ -193,7 +199,6 @@
 	}
 	{Human "mp/pax/babka" 0x8022
 		{Position -778.98 -2373.73}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 18}
 		{FsmState "stand"}
@@ -205,9 +210,17 @@
 	}
 	{Human "mp/pax/babka" 0x8024
 		{Position -818.25 -2364.89}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 19}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.820168}
+					{prevposition -805.674 -2380.36 21.3535}
+					{prevdirection 0.365952 -0.92159 -0.129426}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Entity "svt40" 0x8025
@@ -265,6 +278,15 @@
 		{xform zl 15.68}
 		{Player 9}
 		{MID 24}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1026.22 -2296.87 8.84993}
+					{prevdirection 0.555412 -0.821474 -0.129219}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Entity "svt40" 0x802f
@@ -321,15 +343,6 @@
 		{Position -1272.53 -2212.41}
 		{Player 9}
 		{MID 29}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.75}
-					{prevposition -1250.6 -2209.48 24.0611}
-					{prevdirection 0.982207 0.186879 -0.0186479}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Entity "svt40" 0x8039
@@ -358,8 +371,8 @@
 			{State
 				{AccuracyByMotion
 					{value 0.8}
-					{prevposition -1420.33 -2156.96 19.032}
-					{prevdirection 0.849014 -0.287443 -0.157008}
+					{prevposition -1421.52 -2141.47 26.9062}
+					{prevdirection 0.818613 0.397459 -0.000357499}
 				}
 			}
 		}
@@ -511,6 +524,7 @@
 	{Human "mp/ukr/bandera" 0x8056
 		{Position -1090.13 -3824.49}
 		{xform zl 85.36}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 40}
 		{NameId 0 0}
@@ -524,6 +538,7 @@
 	{Human "mp/ukr/bandera2" 0x8058
 		{Position -1138.74 -3816.47}
 		{xform zl 157.64}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 41}
 		{FsmState "stand"}
@@ -536,6 +551,7 @@
 	{Human "mp/ukr/obor" 0x805a
 		{Position -1247.68 -3809.25}
 		{xform zl 104.02}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 42}
 		{LastThrowItem "molotov_coctail grenade"}
@@ -544,6 +560,7 @@
 	{Human "mp/ukr/obor" 0x805c
 		{Position -1205.67 -3819.23}
 		{xform zl 91.14}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 43}
 		{LastThrowItem "molotov_coctail grenade"}
@@ -562,6 +579,7 @@
 	{Human "mp/ukr/bandera" 0x8062
 		{Position -1130.76 -3744.96}
 		{xform zl 85.36}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 44}
 		{FsmState "stand"}
@@ -569,6 +587,7 @@
 	{Human "mp/ukr/bandera2" 0x8063
 		{Position -1083.28 -3752.66}
 		{xform zl 85.36}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 45}
 		{FsmState "stand"}
@@ -576,6 +595,7 @@
 	{Human "mp/ukr/obor" 0x8064
 		{Position -1224.07 -3728.3}
 		{xform zl 91.14}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 46}
 		{LastThrowItem "molotov_coctail grenade"}
@@ -584,6 +604,7 @@
 	{Human "mp/ukr/obor" 0x8065
 		{Position -1182.72 -3735.65}
 		{xform zl 91.14}
+		{SpawnedInFog}
 		{Player 0}
 		{MID 47}
 		{LastThrowItem "molotov_coctail grenade"}
@@ -735,7 +756,6 @@
 	{Entity "hamilcar" 0x807c
 		{Position -572.29 4260.46}
 		{xform zl -179.7 y 3.37 zw 88.27}
-		{SpawnedInFog}
 		{Extender "enumerator"
 			{number 734}
 		}
@@ -745,7 +765,6 @@
 	{Entity "hamilcar" 0x807d
 		{Position -2606.76 1609.07}
 		{xform zl -179.7 y 3.37 zw 179.7}
-		{SpawnedInFog}
 		{Extender "enumerator"
 			{number 362}
 		}
@@ -755,7 +774,6 @@
 	{Entity "hamilcar" 0x807e
 		{Position 1063.86 1203.71}
 		{xform zl -179.7 y 3.37 zw 107.31}
-		{SpawnedInFog}
 		{Extender "enumerator"
 			{number 666}
 		}
@@ -2816,6 +2834,9 @@
 				}
 			}
 		}
+	}
+	{Players
+		{user 0}
 	}
 	{Fog 1}
 }
