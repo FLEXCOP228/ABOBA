@@ -282,6 +282,7 @@
 			}
 			{"pax"
 				{"tesas" "<c(c3baae)>Тесак"}
+				{"ap_miner" "<c(c3baae)>Cлавянская бригада строителей"}
 				{"smg" "<c(c3baae)>Скинхед"}
 				{"rifle" "<c(c3baae)>Скинхед"}
 				{"babka" "<c(c3baae)>Бабка из отрядов путина"}
@@ -299,6 +300,9 @@
 				{"hom" "<c(c3baae)>Т-600"}
 				{"home_guard" "<c(c3baae)>Т-800"}
 				{"home_guard2" "<c(c3baae)>Т-800"}
+			}
+			{"tra"
+				{"aries" "<c(c3baae)>Cлавянская бригада строителей"}
 			}
 			{"ger2"
 				{"ap_miner" "<c(c3baae)>ПП минёр"}
@@ -380,6 +384,8 @@
 		{"sturmmanns(sa)" "Штурманны"}
 		{"trupfurer(sa)" "Трупфюреры"}
 		{"ap_miners(eng)" "ПП минёры"}
+		{"aries(pax)" "Cлавянская бригада строителей"}
+		{"aries(tra)" "Cлавянская бригада строителей"}
 		{"ap_miners(ger)" "ПП минёры"}
 		{"ap_miners(jap)" "ПП минёры"}
 		{"ap_miners(rus)" "ПП минёры"}

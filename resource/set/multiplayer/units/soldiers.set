@@ -416,6 +416,7 @@
 {"mp/ger/ap_miner" ("ap_miner" side(ger))}
 {"mp/jap/ap_miner" ("ap_miner" side(jap))}
 {"mp/ger2/ap_miner" ("ap_miner" side(ger2))}
+{"mp/pax/ap_miner" ("ap_miner" side(pax))}
 
 
 
