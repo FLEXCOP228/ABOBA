@@ -3,10 +3,7 @@
 МОД ПОЛНОСТЬЮ ТОТАЛЬНО НА УЗКОМ ЯЗЫКЕ БЕСПЛАТНЫЙ БЕЗ СМС И РЕГИСТРАЦИЙ
 В ГОСНОВНОМ ОН СДЕЛАН ДЛЯ МУЛЬТИПЛЕЕЕРА НО ТАКЖЕ ЕСТЬ МИССИИ ДЛЯ ГАЛОЧКИ!!!!
 ЦЕЛЬЮ МОДА БЫЛО АСКОРБИТЬ ВСЕХ!!!!!
-ВСЕМ СПАСИБО ИДИТЕ НАХУЙ!!!!!!!![Б22ез имени](https://github.com/FLEXCOP228/ABOBA/assets/169082720/ecb14d0a-a044-47fb-a2ae-d05985dd7cd9)
-![Без имени](https://github.com/FLEXCOP228/ABOBA/assets/169082720/380f9552-e44a-4148-88cd-38ca9eb51f92)
-![Без имен22222и](https://github.com/FLEXCOP228/ABOBA/assets/169082720/faa10c5e-d13c-46a4-91ba-9e229f4eb898)
-![Без имен22и](https://github.com/FLEXCOP228/ABOBA/assets/169082720/c909209b-9058-4675-b1a1-f325eab6dd5e)
-![Uploading splash.png…]()
-![Uploading Без им2ени.png…]()
-![Uploading Без им32324ени.png…]()
+ВСЕМ СПАСИБО ИДИТЕ НАХУЙ!!!!!!!
+![splash](https://github.com/FLEXCOP228/ABOBA/assets/169082720/a670ce53-c22c-4d28-b609-2653add5806d)
+![Без имен22и](https://github.com/FLEXCOP228/ABOBA/assets/169082720/a73ead6c-ac1b-4152-9faf-a7c7b5572ff5)
+![Без имени](https://github.com/FLEXCOP228/ABOBA/assets/169082720/2db520c8-9703-49e0-b5e6-8d508249b996)
