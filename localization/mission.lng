@@ -27,10 +27,19 @@
 			{"name" "Frozen River <e(shadow)><c(bebebe)>1x1</c>"}
 		}
 		{"1v1_reloading_point"
-			{"name" "Reloading Point <e(shadow)><c(bebebe)>1x1</c>"}
+			{"name" "Reloading Point <e(shadow)><c(bebebe)>4x4</c>"}
 		}
 		{"1v1_winter_hills"
-			{"name" "Winter Hills <e(shadow)><c(bebebe)>1x1</c>"}
+			{"name" "Winter Hills <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"4x4_giperboreja"
+			{"name" "Гиберборея <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"4x4shit"
+			{"name" "Крутое we we <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"4x4domprofsojuzovadessa"
+			{"name" "Одеса <e(shadow)><c(bebebe)>4x4</c>"}
 		}
 		{"1v1_winter_church"
 			{"name" "Winter Church <e(shadow)><c(bebebe)>1x1</c>"}
