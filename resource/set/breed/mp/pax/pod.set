@@ -3,7 +3,7 @@
 	{portrait pod2}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality rus}
+	{nationality pod}
 	{armors
 		{head winterhat}
 	}

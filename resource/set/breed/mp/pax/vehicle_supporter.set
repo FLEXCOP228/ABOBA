@@ -3,7 +3,7 @@
 	{portrait none}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality rus}
+	{nationality tan}
 	{perks
 		{"health" "125%"
 		}

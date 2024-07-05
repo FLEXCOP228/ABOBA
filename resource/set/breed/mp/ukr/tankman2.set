@@ -3,7 +3,7 @@
 	{portrait terrain_negative2_00}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality tan}
 	{perks
 		{"health" "100%"
 		}

@@ -1,9 +1,9 @@
 {breed
 	{skin "ger_flamer"}
-	{portrait terrain_negative2_00}
+	{portrait zov}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality tan}
 	{perks
 		{"health" "100%"
 		}

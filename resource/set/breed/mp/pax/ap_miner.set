@@ -1,0 +1,63 @@
+{breed
+	{skin "eng_medic"}
+	{portrait ari}
+	{icon ap_miner}
+	{icon_priority 3}
+	{nationality sla}
+	{armors
+		{head cap1_rus}
+	}
+	{perks
+		{"health" "250%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "100%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.9
+		}
+		{"tank" 0.8
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_1
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+	}
+	{veterancy
+		{"lvl_1" 1
+		}
+		{"lvl_2" 2
+		}
+		{"lvl_3" 3
+		}
+		{"lvl_4" 4
+		}
+		{"lvl_5" 80
+		}
+	}
+	{inventory
+		{item "mine antipersonnel" 25}
+		{item "barbwire_kit"}
+		{item "sandbag_kit"}
+		{item "sandbag_kit2"}
+		{item "chicken"}
+		{item "antitank mine" 10}
+		{in_hands 4}
+	}
+}

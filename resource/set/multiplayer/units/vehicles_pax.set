@@ -24,7 +24,15 @@
 
 {"m37"              ("vs3" c(0) t(all cannon) 	s(pax) n3(2) g(c4) sc(6.75)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}
 {"zis3"             ("vs3" c(0) t(all cannon mediumcan) 	s(pax) n3(2) g(c6) sc(11.00) b(v2) cw(2) cp(10)) {level 1} {cost 220} {fore 1.0}}
+{"zis2"             ("vs" c(0) t(all cannon heavycan) 	s(rus) n(2) g(c5) sc(16.25) b(v2) cw(2) cp(15)) {level 1} {cost 325} {fore 1.0}}
 
+("how" side(rus) name(how_aa) c(0) c1(t20) c2(k61)  		t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(250) f(1.0))
+("how" side(rus) name(how_b) c(0) c1(t20) c2(m30_1938) 		t(all artillery) g(c9) b(v2) level(6) cost(700) f(1.0))
+("how" side(rus) name(how_a) c(0) c1(t20) c2(d1) 			t(all artillery heavyart) g(c8) b(v2) level(9) cost(800) f(1.0))
+
+{"su122"            ("v" c(0) t(all artillery) 			s(rus) n1(3) n2(1) g(c10) sc(37.50) b(v2) cw(0) cp(15)) {level 12} {cost 750} {fore 1.0}}
+{"isu152"           ("v"  c(0) t(all artillery heavyart) s(rus) n1(4) n2(1) g(c11) sc(67.50) b(v2) cw(0) cp(30)) {level 15} {cost 1350} {fore 1.0}} 	
+{"bm13"             ("vs" c(0) t(all artillery heavyart) s(rus) n(2) g(c12) sc(62.50) b(v2) cw(0) cp(20)) {level 18} {cost 1250} {fore 1.0}}
 
 
 
@@ -34,6 +42,11 @@
 {"sdkfz234"              ("v" c(0) t(all light arcade) s(pax) n1(2) n2(1) g(d3) sc(10.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 0}}
 {"t20"              ("v" c(0) t(all light arcade) s(pax) n1(2) n2(1) g(d3) sc(10.00) b(v3) cw(0) cp(5)) {level 1} {cost 133} {fore 0}}
 
+{"t60"              ("v" c(150) t(all light) 		s(rus) n1(1) n2(1) g(d4) sc(13.00) b(v3) cw(0) cp(5)) {level 5} {cost 260} {fore 0}}
+{"t70"              ("v" c(150) t(all light) 		s(rus) n1(1) n2(1) g(d5) sc(14.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 0}}
+{"zsu37"            ("v" c(150) t(all medium) 		s(rus) n1(3) n2(1) g(d6) sc(17.50) b(v3) cw(0) cp(15)) {level 10} {cost 350} {fore 0}}
+
+{"t34m"             ("v" c(150) t(deminer) 			s(rus) n1(1) n2(1) g(d7) sc(12.50) b(v3) cw(0) cp(0)) {level 1} {cost 250} {fore 0}}
 
 
 
@@ -41,12 +54,29 @@
 
 {"pz3_pax"             ("v" c(0) t(all medium) 		s(pax) n1(2) n2(1) g(e1) sc(16.00) b(v4) cw(0) cp(15)) {level 4} {cost 355} {fore 1.0}}
 
+{"bt7a"             ("v" c(0) t(all medium) 		s(rus) n1(2) n2(1) g(e1) sc(16.00) b(v4) cw(0) cp(15)) {level 4} {cost 320} {fore 1.0}}
+{"t34_0"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e2) sc(17.50) b(v4) cw(0) cp(15)) {level 1} {cost 350} {fore 1.0}}
+{"t34_2"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e3) sc(20.00) b(v4) cw(0) cp(15)) {level 1} {cost 400} {fore 1.0}}
 
+{"t34_1"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e4) sc(26.25) b(v4) cw(0) cp(15)) {level 1} {cost 525} {fore 1.0}}
+{"kv1"              ("v" c(0) t(all heavy) 			s(rus) n1(4) n2(1) g(e5) sc(30.00) b(v4) cw(0) cp(30)) {level 1} {cost 600} {fore 1.0}}
+{"t34_3"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e6) sc(36.25) b(v4) cw(0) cp(15)) {level 1} {cost 725} {fore 1.0}}
+	
+{"kv85"             ("v" c(0) t(all heavy) 			s(rus) n1(3) n2(1) g(e7) sc(47.50) b(v4) cw(0) cp(30)) {level 1} {cost 950} {fore 1.0}}
+{"is1"              ("v" c(0) t(all heavy) 			s(rus) n1(3) n2(1) g(e8) sc(55.00) b(v4) cw(0) cp(30)) {level 1} {cost 1100} {fore 1.0}} 	
+{"is2"           	("v" c(0) t(all heavy) 			s(rus) n1(4) n2(1) g(e9) sc(70.00) b(v4) cw(0) cp(30)) {level 15} {cost 1400} {fore 1.0}}
+	
+{"is3"              ("v" c(0) t(all sheavy arcade) 	s(rus) n1(4) n2(1) g(e10) sc(110.00) b(v4) cw(0) cp(40)) {level 1} {cost 2200} {fore 1.0}} 	
 
 
 ;°°°Button 5°°°
 
+{"su76"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f1) sc(14.00) b(v5) cw(0) cp(10)) {level 1} {cost 280} {fore 1.0}}
+{"zis_30"           ("v" c(0) t(all medium arcade) 	s(rus) n1(3) n2(1) g(f2) sc(17.50) b(v5) cw(0) cp(10)) {level 1} {cost 350} {fore 1.0}}
+{"su85"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(27.50) b(v5) cw(0) cp(15)) {level 1} {cost 550} {fore 1.0}} 	
 
+{"isu122"           ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f4) sc(42.50) b(v5) cw(0) cp(30)) {level 1} {cost 850} {fore 1.0}}
+{"su100"            ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f5) sc(60.00) b(v5) cw(0) cp(30)) {level 1} {cost 1200} {fore 1.0}} 	
 
 
 

@@ -105,7 +105,7 @@
 ("squad_with4types" side(pax) name(tesass) c(1) g(squad_7) c1(tesas:1) c2(rifle:4) c3(smg:3) b(squad1) t(all inf_only) level(1) cost(130) f(1.0))
 ("squad_with4types" side(rob) name(homs) c(1) g(squad_8) c1(hom:7) b(squad1) t(all inf_only) level(1) cost(125) f(1.0))
 ("squad_with4types" side(pax) name(malkovs) c(1) g(squad_9) c1(malkov:10) b(squad1) t(all inf_only) level(1) cost(35) f(1.0))
-("squad_with4types" side(ukr) name(macarons) c(1) g(squad_10) c1(macaron:1) b(squad1) t(all inf_only) level(1) cost(15) f(1.0))
+("squad_with4types" side(ukr) name(macarons) c(1) g(squad_10) c1(macaron:4) b(squad1) t(all inf_only) level(1) cost(60) f(1.0))
 ("squad_with4types" side(pax) name(kats) c(1) g(squad_11) c1(katz:1) b(squad1) t(all inf_only) level(1) cost(80) f(1.0))
 ("squad_with4types" side(pax) name(shews) c(1) g(squad_12) c1(shew:7) b(squad1) t(all inf_only) level(1) cost(185) f(1.0))
 ("squad_with4types" side(ukr) name(shews) c(1) g(squad_13) c1(shew:7) b(squad1) t(all inf_only) level(1) cost(185) f(1.0))

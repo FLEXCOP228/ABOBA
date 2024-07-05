@@ -3,7 +3,7 @@
 	{portrait farc}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality far}
 	{perks
 		{"health" "50%"
 		}

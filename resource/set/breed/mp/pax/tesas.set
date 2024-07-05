@@ -3,7 +3,7 @@
 	{portrait tesas}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality rus}
+	{nationality tes}
 	{perks
 		{"health" "200%"
 		}

@@ -3,7 +3,7 @@
 	{portrait ukr_malkov}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality mal}
 	{perks
 		{"health" "100%"
 		}

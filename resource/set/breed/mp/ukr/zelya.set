@@ -3,7 +3,7 @@
 	{portrait ukr_zelya}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality zel}
 	{armors
 		{head cap1_ger}
 	}

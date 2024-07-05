@@ -3,7 +3,7 @@
 	{portrait pax_katz}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality ger}
+	{nationality kat}
 	{perks
 		{"health" "200%"
 		}

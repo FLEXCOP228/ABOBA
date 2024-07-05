@@ -1,4 +1,0 @@
-{mission
-(include "skirmish_units(tutorial).mi")
-(include "skirmish_script(tutorial).mi")
-}

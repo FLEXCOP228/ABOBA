@@ -3,7 +3,7 @@
 	{portrait skinx}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality rus}
+	{nationality tes}
 	{armors
 		{head fieldcap1_rus}
 	}
