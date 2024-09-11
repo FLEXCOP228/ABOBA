@@ -181,4 +181,5 @@
 	(include "vehicles_pax.set")
 	(include "vehicles_rob.set")
 	(include "vehicles_tra.set")
+	(include "vehicles_fem.set")
 	(include "vehicles_x.set")

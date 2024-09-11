@@ -306,6 +306,10 @@
 			{"tra"
 				{"aries" "<c(c3baae)>Cлавянская бригада строителей"}
 			}
+			{"fem"
+				{"home_guard" "<c(c3baae)>ШтЕфанов с пивом"}
+				{"home_guard2" "<c(c3baae)>ШтЕфанов С БоЧКой"}
+			}
 			{"ger2"
 				{"ap_miner" "<c(c3baae)>ПП минёр"}
 				{"at_miner" "<c(c3baae)>ПТ минёр"}
@@ -363,6 +367,7 @@
 		{"obors(ukr)" "Самооборона Майдана"}
 		{"pods(pax)" "Секс отряд Поднебесного"}
 		{"shews(ukr)" "Шевцовы"}
+		{"shtefans(fem)" "КОТИКИ"}
 		{"shews(pax)" "Шевцовы"}
 		{"shews(rob)" "Шевцовы"}
 		{"babkas(pax)" "Отряды путина"}

@@ -20,6 +20,33 @@
 				{"name" "Omaha <e(shadow)><c(bebebe)>3x3</c>"}
 			}
 		}
+		{"4x4_giperboreja"
+			{"name" "Гиберборея <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"4x4shit"
+			{"name" "Крутое we we <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"4x4domprofsojuzovadessa"
+			{"name" "Одеса <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"100v100_makeewskij_podnichok"
+			{"name" "Макеевский рудничок <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"traktor 1"
+			{"name" "Тип ТиРип Пип Ип пИрИп <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"tub 1"
+			{"name" "ТРАКТОООР ТРАААКТОООР БЛЯТЬ ТРаАаКТОоОР!!!! <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"zavod 1"
+			{"name" "УрАлГоВнОзАвОд <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"ebla"
+			{"name" "ШУЕ ППШ <e(shadow)><c(bebebe)>4x4</c>"}
+		}
+		{"desert 1"
+			{"name" "ВЫСЖЕННАЯ ЛУНА НАХ <e(shadow)><c(bebebe)>4x4</c>"}
+		}
 		{"1v1_snowfields"
 			{"name" "Snow Fields <e(shadow)><c(bebebe)>1x1</c>"}
 		}
@@ -31,15 +58,6 @@
 		}
 		{"1v1_winter_hills"
 			{"name" "Winter Hills <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"4x4_giperboreja"
-			{"name" "Гиберборея <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"4x4shit"
-			{"name" "Крутое we we <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"4x4domprofsojuzovadessa"
-			{"name" "Одеса <e(shadow)><c(bebebe)>4x4</c>"}
 		}
 		{"1v1_winter_church"
 			{"name" "Winter Church <e(shadow)><c(bebebe)>1x1</c>"}
@@ -95,21 +113,6 @@
 		{"4v4_bazerville"
 			{"name" "Bazerville <e(shadow)><c(bebebe)>4x4</c>"}
 		}
-		{"desert 1"
-			{"name" "ВЫСЖЕННАЯ ЛУНА НАХ <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"100v100_makeewskij_podnichok"
-			{"name" "Макеевский рудничок <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"traktor 1"
-			{"name" "Тип ТиРип Пип Ип пИрИп <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"tub 1"
-			{"name" "ТРАКТОООР ТРАААКТОООР БЛЯТЬ ТРаАаКТОоОР!!!! <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"zavod 1"
-			{"name" "УрАлГоВнОзАвОд <e(shadow)><c(bebebe)>4x4</c>"}
-		}
 		{"4v4_town"
 			{"name" "Town <e(shadow)><c(bebebe)>4x4</c>"}
 		}
@@ -121,9 +124,6 @@
 		}
 		{"4v4_suburb"
 			{"name" "Suburb 2 <e(shadow)><c(bebebe)>4x4</c>"}
-		}
-		{"ebla"
-			{"name" "ШУЕ ППШ <e(shadow)><c(bebebe)>4x4</c>"}
 		}
 		{"4v4_nijmegen"
 			{"name" "Nijmegen <e(shadow)><c(bebebe)>4x4</c>"}

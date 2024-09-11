@@ -1,0 +1,59 @@
+{breed
+	{skin "rebel_fr"}
+	{portrait shefanof}
+	{icon home_guard}
+	{icon_priority 0}
+	{nationality kat}
+	{perks
+		{"health" "125%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "75%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 1.1
+		}
+		{"tank" 0.6
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_2
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_1
+		}
+	}
+	{veterancy
+		{"lvl_1" 4
+		}
+		{"lvl_2" 8
+		}
+		{"lvl_3" 24
+		}
+		{"lvl_4" 48
+		}
+		{"lvl_5" 80
+		}
+	}
+	{inventory
+		{item "ammo rifle" 80}
+		{item "bandage" 3}
+		{item "grenade type97"}
+		{item "type99rifle" filling "rifle ammo" 5}
+		{item "b33r"}
+		{in_hands 4}
+	}
+}

@@ -85,6 +85,7 @@
 {"mp/jap/home_guard" ("home_guard" side(jap))}
 {"mp/ger2/home_guard" ("home_guard" side(ger2))}
 {"mp/rob/home_guard" ("home_guard" side(rob))}
+{"mp/fem/home_guard" ("home_guard" side(fem))}
 
 {"mp/rus/home_guard2" ("home_guard" side(rus))}
 {"mp/ger/home_guard2" ("home_guard" side(ger))}
@@ -93,6 +94,7 @@
 {"mp/jap/home_guard2" ("home_guard" side(jap))}
 {"mp/ger2/home_guard2" ("home_guard" side(ger2))}
 {"mp/rob/home_guard2" ("home_guard" side(rob))}
+{"mp/fem/home_guard2" ("home_guard" side(fem))}
 
 
 
