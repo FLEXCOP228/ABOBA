@@ -120,7 +120,7 @@
 ("squad_with4types" side(usa) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(145) f(1.0))
 ("squad_with4types" side(eng) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(130) f(1.0))
 ("squad_with4types" side(jap) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(130) f(1.0))
-("squad_with4types" side(fem) name(shtefans) c(0) g(squad_2) c1(home_guard:4) c2(home_guard2:5) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(75) f(1.0))
+("squad_with4types" side(fem) name(stefanofs) c(30) g(squad_2) c1(home_guard:4) c2(home_guard2:5) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(75) f(1.0))
 ("squad_with4types" side(ger2) name(riflemans) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(140) f(1.0))
 
 

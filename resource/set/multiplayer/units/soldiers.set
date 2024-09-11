@@ -97,7 +97,6 @@
 {"mp/fem/home_guard2" ("home_guard" side(fem))}
 
 
-
 (define "obor"
     {tags   "obor %side infantry man"}
     {cp     1.875}

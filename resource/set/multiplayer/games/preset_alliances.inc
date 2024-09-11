@@ -9,17 +9,17 @@
 				{icon "/interface/pages/multi/flag_ukr"}
 			}
 			{"robots" 
-				{title "KiBeR TeLePuZiKi"}
+				{title "KIBER TELEPUZIKI"}
 				{armies "rob"}
 				{icon "/interface/pages/multi/flag_rob"}
 			}
 			{"fembois"
-				{title "4BK Femboi4ik"}
+				{title "4BK Femboi4ic"}
 				{armies "fem"}
 				{icon "/interface/pages/multi/flag_fem"}
 			}
 			{"tractors"
-				{title "LYKA111ENIA"}
+				{title "LYKAIIIENIA"}
 				{armies "tra"}
 				{icon "/interface/pages/multi/flag_tra"}
 			}
