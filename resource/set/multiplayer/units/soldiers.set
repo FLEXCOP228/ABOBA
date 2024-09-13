@@ -191,6 +191,7 @@
 {"mp/jap/smg" ("smg" side(jap))}
 {"mp/ger2/smg" ("smg" side(ger2))}
 {"mp/pax/smg" ("smg" side(pax))}
+{"mp/fem/smg" ("smg" side(fem))}
 
 {"mp/rus/smg2" ("smg" side(rus))}
 {"mp/usa/smg2" ("smg" side(usa))}

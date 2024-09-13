@@ -1,15 +1,15 @@
 {from "pattern smg"
 	{tag "assaultrifle"}
-	{filling "ammo pistol" 30}
+	{filling "ammo pistol" 300}
 	{mass 5}
 	{entity "stg44_scope"}
 	{fireSound	"smg/mp44_burst/"}
 	{reloadSound "mp44"}	
 
-	{range 65 70}
-	{healthDamage 160}
+	{range 666 666}
+	{healthDamage 10}
 	("recoveryTime" r(500))
 	("burst_short")
 	("accuracy_automatic_rifle")
- 	("speed" s(685))
+ 	("speed" s(6850))
 }

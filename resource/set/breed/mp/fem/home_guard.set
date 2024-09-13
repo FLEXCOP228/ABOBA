@@ -3,9 +3,9 @@
 	{portrait shefanof}
 	{icon home_guard}
 	{icon_priority 0}
-	{nationality kat}
+	{nationality rus}
 	{perks
-		{"health" "125%"
+		{"health" "150%"
 		}
 		{"health_regeneration" "100%"
 		}

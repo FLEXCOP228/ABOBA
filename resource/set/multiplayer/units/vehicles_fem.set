@@ -5,7 +5,7 @@
 
 ;°°°Button 1°°°
 
-{"chi-to"              ("vs1" c(1) t(all) 			s(fem) n5(1) g(b1) sc(4.00) b(v1) cw(0) cp(0)) {level 2} {cost 250} {fore 1.0}}
+{"chi-to"              ("vse" c(1) t(all) 			s(fem) n6(5) g(b1) sc(4.00) b(v1) cw(0) cp(0)) {level 2} {cost 250} {fore 1.0}}
 
 
 
