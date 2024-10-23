@@ -5,8 +5,8 @@
 	
 	{extender "enumerator"}
 	
-	("armor_medium" turret(7 5 5 3) body(7 5 4 3))
-	("armor_engine"  t(5 5 5 3))
+	("armor_medium" turret(0 0 0 0) body(0 0 0 0))
+	("armor_engine"  t(0 0 0 0))
 	("armor_mantlet" t(10))
 
 	{boarder

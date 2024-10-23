@@ -1,6 +1,6 @@
-MaxSquadSize = 5
-OrderRotationPeriod = 3 * 60 * 1000 -- 3min (ms)
-FlagPriority = { Captured = 1, Enemy = 2, Neutral = 3 }
+MaxSquadSize = 55
+OrderRotationPeriod = 1 * 32 * 2048 -- 1min (ms)
+FlagPriority = { Captured = 1, Enemy = 3, Neutral = 1 } 
 UnitClass = {
 	Infantry = "infantry",
 	ATInfantry = "at-infantry",
