@@ -310,6 +310,9 @@
 				{"home_guard" "<c(c3baae)>ШтЕфанов с пивом"}
 				{"home_guard2" "<c(c3baae)>ШтЕфанов С БоЧКой"}
 				{"smg" "<c(c3baae)>Рядовой куча"}
+				{"telepuzik" "<c(c3baae)>Тинки-Винки"}
+				{"telepuzik2" "<c(c3baae)>Дипси"}
+				{"shaverma" "<c(c3baae)>Шаверма"}
 			}
 			{"ger2"
 				{"ap_miner" "<c(c3baae)>ПП минёр"}
@@ -366,6 +369,8 @@
 	}
 	{"squad"
 		{"kuchas(fem)" "Малинки малинки весёлые поминки"}
+		{"telepuziks(fem)" "Кибер телепузики"}
+		{"shavermas(fem)" "ШАУРМААААААА"}
 		{"obors(ukr)" "Самооборона Майдана"}
 		{"pods(pax)" "Секс отряд Поднебесного"}
 		{"shews(ukr)" "Шевцовы"}

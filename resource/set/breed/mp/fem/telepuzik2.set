@@ -1,0 +1,57 @@
+{breed
+	{skin "eng_flamer"}
+	{portrait telepuzik2}
+	{icon home_guard}
+	{icon_priority 0}
+	{nationality rob}
+	{perks
+		{"health" "100%"
+		}
+		{"health_regeneration" "20%"
+		}
+		{"stamina" "20%"
+		}
+		{"stamina_regeneration" "20%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 1
+		}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_3
+		}
+		{"smg" lvl_3
+		}
+		{"mgun" lvl_3
+		}
+		{"rifle" lvl_3
+		}
+		{"rocketlauncher" lvl_3
+		}
+		{"melee" lvl_3
+		}
+	}
+	{veterancy
+		{"lvl_1" 3
+		}
+		{"lvl_2" 5
+		}
+		{"lvl_3" 10
+		}
+		{"lvl_4" 20
+		}
+		{"lvl_5" 30
+		}
+	}
+	{inventory
+		{item "m39 grenade"}
+		{item "mp3008" filling "pistol ammo" 32}
+		{item "pistol ammo" 350}
+		{in_hands 1}
+	}
+}
