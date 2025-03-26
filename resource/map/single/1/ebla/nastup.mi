@@ -2,7 +2,6 @@
 	{Human "mp/rob/home_guard2" 0x8000
 		{Position -652.16 -2829.69}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 1}
 		{NameId 0 0}
@@ -16,7 +15,6 @@
 	{Human "mp/rob/home_guard2" 0x8002
 		{Position -619.04 -2831.14}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 2}
 		{FsmState "stand"}
@@ -29,7 +27,6 @@
 	{Human "mp/rob/home_guard" 0x8004
 		{Position -685.92 -2829.54}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 3}
 		{FsmState "stand"}
@@ -57,15 +54,22 @@
 	{Human "mp/rob/home_guard2" 0x8009
 		{Position -753.51 -2829.92}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 4}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.794504}
+					{prevposition -751.759 -2814.56 23.4494}
+					{prevdirection 0.315122 0.948464 -0.0333763}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x800a
 		{Position -720.39 -2831.37}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 5}
 		{FsmState "stand"}
@@ -73,7 +77,6 @@
 	{Human "mp/rob/home_guard" 0x800b
 		{Position -787.27 -2829.77}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 6}
 		{FsmState "stand"}
@@ -111,15 +114,22 @@
 	{Human "mp/rob/home_guard2" 0x8012
 		{Position -398.25 -2833.39}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 7}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -389.015 -2823.47 21.4099}
+					{prevdirection 0.872191 0.459718 -0.167162}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x8013
 		{Position -365.13 -2834.84}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 8}
 		{FsmState "stand"}
@@ -127,15 +137,22 @@
 	{Human "mp/rob/home_guard" 0x8014
 		{Position -432.01 -2833.24}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 9}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.7925}
+					{prevposition -416.452 -2823.37 24.148}
+					{prevdirection 0.993342 0.114625 0.0116072}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x8015
 		{Position -499.6 -2833.62}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 10}
 		{FsmState "stand"}
@@ -143,15 +160,22 @@
 	{Human "mp/rob/home_guard2" 0x8016
 		{Position -466.48 -2835.07}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 11}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.7725}
+					{prevposition -480.911 -2828.54 24.0693}
+					{prevdirection -0.650582 0.75923 -0.0177506}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard" 0x8017
 		{Position -533.36 -2833.47}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 12}
 		{FsmState "stand"}
@@ -189,24 +213,13 @@
 	{Human "mp/rob/home_guard2" 0x801e
 		{Position -83.2 -2834.61}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 13}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.89527}
-					{prevposition -77.0212 -2821.75 21.1225}
-					{prevdirection 0.672801 0.720216 -0.169202}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x801f
 		{Position -50.08 -2836.06}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 14}
 		{FsmState "stand"}
@@ -214,7 +227,6 @@
 	{Human "mp/rob/home_guard" 0x8020
 		{Position -116.96 -2834.46}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 15}
 		{FsmState "stand"}
@@ -222,7 +234,6 @@
 	{Human "mp/rob/home_guard2" 0x8021
 		{Position -184.55 -2834.84}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 16}
 		{FsmState "stand"}
@@ -230,15 +241,14 @@
 	{Human "mp/rob/home_guard2" 0x8022
 		{Position -151.43 -2836.29}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 17}
 		{Weaponry
 			{State
 				{AccuracyByMotion
-					{value 0.951}
-					{prevposition -149.644 -2820.93 23.4397}
-					{prevdirection 0.367343 0.928916 -0.0466268}
+					{value 0.7725}
+					{prevposition -150.573 -2820.89 23.6788}
+					{prevdirection 0.227789 0.973515 -0.0195279}
 				}
 			}
 		}
@@ -247,7 +257,6 @@
 	{Human "mp/rob/home_guard" 0x8023
 		{Position -218.31 -2834.69}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 18}
 		{FsmState "stand"}
@@ -285,7 +294,6 @@
 	{Human "mp/rob/home_guard2" 0x802a
 		{Position -926.17 -2827.21}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 19}
 		{FsmState "stand"}
@@ -293,24 +301,13 @@
 	{Human "mp/rob/home_guard2" 0x802b
 		{Position -893.05 -2828.66}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 20}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.8}
-					{prevposition -883.626 -2818.42 22.3262}
-					{prevdirection 0.855555 0.504441 -0.116472}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard" 0x802c
 		{Position -959.93 -2827.06}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 21}
 		{FsmState "stand"}
@@ -318,15 +315,22 @@
 	{Human "mp/rob/home_guard2" 0x802d
 		{Position -1027.52 -2827.44}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 22}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1017.66 -2818.46 22.2579}
+					{prevdirection 0.929556 0.345514 -0.128629}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x802e
 		{Position -994.4 -2828.89}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 23}
 		{FsmState "stand"}
@@ -334,9 +338,17 @@
 	{Human "mp/rob/home_guard" 0x802f
 		{Position -1061.28 -2827.29}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 24}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1051.95 -2812.75 22.0584}
+					{prevdirection 0.785189 0.608193 -0.116534}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Entity "mp41" 0x8030
@@ -372,24 +384,13 @@
 	{Human "mp/rob/home_guard2" 0x8036
 		{Position -1193.93 -2847.21}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 25}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.816533}
-					{prevposition -1185.3 -2837.35 22.3127}
-					{prevdirection 0.92436 0.358166 -0.131445}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x8037
 		{Position -1160.81 -2848.66}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 26}
 		{FsmState "stand"}
@@ -397,7 +398,6 @@
 	{Human "mp/rob/home_guard" 0x8038
 		{Position -1227.69 -2847.06}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 27}
 		{FsmState "stand"}
@@ -405,24 +405,13 @@
 	{Human "mp/rob/home_guard2" 0x8039
 		{Position -1295.28 -2847.44}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 28}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.882701}
-					{prevposition -1289.29 -2834.41 21.3802}
-					{prevdirection 0.670494 0.728176 -0.142121}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x803a
 		{Position -1262.16 -2848.89}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 29}
 		{FsmState "stand"}
@@ -430,7 +419,6 @@
 	{Human "mp/rob/home_guard" 0x803b
 		{Position -1326.85 -2846.64}
 		{xform zl 70.36}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 30}
 		{FsmState "stand"}
@@ -468,7 +456,6 @@
 	{Human "mp/rob/home_guard2" 0x8042
 		{Position -1522.98 -2856.38}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 31}
 		{FsmState "stand"}
@@ -476,7 +463,6 @@
 	{Human "mp/rob/home_guard2" 0x8043
 		{Position -1489.86 -2857.83}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 32}
 		{FsmState "stand"}
@@ -484,7 +470,6 @@
 	{Human "mp/rob/home_guard" 0x8044
 		{Position -1556.74 -2856.23}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 33}
 		{FsmState "stand"}
@@ -492,7 +477,6 @@
 	{Human "mp/rob/home_guard2" 0x8045
 		{Position -1624.33 -2856.61}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 34}
 		{FsmState "stand"}
@@ -500,7 +484,6 @@
 	{Human "mp/rob/home_guard2" 0x8046
 		{Position -1591.21 -2858.06}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 35}
 		{FsmState "stand"}
@@ -508,7 +491,6 @@
 	{Human "mp/rob/home_guard" 0x8047
 		{Position -1658.09 -2856.46}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 36}
 		{FsmState "stand"}
@@ -546,7 +528,6 @@
 	{Human "mp/rob/home_guard2" 0x804e
 		{Position -1929.63 -2893.7}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 37}
 		{FsmState "stand"}
@@ -554,7 +535,6 @@
 	{Human "mp/rob/home_guard2" 0x804f
 		{Position -1896.51 -2895.15}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 38}
 		{FsmState "stand"}
@@ -562,7 +542,6 @@
 	{Human "mp/rob/home_guard" 0x8050
 		{Position -1963.39 -2893.55}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 39}
 		{FsmState "stand"}
@@ -570,15 +549,22 @@
 	{Human "mp/rob/home_guard2" 0x8051
 		{Position -2030.98 -2893.93}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 40}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -2017.21 -2888.88 23.1417}
+					{prevdirection 0.986459 0.156215 -0.0499436}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x8052
 		{Position -1997.86 -2895.38}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 41}
 		{FsmState "stand"}
@@ -586,7 +572,6 @@
 	{Human "mp/rob/home_guard" 0x8053
 		{Position -2064.74 -2893.78}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 42}
 		{FsmState "stand"}
@@ -624,7 +609,6 @@
 	{Human "mp/rob/home_guard2" 0x805a
 		{Position -2334.32 -2908.97}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 43}
 		{FsmState "stand"}
@@ -632,7 +616,6 @@
 	{Human "mp/rob/home_guard2" 0x805b
 		{Position -2301.2 -2910.42}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 44}
 		{FsmState "stand"}
@@ -640,7 +623,6 @@
 	{Human "mp/rob/home_guard" 0x805c
 		{Position -2368.08 -2908.82}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 45}
 		{FsmState "stand"}
@@ -648,7 +630,6 @@
 	{Human "mp/rob/home_guard2" 0x805d
 		{Position -2435.67 -2909.2}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 46}
 		{FsmState "stand"}
@@ -656,7 +637,6 @@
 	{Human "mp/rob/home_guard2" 0x805e
 		{Position -2402.55 -2910.65}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 47}
 		{FsmState "stand"}
@@ -664,7 +644,6 @@
 	{Human "mp/rob/home_guard" 0x805f
 		{Position -2469.43 -2909.05}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 48}
 		{FsmState "stand"}
@@ -702,7 +681,6 @@
 	{Human "mp/rob/home_guard2" 0x8066
 		{Position -2643.46 -2923.09}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 49}
 		{FsmState "stand"}
@@ -710,7 +688,6 @@
 	{Human "mp/rob/home_guard2" 0x8067
 		{Position -2610.34 -2924.54}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 50}
 		{FsmState "stand"}
@@ -718,7 +695,6 @@
 	{Human "mp/rob/home_guard" 0x8068
 		{Position -2677.22 -2922.94}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 51}
 		{FsmState "stand"}
@@ -726,7 +702,6 @@
 	{Human "mp/rob/home_guard2" 0x8069
 		{Position -2744.81 -2923.32}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 52}
 		{FsmState "stand"}
@@ -734,7 +709,6 @@
 	{Human "mp/rob/home_guard2" 0x806a
 		{Position -2711.69 -2924.77}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 53}
 		{FsmState "stand"}
@@ -742,7 +716,6 @@
 	{Human "mp/rob/home_guard" 0x806b
 		{Position -2778.57 -2923.17}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 54}
 		{FsmState "stand"}
@@ -780,7 +753,6 @@
 	{Human "mp/rob/home_guard2" 0x8072
 		{Position 254.83 -2845.38}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 55}
 		{FsmState "stand"}
@@ -788,7 +760,6 @@
 	{Human "mp/rob/home_guard2" 0x8073
 		{Position 289.87 -2850.88}
 		{xform zl 69.72}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 56}
 		{FsmState "stand"}
@@ -796,15 +767,22 @@
 	{Human "mp/rob/home_guard" 0x8074
 		{Position 221.07 -2845.23}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 57}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.75}
+					{prevposition 218.88 -2826.41 24.1106}
+					{prevdirection -0.0559689 0.998372 -0.0110644}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x8075
 		{Position 153.48 -2845.61}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 58}
 		{FsmState "stand"}
@@ -812,7 +790,6 @@
 	{Human "mp/rob/home_guard2" 0x8076
 		{Position 186.6 -2847.06}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 59}
 		{FsmState "stand"}
@@ -820,7 +797,6 @@
 	{Human "mp/rob/home_guard" 0x8077
 		{Position 119.72 -2845.46}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 60}
 		{FsmState "stand"}
@@ -858,7 +834,6 @@
 	{Human "mp/rob/home_guard2" 0x807e
 		{Position 651.6 -2878.79}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 61}
 		{FsmState "stand"}
@@ -866,7 +841,6 @@
 	{Human "mp/rob/home_guard2" 0x807f
 		{Position 684.72 -2880.24}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 62}
 		{FsmState "stand"}
@@ -874,24 +848,13 @@
 	{Human "mp/rob/home_guard" 0x8080
 		{Position 617.84 -2878.64}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 63}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.880616}
-					{prevposition 626.661 -2862.9 20.4944}
-					{prevdirection 0.672059 0.721958 -0.164663}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x8081
 		{Position 550.25 -2879.02}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 64}
 		{FsmState "stand"}
@@ -899,7 +862,6 @@
 	{Human "mp/rob/home_guard2" 0x8082
 		{Position 583.37 -2880.47}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 65}
 		{FsmState "stand"}
@@ -907,7 +869,6 @@
 	{Human "mp/rob/home_guard" 0x8083
 		{Position 516.49 -2878.87}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 66}
 		{FsmState "stand"}
@@ -945,7 +906,6 @@
 	{Human "mp/rob/home_guard2" 0x808a
 		{Position 1013.29 -2896.26}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 67}
 		{FsmState "stand"}
@@ -953,7 +913,6 @@
 	{Human "mp/rob/home_guard2" 0x808b
 		{Position 1046.41 -2897.71}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 68}
 		{FsmState "stand"}
@@ -961,41 +920,20 @@
 	{Human "mp/rob/home_guard" 0x808c
 		{Position 979.53 -2896.11}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 69}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.75}
-					{prevposition 978.981 -2877.52 23.8876}
-					{prevdirection 0.702219 0.711961 0.000396023}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x808d
 		{Position 911.94 -2896.49}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 70}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.804207}
-					{prevposition 921.682 -2887.58 22.2587}
-					{prevdirection 0.93258 0.337046 -0.129207}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x808e
 		{Position 945.06 -2897.94}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 71}
 		{FsmState "stand"}
@@ -1003,7 +941,6 @@
 	{Human "mp/rob/home_guard" 0x808f
 		{Position 878.18 -2896.34}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 72}
 		{FsmState "stand"}
@@ -1041,7 +978,6 @@
 	{Human "mp/rob/home_guard2" 0x8096
 		{Position 1322.17 -2909.78}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 73}
 		{FsmState "stand"}
@@ -1049,7 +985,6 @@
 	{Human "mp/rob/home_guard2" 0x8097
 		{Position 1355.29 -2911.23}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 74}
 		{FsmState "stand"}
@@ -1057,7 +992,6 @@
 	{Human "mp/rob/home_guard" 0x8098
 		{Position 1288.41 -2909.63}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 75}
 		{FsmState "stand"}
@@ -1065,7 +999,6 @@
 	{Human "mp/rob/home_guard2" 0x8099
 		{Position 1220.82 -2910.01}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 76}
 		{FsmState "stand"}
@@ -1073,7 +1006,6 @@
 	{Human "mp/rob/home_guard2" 0x809a
 		{Position 1253.94 -2911.46}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 77}
 		{FsmState "stand"}
@@ -1081,7 +1013,6 @@
 	{Human "mp/rob/home_guard" 0x809b
 		{Position 1187.06 -2909.86}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 78}
 		{FsmState "stand"}
@@ -1119,15 +1050,14 @@
 	{Human "mp/rob/home_guard2" 0x80a2
 		{Position 1649.9 -2918.61}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 79}
 		{Weaponry
 			{State
 				{AccuracyByMotion
-					{value 0.926516}
-					{prevposition 1655.33 -2905.53 33.1778}
-					{prevdirection 0.67306 0.73204 -0.105392}
+					{value 0.8595}
+					{prevposition 1653.64 -2903.89 34.0303}
+					{prevdirection 0.466702 0.881947 -0.066031}
 				}
 			}
 		}
@@ -1136,7 +1066,6 @@
 	{Human "mp/rob/home_guard2" 0x80a3
 		{Position 1683.02 -2920.06}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 80}
 		{FsmState "stand"}
@@ -1144,7 +1073,6 @@
 	{Human "mp/rob/home_guard" 0x80a4
 		{Position 1616.14 -2918.46}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 81}
 		{FsmState "stand"}
@@ -1152,7 +1080,6 @@
 	{Human "mp/rob/home_guard2" 0x80a5
 		{Position 1548.55 -2918.84}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 82}
 		{FsmState "stand"}
@@ -1160,17 +1087,33 @@
 	{Human "mp/rob/home_guard2" 0x80a6
 		{Position 1581.67 -2920.29}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 83}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition 1583.46 -2904.93 33.5503}
+					{prevdirection 0.367343 0.928916 -0.0466268}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard" 0x80a7
 		{Position 1514.79 -2918.69}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 84}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition 1528.15 -2907.5 30.8281}
+					{prevdirection 0.902013 0.413499 -0.124066}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Entity "mp41" 0x80a8
@@ -1206,7 +1149,6 @@
 	{Human "mp/rob/home_guard2" 0x80ae
 		{Position 2010.14 -2918.54}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 85}
 		{FsmState "stand"}
@@ -1214,7 +1156,6 @@
 	{Human "mp/rob/home_guard2" 0x80af
 		{Position 2043.26 -2919.99}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 86}
 		{FsmState "stand"}
@@ -1222,7 +1163,6 @@
 	{Human "mp/rob/home_guard" 0x80b0
 		{Position 1976.38 -2918.39}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 87}
 		{FsmState "stand"}
@@ -1230,7 +1170,6 @@
 	{Human "mp/rob/home_guard2" 0x80b1
 		{Position 1908.79 -2918.77}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 88}
 		{FsmState "stand"}
@@ -1238,7 +1177,6 @@
 	{Human "mp/rob/home_guard2" 0x80b2
 		{Position 1941.91 -2920.22}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 89}
 		{FsmState "stand"}
@@ -1246,7 +1184,6 @@
 	{Human "mp/rob/home_guard" 0x80b3
 		{Position 1875.03 -2918.62}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 90}
 		{FsmState "stand"}
@@ -1284,7 +1221,6 @@
 	{Human "mp/rob/home_guard2" 0x80ba
 		{Position 2330.71 -2928.87}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 91}
 		{FsmState "stand"}
@@ -1292,7 +1228,6 @@
 	{Human "mp/rob/home_guard2" 0x80bb
 		{Position 2363.83 -2930.32}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 92}
 		{FsmState "stand"}
@@ -1300,7 +1235,6 @@
 	{Human "mp/rob/home_guard" 0x80bc
 		{Position 2296.95 -2928.72}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 93}
 		{FsmState "stand"}
@@ -1308,7 +1242,6 @@
 	{Human "mp/rob/home_guard2" 0x80bd
 		{Position 2229.36 -2929.1}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 94}
 		{FsmState "stand"}
@@ -1316,7 +1249,6 @@
 	{Human "mp/rob/home_guard2" 0x80be
 		{Position 2262.48 -2930.55}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 95}
 		{FsmState "stand"}
@@ -1324,7 +1256,6 @@
 	{Human "mp/rob/home_guard" 0x80bf
 		{Position 2195.6 -2928.95}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 96}
 		{FsmState "stand"}
@@ -1362,15 +1293,22 @@
 	{Human "mp/rob/home_guard2" 0x80c6
 		{Position 2625.21 -2913.25}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 97}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition 2632.81 -2902.31 76.3096}
+					{prevdirection 0.860253 0.49471 -0.123398}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x80c7
 		{Position 2658.33 -2914.7}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 98}
 		{FsmState "stand"}
@@ -1378,7 +1316,6 @@
 	{Human "mp/rob/home_guard" 0x80c8
 		{Position 2591.45 -2913.1}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 99}
 		{FsmState "stand"}
@@ -1386,7 +1323,6 @@
 	{Human "mp/rob/home_guard2" 0x80c9
 		{Position 2523.86 -2913.48}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 100}
 		{FsmState "stand"}
@@ -1394,15 +1330,14 @@
 	{Human "mp/rob/home_guard2" 0x80ca
 		{Position 2556.98 -2914.93}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 101}
 		{Weaponry
 			{State
 				{AccuracyByMotion
-					{value 0.8}
-					{prevposition 2562.13 -2902.13 73.5659}
-					{prevdirection 0.712168 0.693872 -0.106575}
+					{value 0.8445}
+					{prevposition 2561 -2900.32 73.9246}
+					{prevdirection 0.483079 0.872966 -0.0675729}
 				}
 			}
 		}
@@ -1411,18 +1346,8 @@
 	{Human "mp/rob/home_guard" 0x80cb
 		{Position 2490.1 -2913.33}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 102}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.8}
-					{prevposition 2499.07 -2898.5 69.2921}
-					{prevdirection 0.782768 0.611349 -0.116309}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Entity "mp41" 0x80cc
@@ -1458,7 +1383,6 @@
 	{Human "mp/rob/home_guard2" 0x80d2
 		{Position 2905.41 -2918.05}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 103}
 		{FsmState "stand"}
@@ -1466,7 +1390,6 @@
 	{Human "mp/rob/home_guard2" 0x80d3
 		{Position 2938.53 -2919.5}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 104}
 		{FsmState "stand"}
@@ -1474,15 +1397,22 @@
 	{Human "mp/rob/home_guard" 0x80d4
 		{Position 2871.65 -2917.9}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 105}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition 2883.56 -2905.05 71.8294}
+					{prevdirection 0.82206 0.545309 -0.163881}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/rob/home_guard2" 0x80d5
 		{Position 2804.06 -2918.28}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 106}
 		{FsmState "stand"}
@@ -1490,7 +1420,6 @@
 	{Human "mp/rob/home_guard2" 0x80d6
 		{Position 2837.18 -2919.73}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 107}
 		{FsmState "stand"}
@@ -1498,7 +1427,6 @@
 	{Human "mp/rob/home_guard" 0x80d7
 		{Position 2770.3 -2918.13}
 		{xform zl 91.48}
-		{SpawnedInFog}
 		{Player 0}
 		{MID 108}
 		{FsmState "stand"}
@@ -1653,7 +1581,6 @@
 	{Human "mp/pax/farc" 0xc00d
 		{Position 1818.51 -811.71}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 116}
 		{Cover
@@ -1673,7 +1600,6 @@
 	{Human "mp/pax/farc" 0xc00f
 		{Position 1852.25 -811.71}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 117}
 		{Cover
@@ -1693,7 +1619,6 @@
 	{Human "mp/pax/farc" 0xc011
 		{Position 2312.58 -848.44}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 118}
 		{Cover
@@ -1713,7 +1638,6 @@
 	{Human "mp/pax/farc" 0xc013
 		{Position 2346.32 -848.44}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 119}
 		{Cover
@@ -1733,7 +1657,6 @@
 	{Human "mp/pax/farc" 0xc015
 		{Position 2704.71 -853.15}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 120}
 		{Cover
@@ -1753,7 +1676,6 @@
 	{Human "mp/pax/farc" 0xc017
 		{Position 2740.17 -853.15}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 121}
 		{Cover
@@ -1773,7 +1695,6 @@
 	{Human "mp/pax/farc" 0xc019
 		{Position -1162.4 -817.97}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 122}
 		{Cover
@@ -1793,7 +1714,6 @@
 	{Human "mp/pax/farc" 0xc01b
 		{Position -1128.66 -817.97}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 123}
 		{Cover
@@ -1813,7 +1733,6 @@
 	{Human "mp/pax/farc" 0xc01d
 		{Position -1941.9 -834.21}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 124}
 		{Cover
@@ -1833,7 +1752,6 @@
 	{Human "mp/pax/farc" 0xc01f
 		{Position -1896.08 -834.21}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 125}
 		{Cover
@@ -1853,7 +1771,6 @@
 	{Human "mp/pax/farc" 0xc021
 		{Position -2696.37 -886.12}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 126}
 		{Cover
@@ -1873,7 +1790,6 @@
 	{Human "mp/pax/farc" 0xc023
 		{Position -2660.06 -886.12}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 127}
 		{Cover
@@ -2027,6 +1943,15 @@
 		{xform zl 80.16}
 		{Player 9}
 		{MID 137}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1285.14 297.791 27.3049}
+					{prevdirection 0.979955 0.151906 -0.128888}
+				}
+			}
+		}
 		{LastThrowItem "m61 grenade"}
 		{FsmState "stand"}
 	}
@@ -2264,7 +2189,6 @@
 	{Human "mp/pax/tesas" 0x8821
 		{Position 2816.28 285.89}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 147}
 		{LastThrowItem "m61 grenade"}
@@ -2306,7 +2230,6 @@
 	{Human "mp/pax/tesas" 0x8826
 		{Position 2684.81 272.51}
 		{xform zl -119.89}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 149}
 		{LastThrowItem "smoke grenade"}
@@ -2437,7 +2360,6 @@
 	{Human "mp/pax/tesas" 0x8834
 		{Position 2848.38 285.89}
 		{xform zl -90}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 155}
 		{LastThrowItem "m61 grenade"}
@@ -3439,6 +3361,7 @@
 		{xform zl -74.98 y 2.39 zw -102.12}
 		{Player 9}
 		{MID 200}
+		{NameId 0 0}
 		{LastItem "dshk"}
 	}
 	{Entity "dshk" 0xc039
@@ -3898,7 +3821,6 @@
 	{Entity "is2" 0x8133
 		{Position 404.45 -2886.53}
 		{xform zl 88.68}
-		{SpawnedInFog}
 		{Volume "ram"
 			{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}}
 		}
@@ -8570,6 +8492,17 @@
 				{actions
 					{"task"
 						{name "nastup"}
+					}
+				}
+			}
+			{"musik"
+				{condition
+				}
+				{actions
+					{"music"
+						{start "/music/scrimer.mp3"}
+						{volume game}
+						{loop}
 					}
 				}
 			}
