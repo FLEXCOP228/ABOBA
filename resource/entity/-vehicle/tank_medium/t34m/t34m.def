@@ -7,7 +7,7 @@
 	
 	{extender "enumerator"}
 	
-	("armor_medium" turret(0) body(87 87 87 40))
+	("armor_medium" turret(0) body(47 47 47 20))
 	("armor_engine"  t(30 60 47 20))
 
 	{volume "body1"
@@ -66,14 +66,14 @@
 	{Chassis
 		("tank_trace_ex" fx("tracks_mid") step(0.52) len(0.35) boneleft("wheell4") boneright("wheelr4"))
 		{Locomotion ("locomotion")
-			{maxspeed   28}
+			{maxspeed   18}
 			{StartTime  14}
 			{TurnTime   15}
-			{TurnStart  1}			
+			{TurnStart  3}			
 			{TurnRadius 8} 
     		{TurnStop   1}
-			{BrakeTime  0.5}
-			{StopTime   0.5}
+			{BrakeTime  1.5}
+			{StopTime   2.5}
 			{Gears   0.4 1}
 			{RearGears  0.53}
 		}
@@ -84,14 +84,14 @@
 			{fuel "fuel"}
 		}
 		{speed
-        	{Normal  25}
-        	{Slow  26}
+        	{Normal  10}
+        	{Slow  16}
     	}
 	}
 
 	{Extension "t34m.mdl"}
 
 	{bone "mgun1"
-		{limits -120 120}		;gun min right to max left
+		{limits -12 12}		;gun min right to max left
 	}
 }
