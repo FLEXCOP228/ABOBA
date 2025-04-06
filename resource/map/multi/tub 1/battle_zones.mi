@@ -1,6 +1,6 @@
 {mission
 	{Entity "map_point" 0xe000
-		{Position -2164.78 3381.44}
+		{Position -2361.89 2938.11}
 		{xform zl -91.95}
 		{Extender "map_point"
 			{name a4}
@@ -19,7 +19,7 @@
 		{MID 4}
 	}
 	{Entity "map_point" 0xe001
-		{Position -828.57 3457.93}
+		{Position -864.4 2939.28}
 		{xform zl -93.98}
 		{Extender "map_point"
 			{name a3}
@@ -38,7 +38,7 @@
 		{MID 17}
 	}
 	{Entity "map_point" 0xe002
-		{Position 726.3 3305.4}
+		{Position 717.39 2934.9}
 		{xform zl -90.29}
 		{Extender "map_point"
 			{name a2}
@@ -57,7 +57,7 @@
 		{MID 18}
 	}
 	{Entity "map_point" 0xe003
-		{Position 2105.06 3137.29}
+		{Position 2595.12 2937.18}
 		{xform zl -94.2}
 		{Extender "map_point"
 			{name a1}
@@ -76,7 +76,7 @@
 		{MID 20}
 	}
 	{Entity "map_point" 0xe004
-		{Position 2867.86 -3188.43}
+		{Position 2811.29 -2924.03}
 		{xform zl 87.87}
 		{Extender "map_point"
 			{name b4}
@@ -95,7 +95,7 @@
 		{MID 5}
 	}
 	{Entity "map_point" 0xe005
-		{Position 1079.83 -3253.8}
+		{Position 1116.87 -2939.62}
 		{xform zl 88.99}
 		{Extender "map_point"
 			{name b3}
@@ -114,7 +114,7 @@
 		{MID 8}
 	}
 	{Entity "map_point" 0xe006
-		{Position -786.31 -3156.79}
+		{Position -746.21 -2917.74}
 		{xform zl 89.53}
 		{Extender "map_point"
 			{name b2}
@@ -133,7 +133,7 @@
 		{MID 9}
 	}
 	{Entity "map_point" 0xe007
-		{Position -2644.58 -3162.31}
+		{Position -2757.94 -2921.63}
 		{xform zl 85.62}
 		{Extender "map_point"
 			{name b1}
@@ -451,7 +451,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -472,7 +472,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -500,7 +500,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -528,7 +528,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -556,7 +556,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -584,7 +584,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -612,7 +612,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -640,7 +640,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -668,7 +668,7 @@
 								{value 0.1}
 							}
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}
@@ -692,7 +692,7 @@
 						}
 						{"default"
 							{"environment"
-								{name "1"}
+								{name 1}
 								{time -1}
 								{apply}
 							}

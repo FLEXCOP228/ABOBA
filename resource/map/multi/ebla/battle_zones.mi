@@ -1,6 +1,6 @@
 {mission
 	{Entity "map_point" 0xe000
-		{Position -2299.64 3066.07}
+		{Position -2250.75 2927.98}
 		{xform zl -91.95}
 		{Extender "map_point"
 			{name a4}
@@ -19,7 +19,7 @@
 		{MID 4}
 	}
 	{Entity "map_point" 0xe001
-		{Position -831.31 3087.59}
+		{Position -852.43 2916.63}
 		{xform zl -93.98}
 		{Extender "map_point"
 			{name a3}
@@ -38,7 +38,7 @@
 		{MID 17}
 	}
 	{Entity "map_point" 0xe002
-		{Position 751.11 3062.27}
+		{Position 777.35 2914.12}
 		{xform zl -90.29}
 		{Extender "map_point"
 			{name a2}
@@ -57,7 +57,7 @@
 		{MID 18}
 	}
 	{Entity "map_point" 0xe003
-		{Position 2152.32 3059.86}
+		{Position 2182.16 2917.53}
 		{xform zl -94.2}
 		{Extender "map_point"
 			{name a1}
@@ -76,7 +76,7 @@
 		{MID 20}
 	}
 	{Entity "map_point" 0xe004
-		{Position 2353.44 -3089.46}
+		{Position 2395.78 -2851.79}
 		{xform zl 87.87}
 		{Extender "map_point"
 			{name b4}
@@ -95,7 +95,7 @@
 		{MID 5}
 	}
 	{Entity "map_point" 0xe005
-		{Position 589.39 -3084.06}
+		{Position 591.96 -2895.82}
 		{xform zl 88.99}
 		{Extender "map_point"
 			{name b3}
@@ -114,7 +114,7 @@
 		{MID 8}
 	}
 	{Entity "map_point" 0xe006
-		{Position -1256.58 -3091.01}
+		{Position -1241.61 -2904.29}
 		{xform zl 89.53}
 		{Extender "map_point"
 			{name b2}
@@ -133,7 +133,7 @@
 		{MID 9}
 	}
 	{Entity "map_point" 0xe007
-		{Position -2275.3 -3054}
+		{Position -2292.43 -2927.16}
 		{xform zl 85.62}
 		{Extender "map_point"
 			{name b1}
@@ -228,28 +228,25 @@
 		{xform zl 110.01 y 12.67 zw 157.6}
 		{Player 9}
 		{MID 70}
-		{NameId 110 104}
+		{NameId 0 0}
 	}
 	{Human "mp/tra/tractorist" 0xd039
 		{Position 2718.36 -512.02}
 		{xform zl -107.83 y 14.9 zw 2.27}
 		{Player 9}
 		{MID 71}
-		{NameId 73 18}
 	}
 	{Human "mp/tra/tractorist" 0xd03a
 		{Position 2226.4 -723.03}
 		{xform zl -167.35 y 6.42 zw 97.71}
 		{Player 9}
 		{MID 72}
-		{NameId 21 147}
 	}
 	{Human "mp/tra/tractorist" 0xd03b
 		{Position 2922 -429.84}
 		{xform zl -108.78 y 5.2 zw 40.72}
 		{Player 9}
 		{MID 73}
-		{NameId 121 20}
 	}
 	{Entity "universal" 0xd03c
 		{Position 2457.8 -715.18 9.97}
@@ -280,28 +277,24 @@
 		{xform zl 168.59 y 5.84 zw 97.83}
 		{Player 9}
 		{MID 78}
-		{NameId 258 28}
 	}
 	{Human "mp/tra/tractorist" 0xd041
 		{Position 2020.55 -464.32}
 		{xform zl 96.84 y 28.81 zw 164.33}
 		{Player 9}
 		{MID 79}
-		{NameId 21 70}
 	}
 	{Human "mp/tra/tractorist" 0xd042
 		{Position 1579.76 -498.42}
 		{xform zl 154.45 y 4.85 zw 101.85}
 		{Player 9}
 		{MID 80}
-		{NameId 232 22}
 	}
 	{Human "mp/tra/tractorist" 0xd043
 		{Position 2326.07 -502.44}
 		{xform zl 168.62 y 4.18 zw 99.24}
 		{Player 9}
 		{MID 81}
-		{NameId 8 131}
 	}
 	{Entity "universal" 0xd044
 		{Position 1788.36 -581.19 0.04}
@@ -332,28 +325,24 @@
 		{xform zl 168.59 y 5.84 zw 97.83}
 		{Player 9}
 		{MID 86}
-		{NameId 224 154}
 	}
 	{Human "mp/tra/tractorist" 0xd049
 		{Position 1067.26 -609.52}
 		{xform zl -18.76 y 48.13 zw -78.62}
 		{Player 9}
 		{MID 87}
-		{NameId 0 127}
 	}
 	{Human "mp/tra/tractorist" 0xd04a
 		{Position 586.82 -561.28}
 		{xform zl 154.45 y 4.85 zw 101.85}
 		{Player 9}
 		{MID 88}
-		{NameId 2 28}
 	}
 	{Human "mp/tra/tractorist" 0xd04b
 		{Position 1333.13 -565.3}
 		{xform zl 168.62 y 4.18 zw 99.24}
 		{Player 9}
 		{MID 89}
-		{NameId 3 57}
 	}
 	{Entity "universal" 0xd04c
 		{Position 795.42 -644.05 0.04}
@@ -384,28 +373,24 @@
 		{xform zl 168.59 y 5.84 zw 97.83}
 		{Player 9}
 		{MID 94}
-		{NameId 161 71}
 	}
 	{Human "mp/tra/tractorist" 0xd051
 		{Position -160.21 -532.75}
 		{xform zl -31.17 y 22.41 zw -66.15}
 		{Player 9}
 		{MID 95}
-		{NameId 22 55}
 	}
 	{Human "mp/tra/tractorist" 0xd052
 		{Position -631.89 -548.15}
 		{xform zl -34.63 y 24.42 zw -68.89}
 		{Player 9}
 		{MID 96}
-		{NameId 307 86}
 	}
 	{Human "mp/tra/tractorist" 0xd053
 		{Position 108.87 -536.5}
 		{xform zl 168.62 y 4.18 zw 99.24}
 		{Player 9}
 		{MID 97}
-		{NameId 105 3}
 	}
 	{Entity "universal" 0xd054
 		{Position -428.84 -615.25 0.04}
@@ -436,32 +421,29 @@
 		{xform zl 168.59 y 5.84 zw 97.83}
 		{Player 9}
 		{MID 102}
-		{NameId 270 88}
 	}
 	{Human "mp/tra/tractorist" 0xd059
 		{Position -1098.14 -426.44}
 		{xform zl 169.41 y 4.82 zw 92.93}
 		{Player 9}
 		{MID 103}
-		{NameId 47 133}
 	}
 	{Human "mp/tra/tractorist" 0xd05a
 		{Position -1563.68 -458.05}
 		{xform zl 154.45 y 4.85 zw 101.85}
 		{Player 9}
 		{MID 104}
-		{NameId 223 100}
 	}
 	{Human "mp/tra/tractorist" 0xd05b
 		{Position -817.37 -462.07}
 		{xform zl 168.62 y 4.18 zw 99.24}
 		{Player 9}
 		{MID 105}
-		{NameId 254 146}
 	}
 	{Entity "universal" 0xd05c
 		{Position -1355.08 -540.82 0.04}
 		{xform zl 166.26 y 4.86 zw 100.17 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 106}
 	}
@@ -474,6 +456,7 @@
 	{Entity "universal" 0xd05e
 		{Position -1573.74 -503.02 -0.47}
 		{xform zl 148.2 y 3.97 zw 108.12 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 108}
 	}
@@ -488,50 +471,50 @@
 		{xform zl 124.72 y 8.61 zw 139.03}
 		{Player 9}
 		{MID 110}
-		{NameId 61 122}
 	}
 	{Human "mp/tra/tractorist" 0xd061
 		{Position -2057.93 -461.4}
 		{xform zl 170.53 y 4.75 zw 91.82}
 		{Player 9}
 		{MID 111}
-		{NameId 4 60}
 	}
 	{Human "mp/tra/tractorist" 0xd062
 		{Position -2520.54 -493.67}
 		{xform zl -155.85 y 4.96 zw 50.59}
 		{Player 9}
 		{MID 112}
-		{NameId 170 106}
 	}
 	{Human "mp/tra/tractorist" 0xd063
 		{Position -1778 -496.8}
 		{xform zl 145.23 y 5.54 zw 122.58}
 		{Player 9}
 		{MID 113}
-		{NameId 241 46}
 	}
 	{Entity "universal" 0xd064
 		{Position -2314.95 -575.72 60.73}
 		{xform zl 118.9 y 8.08 zw 144.91 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 114}
 	}
 	{Entity "universal" 0xd065
 		{Position -2071.05 -563.94 18.93}
 		{xform zl 168.02 y 3.76 zw 94.34 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 115}
 	}
 	{Entity "universal" 0xd066
 		{Position -2533.61 -537.92 131.44}
 		{xform zl -150.06 y 4.06 zw 44.78 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 116}
 	}
 	{Entity "universal" 0xd067
 		{Position -1778.32 -532.3 -0.89}
 		{xform zl 138.33 y 4.75 zw 129.51 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 117}
 	}
@@ -540,50 +523,50 @@
 		{xform zl -100.73 y 29.23 zw 28.23}
 		{Player 9}
 		{MID 118}
-		{NameId 48 87}
 	}
 	{Human "mp/tra/tractorist" 0xd069
 		{Position -2449.78 -854.62}
 		{xform zl -2.29 y 41.57 zw 11.25}
 		{Player 9}
 		{MID 119}
-		{NameId 263 67}
 	}
 	{Human "mp/tra/tractorist" 0xd06a
 		{Position -2879.69 -780.3}
 		{xform zl 111.48 y 9.39 zw 154.52}
 		{Player 9}
 		{MID 120}
-		{NameId 24 75}
 	}
 	{Human "mp/tra/tractorist" 0xd06b
 		{Position -2112.07 -787.45}
 		{xform zl 102.26 y 11.88 zw 141.75}
 		{Player 9}
 		{MID 121}
-		{NameId 20 105}
 	}
 	{Entity "universal" 0xd06c
 		{Position -2660.33 -863.93 174.37}
 		{xform zl -98.96 y 29.06 zw 26.2 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 122}
 	}
 	{Entity "universal" 0xd06d
 		{Position -2416.43 -852.15 100.83}
 		{xform zl -2.25 y 42.57 zw 11.19 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 123}
 	}
 	{Entity "universal" 0xd06e
 		{Position -2878.99 -826.13 155.18}
 		{xform zl 105.62 y 9.07 zw 160.46 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 124}
 	}
 	{Entity "universal" 0xd06f
 		{Position -2123.7 -820.51 23.53}
 		{xform zl 97.52 y 11.71 zw 146.59 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 125}
 	}
@@ -592,77 +575,66 @@
 		{xform zl 110.01 y 12.67 zw -24.16}
 		{Player 9}
 		{MID 2}
-		{NameId 257 45}
 	}
 	{Human "mp/tra/tractorist" 0x8008
 		{Position 952.82 1221.51}
 		{xform zl -108.07 y 15.06 zw 161.4}
 		{Player 9}
 		{MID 3}
-		{NameId 221 53}
 	}
 	{Human "mp/tra/tractorist" 0x8009
 		{Position 1479.91 1397.33}
 		{xform zl -167.35 y 6.42 zw -84.05}
 		{Player 9}
 		{MID 6}
-		{NameId 285 94}
 	}
 	{Human "mp/tra/tractorist" 0x800a
 		{Position 732.27 1170.24}
 		{xform zl -122.62 y 5.92 zw 106.38}
 		{Player 9}
 		{MID 7}
-		{NameId 14 70}
 	}
 	{Human "mp/tra/tractorist" 0x800b
 		{Position 1912.54 1231.33}
 		{xform zl -171.72 y 7.02 zw -102.17}
 		{Player 9}
 		{MID 12}
-		{NameId 250 1}
 	}
 	{Human "mp/tra/tractorist" 0x800c
 		{Position 1678.96 1132.54}
 		{xform zl 97.4 y 28.05 zw -16.88}
 		{Player 9}
 		{MID 14}
-		{NameId 266 80}
 	}
 	{Human "mp/tra/tractorist" 0x800d
 		{Position 2118.82 1152.75}
 		{xform zl 178.42 y 5.14 zw -103.36}
 		{Player 9}
 		{MID 15}
-		{NameId 101 53}
 	}
 	{Human "mp/tra/tractorist" 0x800e
 		{Position 1373.51 1179.91}
 		{xform zl 168.62 y 4.18 zw -82.52}
 		{Player 9}
 		{MID 16}
-		{NameId 75 92}
 	}
 	{Human "mp/tra/tractorist" 0x800f
 		{Position 2909.61 1263.66}
 		{xform zl 149.08 y 9 zw -51.71}
 		{Player 9}
 		{MID 19}
-		{NameId 273 65}
 	}
 	{Human "mp/tra/tractorist" 0x8010
 		{Position 2616.06 1290.48}
 		{xform zl -24.58 y 38.92 zw 29.52}
 		{Player 9}
 		{MID 21}
-		{NameId 294 47}
 	}
 	{Human "mp/tra/tractorist" 0x8011
 		{Position 2999 1197.82}
 		{xform zl -90}
 		{Player 9}
 		{MID 22}
-		{NameId 156 82}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0x8012
@@ -670,7 +642,6 @@
 		{xform zl -167.2 y 5.72 zw -105.9}
 		{Player 9}
 		{MID 23}
-		{NameId 190 129}
 	}
 	{Entity "universal" 0x8013
 		{Position 1248.38 1396.6 0.24}
@@ -749,84 +720,72 @@
 		{xform zl 110.01 y 12.67 zw 157.6}
 		{Player 9}
 		{MID 36}
-		{NameId 72 40}
 	}
 	{Human "mp/tra/tractorist" 0x8020
 		{Position 484.24 1500.13}
 		{xform zl -107.83 y 14.9 zw 2.27}
 		{Player 9}
 		{MID 37}
-		{NameId 10 70}
 	}
 	{Human "mp/tra/tractorist" 0x8021
 		{Position -7.72 1289.12}
 		{xform zl -167.35 y 6.42 zw 97.71}
 		{Player 9}
 		{MID 38}
-		{NameId 30 15}
 	}
 	{Human "mp/tra/tractorist" 0x8022
 		{Position 687.88 1582.31}
 		{xform zl -108.78 y 5.2 zw 40.72}
 		{Player 9}
 		{MID 39}
-		{NameId 157 60}
 	}
 	{Human "mp/tra/tractorist" 0x8023
 		{Position -445.2 1441.62}
 		{xform zl 168.59 y 5.84 zw 97.83}
 		{Player 9}
 		{MID 40}
-		{NameId 5 32}
 	}
 	{Human "mp/tra/tractorist" 0x8024
 		{Position -213.57 1547.83}
 		{xform zl 96.84 y 28.81 zw 164.33}
 		{Player 9}
 		{MID 41}
-		{NameId 80 66}
 	}
 	{Human "mp/tra/tractorist" 0x8025
 		{Position -654.39 1513.73}
 		{xform zl 154.45 y 4.85 zw 101.89}
 		{Player 9}
 		{MID 42}
-		{NameId 279 25}
 	}
 	{Human "mp/tra/tractorist" 0x8026
 		{Position 91.95 1509.71}
 		{xform zl 168.62 y 4.18 zw 99.24}
 		{Player 9}
 		{MID 43}
-		{NameId 139 126}
 	}
 	{Human "mp/tra/tractorist" 0x8027
 		{Position -1437.82 1378.59}
 		{xform zl -172.31 y 4.19 zw 77.92}
 		{Player 9}
 		{MID 44}
-		{NameId 202 27}
 	}
 	{Human "mp/tra/tractorist" 0x8028
 		{Position -1163.95 1401.4}
 		{xform zl -20.16 y 48.38 zw -79.9}
 		{Player 9}
 		{MID 45}
-		{NameId 105 58}
 	}
 	{Human "mp/tra/tractorist" 0x8029
 		{Position -1643.78 1449.71}
 		{xform zl 155.79 y 4.26 zw 96.07}
 		{Player 9}
 		{MID 46}
-		{NameId 135 120}
 	}
 	{Human "mp/tra/tractorist" 0x802a
 		{Position -900.57 1446.83}
 		{xform zl -169.88 y 4.15 zw 77.92}
 		{Player 9}
 		{MID 47}
-		{NameId 135 140}
 	}
 	{Entity "universal" 0x802b
 		{Position 223.68 1296.97 0.24}
@@ -855,48 +814,56 @@
 	{Entity "universal" 0x802f
 		{Position -445.76 1430.96 0.04}
 		{xform zl 166.26 y 4.86 zw 100.17 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 52}
 	}
 	{Entity "universal" 0x8030
 		{Position -201.86 1442.74 -2.12}
 		{xform zl 95.02 y 28.71 zw 166.4 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 53}
 	}
 	{Entity "universal" 0x8031
 		{Position -664.42 1468.76 -0.47}
 		{xform zl 148.2 y 3.97 zw 108.16 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 54}
 	}
 	{Entity "universal" 0x8032
 		{Position 90.87 1474.38 -0.66}
 		{xform zl 165.08 y 3.2 zw 102.79 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 55}
 	}
 	{Entity "universal" 0x8033
 		{Position -1438.7 1368.1 8.3}
 		{xform zl -169.91 y 3.2 zw 75.51 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 56}
 	}
 	{Entity "universal" 0x8034
 		{Position -1194.8 1379.88 2.38}
 		{xform zl -19.86 y 49.32 zw -80.36 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 57}
 	}
 	{Entity "universal" 0x8035
 		{Position -1657.36 1405.9 10.5}
 		{xform zl 148.79 y 3.37 zw 103.09 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 58}
 	}
 	{Entity "universal" 0x8036
 		{Position -902.07 1411.52 -0.16}
 		{xform zl -166.69 y 3.17 zw 74.73 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 59}
 	}
@@ -905,130 +872,126 @@
 		{xform zl 108.86 y 13.29 zw 152.17}
 		{Player 9}
 		{MID 60}
-		{NameId 149 48}
 	}
 	{Human "mp/tra/tractorist" 0x8038
 		{Position -1486.3 1586.83}
 		{xform zl -104.84 y 14.42 zw 4.37}
 		{Player 9}
 		{MID 61}
-		{NameId 29 159}
 	}
 	{Human "mp/tra/tractorist" 0x8039
 		{Position -1967.5 1373.65}
 		{xform zl -156.29 y 6.06 zw 84.87}
 		{Player 9}
 		{MID 62}
-		{NameId 130 18}
 	}
 	{Human "mp/tra/tractorist" 0x803a
 		{Position -1274.18 1666.34}
 		{xform zl -108.46 y 5.07 zw 41}
 		{Player 9}
 		{MID 63}
-		{NameId 223 83}
 	}
 	{Human "mp/tra/tractorist" 0x803b
 		{Position -2402.75 1524.8}
 		{xform zl 169.42 y 6.51 zw 74.04}
 		{Player 9}
 		{MID 64}
-		{NameId 288 36}
 	}
 	{Human "mp/tra/tractorist" 0x803c
 		{Position -2167.04 1631.67}
 		{xform zl 98.56 y 23.9 zw 160.59}
 		{Player 9}
 		{MID 65}
-		{NameId 201 154}
 	}
 	{Human "mp/tra/tractorist" 0x803d
 		{Position -2596.36 1582.54}
 		{xform zl 41.75 y 5.81 zw -179.49}
 		{Player 9}
 		{MID 66}
-		{NameId 19 86}
 	}
 	{Human "mp/tra/tractorist" 0x803e
 		{Position -1868.02 1593.59}
 		{xform zl 158.94 y 3.69 zw 105.81}
 		{Player 9}
 		{MID 67}
-		{NameId 306 65}
 	}
 	{Human "mp/tra/tractorist" 0x803f
 		{Position -3400.21 1463}
 		{xform zl 169.18 y 6.24 zw 99.31}
 		{Player 9}
 		{MID 68}
-		{NameId 189 109}
 	}
 	{Human "mp/tra/tractorist" 0x8040
 		{Position -3126.66 1485.08}
 		{xform zl -19.19 y 48.22 zw -81.63}
 		{Player 9}
 		{MID 69}
-		{NameId 167 91}
 	}
 	{Human "mp/tra/tractorist" 0x8041
 		{Position -3608.79 1535.36}
 		{xform zl 173.26 y 5.27 zw 83.72}
 		{Player 9}
 		{MID 126}
-		{NameId 172 135}
 	}
 	{Human "mp/tra/tractorist" 0x8042
 		{Position -2870.17 1530.65}
 		{xform zl 114.74 y 10.17 zw 160.61}
 		{Player 9}
 		{MID 127}
-		{NameId 36 60}
 	}
 	{Entity "universal" 0x8043
 		{Position -1738.01 1381.16 13.17}
 		{xform zl 104.74 y 13 zw 156.4 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 128}
 	}
 	{Entity "universal" 0x8044
 		{Position -1518.77 1488.69 7.58}
 		{xform zl -101 y 14.2 zw 0.41 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 129}
 	}
 	{Entity "universal" 0x8045
 		{Position -1953.74 1329.17 22.14}
 		{xform zl -151.82 y 5.16 zw 80.38 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 130}
 	}
 	{Entity "universal" 0x8046
 		{Position -1262.59 1633.79 6.1}
 		{xform zl -97.17 y 4.85 zw 29.67 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 131}
 	}
 	{Entity "universal" 0x8047
 		{Position -2407.45 1515.15 158.37}
 		{xform zl 167.52 y 5.53 zw 75.95 scale 0.367}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 132}
 	}
 	{Entity "universal" 0x8048
 		{Position -2163.55 1526.93 62.24}
 		{xform zl 96.31 y 23.77 zw 163.05 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 133}
 	}
 	{Entity "universal" 0x8049
 		{Position -2626.11 1552.95 199.74}
 		{xform zl 35.95 y 6.59 zw -173.66 scale 1.603}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 134}
 	}
 	{Entity "universal" 0x804a
 		{Position -1870.82 1558.57 21.85}
 		{xform zl 151.49 y 2.78 zw 113.27 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 135}
 	}
@@ -1042,6 +1005,7 @@
 	{Entity "universal" 0x804c
 		{Position -3156.49 1464.07 80.66}
 		{xform zl -18.9 y 49.17 zw -82.07 scale 3.587}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 137}
 	}
@@ -1055,6 +1019,7 @@
 	{Entity "universal" 0x804e
 		{Position -2863.76 1495.71 170.44}
 		{xform zl 109.45 y 9.79 zw 165.98 scale 1.233}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 139}
 	}
@@ -1094,6 +1059,7 @@
 	{Human "mp/tra/tractorist" 0xf004
 		{Position -1716.83 723.45}
 		{xform zl 51.01}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1101,7 +1067,6 @@
 		{MID 140}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 30 55}
 		{Cover
 			{sector -1716.83 723.448 {type "squat_lie"}
 				{wall -1716.31 732.034 -1680 702.641}
@@ -1153,6 +1118,7 @@
 	{Entity "cow" 0xd807
 		{Position -1246.91 2353.11 95}
 		{xform zl -12.85 scale 8.99}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 142}
 	}
@@ -1170,66 +1136,78 @@
 	{Entity "chicken" 0xd80a
 		{Position -918.27 696.7 11.5}
 		{xform scale 9.97}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 145}
 	}
 	{Entity "chicken" 0xd80b
 		{Position -1484.02 218.2}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 146}
 	}
 	{Entity "chicken" 0xd80c
 		{Position -1545.46 332.07}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 147}
 	}
 	{Entity "chicken" 0xd80d
 		{Position -997.76 347.51}
 		{xform zl -75.19}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 148}
 	}
 	{Entity "chicken" 0xd80e
 		{Position -792.92 218.37}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 149}
 	}
 	{Entity "chicken" 0xd80f
 		{Position -1049.49 701.23}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 150}
 	}
 	{Entity "chicken" 0xd810
 		{Position -1155.02 742.84}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 151}
 	}
 	{Entity "chicken" 0xd811
 		{Position -1264.98 396.9}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 152}
 	}
 	{Entity "chicken" 0xd812
 		{Position -1142.42 351.39}
 		{xform zl -24.2}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 153}
 	}
 	{Entity "chicken" 0xd813
 		{Position -748.07 657.63 10.5}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 154}
 	}
 	{Entity "chicken" 0xd814
 		{Position -729.1 565.72 10.5}
 		{xform scale 9.97}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 155}
 	}
 	{Entity "chicken" 0xd815
 		{Position -1793.47 -1089.75 10.5}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 156}
 	}
@@ -1297,6 +1275,7 @@
 	{Entity "cow" 0xd820
 		{Position 346.58 2167.68}
 		{xform zl 178.42 scale 0.45}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 167}
 	}
@@ -1363,12 +1342,14 @@
 	{Entity "cow" 0xd82b
 		{Position -1906.89 6.75}
 		{xform zl 178.42 scale 0.45}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 178}
 	}
 	{Entity "cow" 0xd82c
 		{Position -2555.53 438.57}
 		{xform zl 178.42 scale 0.45}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 179}
 	}
@@ -1382,7 +1363,6 @@
 	{Entity "cow" 0xd82e
 		{Position -2277.57 2867.76}
 		{xform zl 178.42 scale 0.45}
-		{SpawnedInFog}
 		{Player 9}
 		{MID 181}
 	}
@@ -1492,6 +1472,7 @@
 	{Human "mp/tra/tractorist" 0x8801
 		{Position -1703.78 697.29}
 		{xform zl 51.01}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1499,7 +1480,6 @@
 		{MID 184}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 204 30}
 		{Cover
 			{sector -1703.78 697.288 {type "squat_lie"}
 				{wall -1716.31 732.034 -1680 702.641}
@@ -1517,6 +1497,7 @@
 	{Human "mp/tra/tractorist" 0x8803
 		{Position -1659.08 689.52}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1524,7 +1505,6 @@
 		{MID 185}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 256 116}
 		{Cover
 			{sector -1659.08 689.519 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -1552,6 +1532,7 @@
 	{Human "mp/tra/tractorist" 0xe803
 		{Position -1865.03 657.43}
 		{xform zl -91.11}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1559,7 +1540,6 @@
 		{MID 186}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 104 11}
 		{Cover
 			{sector -1865.03 657.431 {type "snipe_cover"}
 				{wall -1839.29 637.803 -1892.77 638.842}
@@ -1572,6 +1552,7 @@
 	{Human "mp/tra/tractorist" 0xe804
 		{Position -1850.96 657.16}
 		{xform zl -91.11}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1579,7 +1560,6 @@
 		{MID 187}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 124 150}
 		{Cover
 			{sector -1850.96 657.158 {type "snipe_cover"}
 				{wall -1839.29 637.803 -1892.77 638.842}
@@ -1592,6 +1572,7 @@
 	{Human "mp/tra/tractorist" 0xe805
 		{Position -1874.76 647.28}
 		{xform zl -110}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1599,7 +1580,6 @@
 		{MID 188}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 63 104}
 		{Cover
 			{sector -1874.76 647.285 {type "snipe_cover"}
 				{wall -1868.76 637.649 -1926.42 658.635}
@@ -1627,6 +1607,7 @@
 	{Human "mp/tra/tractorist" 0xe00b
 		{Position -1858.69 692.32}
 		{xform zl 107.04}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1634,12 +1615,12 @@
 		{MID 189}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 313 94}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe00c
 		{Position -1858.23 645.17}
 		{xform zl -91.11}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1647,7 +1628,6 @@
 		{MID 190}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 315 152}
 		{Cover
 			{sector -1858.23 645.172 {type "snipe_cover"}
 				{wall -1839.29 637.803 -1892.77 638.842}
@@ -1660,6 +1640,7 @@
 	{Human "mp/tra/tractorist" 0xe00d
 		{Position -1942.99 655.88}
 		{xform zl -91.4}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1667,7 +1648,6 @@
 		{MID 191}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 237 164}
 		{Cover
 			{sector -1942.99 655.878 {type "snipe_cover"}
 				{wall -1938.17 648.758 -1974.79 649.653}
@@ -1695,6 +1675,7 @@
 	{Human "mp/tra/tractorist" 0xe011
 		{Position -1955.38 668.31}
 		{xform zl -91.4}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1702,7 +1683,6 @@
 		{MID 192}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 166 128}
 		{Cover
 			{sector -1955.38 668.309 {type "squat_lie"}
 				{wall -1938.17 648.758 -1974.79 649.653}
@@ -1715,6 +1695,7 @@
 	{Human "mp/tra/tractorist" 0xe012
 		{Position -1968.37 656.5}
 		{xform zl -91.4}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1722,7 +1703,6 @@
 		{MID 193}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 126 84}
 		{Cover
 			{sector -1968.37 656.498 {type "snipe_cover"}
 				{wall -1938.17 648.758 -1974.79 649.653}
@@ -1735,6 +1715,7 @@
 	{Human "mp/tra/tractorist" 0xe013
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1742,7 +1723,6 @@
 		{MID 194}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 64 144}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -1770,6 +1750,7 @@
 	{Human "mp/tra/tractorist" 0xe017
 		{Position -1869.47 553.74}
 		{xform zl 139.69}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1778,33 +1759,42 @@
 		{Weaponry
 			{State
 				{AccuracyByMotion
-					{value 0.776}
-					{prevposition -1870.09 572.914 39.1145}
-					{prevdirection 0.35969 0.932891 0.0183908}
+					{value 0.8}
+					{prevposition -1888.96 548.498 38.8328}
+					{prevdirection -0.99588 -0.0846397 -0.0325539}
 				}
 			}
 		}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 193 22}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe018
 		{Position -1862.97 510.47}
 		{xform zl -17.53}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
 		{Player 9}
 		{MID 196}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1852.12 496.068 36.3408}
+					{prevdirection 0.312244 -0.942777 -0.116951}
+				}
+			}
+		}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 47 76}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe019
 		{Position -1870.85 487.09}
 		{xform zl -145.02}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1812,7 +1802,6 @@
 		{MID 197}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 78 134}
 		{FsmState "stand"}
 	}
 	{Entity "mosin" 0xe01a
@@ -1833,6 +1822,7 @@
 	{Human "mp/tra/tractorist" 0xe01d
 		{Position -1849.88 508.36}
 		{xform zl 39.66}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1840,34 +1830,25 @@
 		{MID 198}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 213 57}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe01e
 		{Position -1902.13 525.12}
 		{xform zl 165.81}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
 		{Player 9}
 		{MID 199}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.8}
-					{prevposition -1914.04 538.707 40.2763}
-					{prevdirection -0.387082 0.914759 -0.115692}
-				}
-			}
-		}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 289 104}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe01f
 		{Position -1871.21 499.53}
 		{xform zl -167.06}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1875,7 +1856,6 @@
 		{MID 200}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 123 19}
 		{FsmState "stand"}
 	}
 	{Entity "mosin" 0xe020
@@ -1896,6 +1876,7 @@
 	{Human "mp/tra/tractorist" 0xe023
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1903,7 +1884,6 @@
 		{MID 201}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 205 1}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -1916,6 +1896,7 @@
 	{Human "mp/tra/tractorist" 0xe024
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1923,7 +1904,6 @@
 		{MID 202}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 257 46}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -1936,6 +1916,7 @@
 	{Human "mp/tra/tractorist" 0xe025
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1943,7 +1924,6 @@
 		{MID 203}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 23 38}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -1971,6 +1951,7 @@
 	{Human "mp/tra/tractorist" 0xe029
 		{Position -1885.08 510.15}
 		{xform zl -52.13}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1978,12 +1959,12 @@
 		{MID 204}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 26 65}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe02a
 		{Position -1884.7 497.16}
 		{xform zl -60.51}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -1991,12 +1972,12 @@
 		{MID 205}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 199 54}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe02b
 		{Position -1848.42 490.42}
 		{xform zl -97.86}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2004,7 +1985,6 @@
 		{MID 206}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 104 20}
 		{FsmState "stand"}
 	}
 	{Entity "mosin" 0xe02c
@@ -2025,6 +2005,7 @@
 	{Human "mp/tra/tractorist" 0xe02f
 		{Position -1717.71 552.52}
 		{xform zl 57.14}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2032,12 +2013,12 @@
 		{MID 207}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 5 5}
 		{FsmState "stand"}
 	}
 	{Human "mp/tra/tractorist" 0xe030
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2045,7 +2026,6 @@
 		{MID 208}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 113 102}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2058,6 +2038,7 @@
 	{Human "mp/tra/tractorist" 0xe031
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2065,7 +2046,6 @@
 		{MID 209}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 204 34}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2093,6 +2073,7 @@
 	{Human "mp/tra/tractorist" 0xe035
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2100,7 +2081,6 @@
 		{MID 210}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 297 24}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2113,6 +2093,7 @@
 	{Human "mp/tra/tractorist" 0xe036
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2120,7 +2101,6 @@
 		{MID 211}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 101 75}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2133,6 +2113,7 @@
 	{Human "mp/tra/tractorist" 0xe037
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2140,7 +2121,6 @@
 		{MID 212}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 42 65}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2175,7 +2155,6 @@
 		{MID 213}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 44 103}
 		{Cover
 			{sector -104.128 369.259 {type "squat_lie"}
 				{wall -92.1164 389.6 -73.4936 346.756}
@@ -2195,7 +2174,6 @@
 		{MID 214}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 26 54}
 		{Cover
 			{sector -96.543 382.224 {type "squat_lie"}
 				{wall -92.1164 389.6 -73.4936 346.756}
@@ -2215,7 +2193,6 @@
 		{MID 215}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 49 134}
 		{Cover
 			{sector -89.4739 365.961 {type "squat_lie"}
 				{wall -92.1164 389.6 -73.4936 346.756}
@@ -2250,7 +2227,6 @@
 		{MID 216}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 166 51}
 		{Cover
 			{sector -72.1244 308.462 {type "squat_lie"}
 				{wall -68.8639 332.024 -61.3658 285.913}
@@ -2270,7 +2246,6 @@
 		{MID 217}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 275 47}
 		{Cover
 			{sector -82.4048 349.697 {type "squat_lie"}
 				{wall -92.1164 389.6 -73.4936 346.756}
@@ -2290,7 +2265,6 @@
 		{MID 218}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 14 161}
 		{Cover
 			{sector -74.9707 325.965 {type "squat_lie"}
 				{wall -68.8639 332.024 -61.3658 285.913}
@@ -2325,7 +2299,6 @@
 		{MID 219}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 211 19}
 		{Cover
 			{sector -182.005 319.136 {type "squat_lie"}
 				{wall -194.991 299.207 -182.135 344.12}
@@ -2345,7 +2318,6 @@
 		{MID 220}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 77 12}
 		{Cover
 			{sector -172.789 307.276 {type "squat_lie"}
 				{wall -194.991 299.207 -182.135 344.12}
@@ -2365,7 +2337,6 @@
 		{MID 221}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 261 139}
 		{Cover
 			{sector -177.125 336.185 {type "squat_lie"}
 				{wall -194.991 299.207 -182.135 344.12}
@@ -2400,7 +2371,6 @@
 		{MID 222}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 36 118}
 		{Cover
 			{sector -186.066 259.538 {type "squat_lie"}
 				{wall -183.961 235.845 -201.607 279.1}
@@ -2420,7 +2390,6 @@
 		{MID 223}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 149 159}
 		{Cover
 			{sector -186.885 302.088 {type "squat_lie"}
 				{wall -194.991 299.207 -182.135 344.12}
@@ -2440,7 +2409,6 @@
 		{MID 224}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 107 89}
 		{Cover
 			{sector -192.765 275.958 {type "squat_lie"}
 				{wall -183.961 235.845 -201.607 279.1}
@@ -2475,7 +2443,6 @@
 		{MID 225}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 26 34}
 		{Cover
 			{sector -179.368 243.119 {type "squat_lie"}
 				{wall -183.961 235.845 -201.607 279.1}
@@ -2495,7 +2462,6 @@
 		{MID 226}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 30 85}
 		{Cover
 			{sector -147.821 220.324 {type "squat_lie"}
 				{wall -134.545 200.587 -170.871 229.961}
@@ -2515,7 +2481,6 @@
 		{MID 227}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 33 67}
 		{Cover
 			{sector -134.031 209.174 {type "squat_lie"}
 				{wall -134.545 200.587 -170.871 229.961}
@@ -2550,7 +2515,6 @@
 		{MID 228}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 45 119}
 		{Cover
 			{sector -161.61 231.474 {type "squat_lie"}
 				{wall -134.545 200.587 -170.871 229.961}
@@ -2563,6 +2527,7 @@
 	{Human "mp/tra/tractorist" 0xe05a
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2570,7 +2535,6 @@
 		{MID 229}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 106 11}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2583,6 +2547,7 @@
 	{Human "mp/tra/tractorist" 0xe05b
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2590,7 +2555,6 @@
 		{MID 230}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 275 46}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2618,6 +2582,7 @@
 	{Human "mp/tra/tractorist" 0xe05f
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2625,7 +2590,6 @@
 		{MID 231}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 73 58}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2638,6 +2602,7 @@
 	{Human "mp/tra/tractorist" 0xe060
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2645,7 +2610,6 @@
 		{MID 232}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 313 120}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2658,6 +2622,7 @@
 	{Human "mp/tra/tractorist" 0xe061
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2665,7 +2630,6 @@
 		{MID 233}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 97 118}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2700,7 +2664,6 @@
 		{MID 234}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 287 113}
 		{Cover
 			{sector -84.9683 231.61 {type "squat_lie"}
 				{wall -66.2807 268.179 -80.1371 223.565}
@@ -2720,7 +2683,6 @@
 		{MID 235}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 3 114}
 		{Cover
 			{sector -74.4487 265.481 {type "squat_lie"}
 				{wall -66.2807 268.179 -80.1371 223.565}
@@ -2740,7 +2702,6 @@
 		{MID 236}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 140 17}
 		{Cover
 			{sector -69.2782 290.958 {type "squat_lie"}
 				{wall -68.8639 332.024 -61.3658 285.913}
@@ -2775,7 +2736,6 @@
 		{MID 237}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 139 122}
 		{Cover
 			{sector -93.9172 243.674 {type "squat_lie"}
 				{wall -66.2807 268.179 -80.1371 223.565}
@@ -2788,6 +2748,7 @@
 	{Human "mp/tra/tractorist" 0xe06c
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2795,7 +2756,6 @@
 		{MID 238}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 89 93}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2808,6 +2768,7 @@
 	{Human "mp/tra/tractorist" 0xe06d
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2815,7 +2776,6 @@
 		{MID 239}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 57 6}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2843,6 +2803,7 @@
 	{Human "mp/tra/tractorist" 0xe071
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2850,7 +2811,6 @@
 		{MID 240}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 142 89}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2863,6 +2823,7 @@
 	{Human "mp/tra/tractorist" 0xe072
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2870,7 +2831,6 @@
 		{MID 241}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 236 33}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2883,6 +2843,7 @@
 	{Human "mp/tra/tractorist" 0xe073
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2890,7 +2851,6 @@
 		{MID 242}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 23 25}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2918,6 +2878,7 @@
 	{Human "mp/tra/tractorist" 0xe077
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2925,7 +2886,6 @@
 		{MID 243}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 77 44}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2938,6 +2898,7 @@
 	{Human "mp/tra/tractorist" 0xe078
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2945,7 +2906,6 @@
 		{MID 244}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 112 153}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2958,6 +2918,7 @@
 	{Human "mp/tra/tractorist" 0xe079
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -2965,7 +2926,6 @@
 		{MID 245}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 128 129}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -2993,6 +2953,7 @@
 	{Human "mp/tra/tractorist" 0xe07d
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3000,7 +2961,6 @@
 		{MID 246}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 88 30}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3013,6 +2973,7 @@
 	{Human "mp/tra/tractorist" 0xe07e
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3020,7 +2981,6 @@
 		{MID 247}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 85 118}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3033,6 +2993,7 @@
 	{Human "mp/tra/tractorist" 0xe07f
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3040,7 +3001,6 @@
 		{MID 248}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 308 81}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3068,6 +3028,7 @@
 	{Human "mp/tra/tractorist" 0xe083
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3075,7 +3036,6 @@
 		{MID 249}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 215 161}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3088,6 +3048,7 @@
 	{Human "mp/tra/tractorist" 0xe084
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3095,7 +3056,6 @@
 		{MID 250}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 291 137}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3108,6 +3068,7 @@
 	{Human "mp/tra/tractorist" 0xe085
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3115,7 +3076,6 @@
 		{MID 251}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 103 91}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3143,6 +3103,7 @@
 	{Human "mp/tra/tractorist" 0xe089
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3150,7 +3111,6 @@
 		{MID 252}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 131 17}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3163,6 +3123,7 @@
 	{Human "mp/tra/tractorist" 0xe08a
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3170,7 +3131,6 @@
 		{MID 253}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 165 150}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3183,6 +3143,7 @@
 	{Human "mp/tra/tractorist" 0xe08b
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3190,7 +3151,6 @@
 		{MID 254}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 310 100}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3218,6 +3178,7 @@
 	{Human "mp/tra/tractorist" 0xe08f
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3225,7 +3186,6 @@
 		{MID 255}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 232 118}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3238,6 +3198,7 @@
 	{Human "mp/tra/tractorist" 0xe090
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3245,7 +3206,6 @@
 		{MID 256}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 301 108}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3258,6 +3218,7 @@
 	{Human "mp/tra/tractorist" 0xe091
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3265,7 +3226,6 @@
 		{MID 257}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 174 3}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3293,6 +3253,7 @@
 	{Human "mp/tra/tractorist" 0xe095
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3300,7 +3261,6 @@
 		{MID 258}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 204 151}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3313,6 +3273,7 @@
 	{Human "mp/tra/tractorist" 0xe096
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3320,7 +3281,6 @@
 		{MID 259}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 161 119}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3333,6 +3293,7 @@
 	{Human "mp/tra/tractorist" 0xe097
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3340,7 +3301,6 @@
 		{MID 260}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 90 100}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3368,6 +3328,7 @@
 	{Human "mp/tra/tractorist" 0xe09b
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3375,7 +3336,6 @@
 		{MID 261}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 206 92}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3388,6 +3348,7 @@
 	{Human "mp/tra/tractorist" 0xe09c
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3395,7 +3356,6 @@
 		{MID 262}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 101 42}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3408,6 +3368,7 @@
 	{Human "mp/tra/tractorist" 0xe09d
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3415,7 +3376,6 @@
 		{MID 263}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 292 104}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3443,6 +3403,7 @@
 	{Human "mp/tra/tractorist" 0xe0a1
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3450,7 +3411,6 @@
 		{MID 264}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 131 144}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3463,6 +3423,7 @@
 	{Human "mp/tra/tractorist" 0xe0a2
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3470,7 +3431,6 @@
 		{MID 265}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 273 163}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3483,6 +3443,7 @@
 	{Human "mp/tra/tractorist" 0xe0a3
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3490,7 +3451,6 @@
 		{MID 266}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 192 26}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3518,6 +3478,7 @@
 	{Human "mp/tra/tractorist" 0xe0a7
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3525,7 +3486,6 @@
 		{MID 267}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 163 51}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3538,6 +3498,7 @@
 	{Human "mp/tra/tractorist" 0xe0a8
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3545,7 +3506,6 @@
 		{MID 268}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 102 141}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3558,6 +3518,7 @@
 	{Human "mp/tra/tractorist" 0xe0a9
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3565,7 +3526,6 @@
 		{MID 269}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 271 33}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3593,6 +3553,7 @@
 	{Human "mp/tra/tractorist" 0xe0ad
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3600,7 +3561,6 @@
 		{MID 270}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 243 70}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3613,6 +3573,7 @@
 	{Human "mp/tra/tractorist" 0xe0ae
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3620,7 +3581,6 @@
 		{MID 271}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 200 137}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3633,6 +3593,7 @@
 	{Human "mp/tra/tractorist" 0xe0af
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3640,7 +3601,6 @@
 		{MID 272}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 44 54}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3668,6 +3628,7 @@
 	{Human "mp/tra/tractorist" 0xe0b3
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3675,7 +3636,6 @@
 		{MID 273}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 88 101}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3688,6 +3648,7 @@
 	{Human "mp/tra/tractorist" 0xe0b4
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3695,7 +3656,6 @@
 		{MID 274}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 97 109}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3708,6 +3668,7 @@
 	{Human "mp/tra/tractorist" 0xe0b5
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3715,7 +3676,6 @@
 		{MID 275}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 193 107}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3743,6 +3703,7 @@
 	{Human "mp/tra/tractorist" 0xe0b9
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3750,7 +3711,6 @@
 		{MID 276}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 137 132}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3763,6 +3723,7 @@
 	{Human "mp/tra/tractorist" 0xe0ba
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3770,7 +3731,6 @@
 		{MID 277}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 268 109}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3783,6 +3743,7 @@
 	{Human "mp/tra/tractorist" 0xe0bb
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3790,7 +3751,6 @@
 		{MID 278}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 74 14}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3818,6 +3778,7 @@
 	{Human "mp/tra/tractorist" 0xe0bf
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3825,7 +3786,6 @@
 		{MID 279}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 296 160}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3838,6 +3798,7 @@
 	{Human "mp/tra/tractorist" 0xe0c0
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3845,7 +3806,6 @@
 		{MID 280}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 285 46}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3858,6 +3818,7 @@
 	{Human "mp/tra/tractorist" 0xe0c1
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3865,7 +3826,6 @@
 		{MID 281}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 247 10}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3893,6 +3853,7 @@
 	{Human "mp/tra/tractorist" 0xe0c5
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3900,7 +3861,6 @@
 		{MID 282}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 9 134}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3913,6 +3873,7 @@
 	{Human "mp/tra/tractorist" 0xe0c6
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3920,7 +3881,6 @@
 		{MID 283}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 219 26}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3933,6 +3893,7 @@
 	{Human "mp/tra/tractorist" 0xe0c7
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3940,7 +3901,6 @@
 		{MID 284}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 69 57}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3968,6 +3928,7 @@
 	{Human "mp/tra/tractorist" 0xe0cb
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3975,7 +3936,6 @@
 		{MID 285}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 193 156}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -3988,6 +3948,7 @@
 	{Human "mp/tra/tractorist" 0xe0cc
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -3995,7 +3956,6 @@
 		{MID 286}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 308 58}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -4008,6 +3968,7 @@
 	{Human "mp/tra/tractorist" 0xe0cd
 		{Position -1646.44 701.7}
 		{xform zl -2.33}
+		{SpawnedInFog}
 		{Extender "vitality"
 			{Veterancy 1}
 		}
@@ -4015,7 +3976,6 @@
 		{MID 287}
 		{InfantryKills 1}
 		{Score 1}
-		{NameId 140 71}
 		{Cover
 			{sector -1646.44 701.704 {type "snipe_cover"}
 				{wall -1639.25 706.414 -1640.74 669.813}
@@ -4040,6 +4000,7 @@
 	{Entity "chicken" 0xe0d0
 		{Position -896.58 -64.93 10.5}
 		{xform zl -133.02 scale 9.97}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 290}
 	}
@@ -4052,30 +4013,35 @@
 	{Entity "chicken" 0x8000
 		{Position -2184.31 214.99 60.98}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 292}
 	}
 	{Entity "chicken" 0x8001
 		{Position -2219.65 769.68 52.6}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 293}
 	}
 	{Entity "chicken" 0x8002
 		{Position -1647.5 40.57 12.5}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 294}
 	}
 	{Entity "chicken" 0x8003
 		{Position -1375.33 804.12 17.5}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 295}
 	}
 	{Entity "chicken" 0x8004
 		{Position -1362.62 152.02 14.5}
 		{xform scale 10}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 296}
 	}
@@ -4178,12 +4144,14 @@
 	{Entity "cow" 0x805f
 		{Position -1149.82 464.27 95.03}
 		{xform zl -12.85 scale 8.99}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 313}
 	}
 	{Entity "cow" 0x8060
 		{Position -2250.7 605.35 146.8}
 		{xform zl -12.85 scale 8.99}
+		{SpawnedInFog}
 		{Player 9}
 		{MID 314}
 	}

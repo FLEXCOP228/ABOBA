@@ -1,104 +1,152 @@
 {mission
 	{Entity "map_point" 0xe000
-		{Position 126.59 3562.7}
+		{Position -2218.55 2904.56}
 		{xform zl -91.95}
 		{Extender "map_point"
 			{name a4}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 4}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 4}
 	}
 	{Entity "map_point" 0xe001
-		{Position 972.73 3560.95}
+		{Position 255.62 2916.44}
 		{xform zl -93.98}
 		{Extender "map_point"
 			{name a3}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 3}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 17}
 	}
 	{Entity "map_point" 0xe002
-		{Position 1997.5 3541.17}
+		{Position 1612.14 2957.46}
 		{xform zl -90.29}
 		{Extender "map_point"
 			{name a2}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 2}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 18}
 	}
 	{Entity "map_point" 0xe003
-		{Position 2945.71 3557.26}
+		{Position 2714.56 2903.79}
 		{xform zl -94.2}
 		{Extender "map_point"
 			{name a1}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 1}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 20}
 	}
 	{Entity "map_point" 0xe004
-		{Position -53.77 -3560.27}
+		{Position 2098.94 -2878.14}
 		{xform zl 87.87}
 		{Extender "map_point"
 			{name b4}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 4}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 5}
 	}
 	{Entity "map_point" 0xe005
-		{Position -1025.31 -3542.33}
+		{Position 529.34 -2856.8}
 		{xform zl 88.99}
 		{Extender "map_point"
 			{name b3}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 3}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 8}
 	}
 	{Entity "map_point" 0xe006
-		{Position -2093.06 -3547.5}
+		{Position -896.73 -2866.56}
 		{xform zl 89.53}
 		{Extender "map_point"
 			{name b2}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 2}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 9}
 	}
 	{Entity "map_point" 0xe007
-		{Position -3035.22 -3550.41}
+		{Position -2405.81 -2820.25}
 		{xform zl 85.62}
 		{Extender "map_point"
 			{name b1}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 1}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 10}
@@ -164,6 +212,8 @@
 							}
 							{"environment"
 								{name "multi/multi_10"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -183,6 +233,8 @@
 							}
 							{"environment"
 								{name "multi/multi_09"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -209,6 +261,8 @@
 							}
 							{"environment"
 								{name "multi/multi_08"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -235,6 +289,8 @@
 							}
 							{"environment"
 								{name "multi/multi_07"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -261,6 +317,8 @@
 							}
 							{"environment"
 								{name "multi/multi_06"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -287,6 +345,8 @@
 							}
 							{"environment"
 								{name "multi/multi_05"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -313,6 +373,8 @@
 							}
 							{"environment"
 								{name "multi/multi_04"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -339,6 +401,8 @@
 							}
 							{"environment"
 								{name "multi/multi_03"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -365,6 +429,8 @@
 							}
 							{"environment"
 								{name "multi/multi_02"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -387,6 +453,8 @@
 						{"default"
 							{"environment"
 								{name "multi/multi_01"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector

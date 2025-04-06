@@ -1,104 +1,152 @@
 {mission
 	{Entity "map_point" 0xe000
-		{Position 126.59 3562.7}
+		{Position -1843.04 1938.08}
 		{xform zl -91.95}
 		{Extender "map_point"
 			{name a4}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 4}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 4}
 	}
 	{Entity "map_point" 0xe001
-		{Position 972.73 3560.95}
+		{Position -1245.29 1938.84}
 		{xform zl -93.98}
 		{Extender "map_point"
 			{name a3}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 3}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 17}
 	}
 	{Entity "map_point" 0xe002
-		{Position 1997.5 3541.17}
+		{Position 1224.41 1916.32}
 		{xform zl -90.29}
 		{Extender "map_point"
 			{name a2}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 2}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 18}
 	}
 	{Entity "map_point" 0xe003
-		{Position 2945.71 3557.26}
+		{Position 1902.83 1926.87}
 		{xform zl -94.2}
 		{Extender "map_point"
 			{name a1}
 			{team a}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 1}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 20}
 	}
 	{Entity "map_point" 0xe004
-		{Position -53.77 -3560.27}
+		{Position 1052.92 -1957.91}
 		{xform zl 87.87}
 		{Extender "map_point"
 			{name b4}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 4}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 5}
 	}
 	{Entity "map_point" 0xe005
-		{Position -1025.31 -3542.33}
+		{Position -102.12 -1943.48}
 		{xform zl 88.99}
 		{Extender "map_point"
 			{name b3}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 3}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 8}
 	}
 	{Entity "map_point" 0xe006
-		{Position -2093.06 -3547.5}
+		{Position -1236.09 -1938.75}
 		{xform zl 89.53}
 		{Extender "map_point"
 			{name b2}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 2}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 9}
 	}
 	{Entity "map_point" 0xe007
-		{Position -3035.22 -3550.41}
+		{Position -1897.48 -1940.36}
 		{xform zl 85.62}
 		{Extender "map_point"
 			{name b1}
 			{team b}
+			{zoneA 0}
+			{zoneB 0}
 			{phase 0}
 			{order 1}
 			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
 		}
 		{Player 0}
 		{MID 10}
@@ -139,6 +187,12 @@
 			{SoundName "world/skirmish_environment/open_ground_night1"}
 		}
 	}
+	{Tags "keep_places_without_door" 0x22}
+	{Tags "keep_places_without_door" 0x1c07}
+	{Tags "keep_places_without_door" 0x602}
+	{Tags "keep_places_without_door" 0xe2}
+	{Tags "keep_places_without_door" 0x203e}
+	{Tags "keep_places_without_door" 0x7c0b}
 	{Tags "night" 0xc004}
 	{Tags "day" 0x8000}
 	{Tags "day" 0x8001}
@@ -164,6 +218,8 @@
 							}
 							{"environment"
 								{name "multi/multi_10"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -183,6 +239,8 @@
 							}
 							{"environment"
 								{name "multi/multi_09"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -209,6 +267,8 @@
 							}
 							{"environment"
 								{name "multi/multi_08"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -235,6 +295,8 @@
 							}
 							{"environment"
 								{name "multi/multi_07"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -261,6 +323,8 @@
 							}
 							{"environment"
 								{name "multi/multi_06"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -287,6 +351,8 @@
 							}
 							{"environment"
 								{name "multi/multi_05"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -313,6 +379,8 @@
 							}
 							{"environment"
 								{name "multi/multi_04"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -339,6 +407,8 @@
 							}
 							{"environment"
 								{name "multi/multi_03"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -365,6 +435,8 @@
 							}
 							{"environment"
 								{name "multi/multi_02"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
@@ -387,6 +459,8 @@
 						{"default"
 							{"environment"
 								{name "multi/multi_01"}
+								{time -1}
+								{apply}
 							}
 							{"delete"
 								{selector
