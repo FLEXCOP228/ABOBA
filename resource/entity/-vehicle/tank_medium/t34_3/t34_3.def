@@ -134,13 +134,13 @@
 	{Extension "t34-85.mdl"}
 
 	{bone "gun_rot"
-		{speed 0.004}
+		{speed 0.003}
 	}
 	{bone "turret"
-		{speed 0.02}
+		{speed 0.01}
 	}
 	{bone "mgun_rot1"
-		{limits -10 10}		;gun min right to max left
+		{limits -12 12}		;gun min right to max left
 	}
 }
 
