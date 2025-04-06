@@ -57,7 +57,7 @@
 {"pz3"              ("v" c(0) t(all medium) 		s(rob) n1(3) n2(1) g(e2) sc(16.00) b(v4) cw(0) cp(15)) {level 1} {cost 355} {fore 1.0}}	
 {"grant_m3"         ("v" c(0) t(all medium arcade) 	s(rob) n1(3) n2(1) g(e1) sc(16.50) b(v4) cw(0) cp(15)) {level 1} {cost 330} {fore 1.0}} 
 {"m8"               ("v" c(0) t(all medium) 		s(rob) n1(3) n2(1) g(e2) sc(17.50) b(v4) cw(0) cp(15)) {level 4} {cost 350} {fore 1.0}}
-{"m4a3_75"          ("v" c(0) t(all medium) 		s(rob) n1(4) n2(1) g(e3) sc(22.00) b(v4) cw(0) cp(15)) {level 1} {cost 440} {fore 1.0}} 	
+{"m4a3_75"          ("v" c(0) t(all medium) 		s(rob) n1(4) n2(1) g(e3) sc(22.00) b(v4) cw(0) cp(15)) {level 1} {cost 450} {fore 1.0}} 	
 
 {"m4a3e8"         	("v" c(0) t(all medium) 		s(rob) n1(4) n2(1) g(e4) sc(32.50) b(v4) cw(0) cp(15)) {level 1} {cost 650} {fore 1.0}} 	
 {"m4a3e2_jumbo"     ("v" c(0) t(all heavy) 			s(rob) n1(4) n2(1) g(e5) sc(50.00) b(v4) cw(0) cp(30)) {level 1} {cost 1000} {fore 1.0}} 
