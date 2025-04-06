@@ -36,7 +36,7 @@
 		{component "gun"}
 	}
 	
-	("armor_medium" turret(20) body(80 30 30 20))
+	("armor_medium" turret(200) body(150 90 90 50))
 	("armor_engine"  t(30 30 30 20))
 
 	(define "crew_human"
@@ -118,11 +118,11 @@
 	{Chassis
 		("tank_trace" fx("tracks_mid") step(0.52) len(0.7))
 		{Locomotion ("locomotion")
-			{maxspeed        24}
-			{maxSpeedAtMaxTurn 11}
+			{maxspeed        25}
+			{maxSpeedAtMaxTurn 21}
 			{StartTime       14}
-			{TurnStart        2}
-			{TurnTime         9}
+			{TurnStart        1}
+			{TurnTime         1}
     		{BrakeTime        1} 
     		{StopTime       1.5} 
     		{TurnRadius      10} 
@@ -142,10 +142,10 @@
 	}
 
 	{bone "gun_rot"
-		{speed 0.009}
-		{limits -8 65}
+		{speed 0.059}
+		{limits -800 650}
 	}
 	{bone "turret"
-		{speed 0.006}
+		{speed 0.016}
 	}	
 }

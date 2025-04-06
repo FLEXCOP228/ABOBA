@@ -1,7 +1,7 @@
 -= Animation: start, Node Body =-
 	Frame 0 {
 		Visibility 1
-		Position	-7.09125	0.415425	23.1223
+		Position	-0.09125	0.415425	23.1223
 		Orientation	0 0 0 1
 	}
 	Frame 1 {
@@ -21,7 +21,7 @@
 		Orientation	0.00153696 0.00595442 -5.79021e-005 0.999981
 	}
 	Frame 5 {
-		Position	-7.09125	0.415425	22.9991
+		Position	-7.09125	7.415425	22.9991
 		Orientation	0.00218289 0.00866214 -7.63325e-005 0.99996
 	}
 	Frame 6 {
