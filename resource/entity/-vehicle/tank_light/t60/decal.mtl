@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "decal"}
-	{blend test}
-}
