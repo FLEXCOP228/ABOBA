@@ -1,0 +1,9 @@
+{game_entity
+	(include "moto.inc")
+	{extender "inventory"
+		{Box
+			{item "type99lmg" filled {user "mgun"}}
+		}
+	}
+;	{texmod "jap"}
+}
