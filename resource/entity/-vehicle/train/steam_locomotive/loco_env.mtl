@@ -1,7 +1,0 @@
-{material envmap
-	{diffuse "steam"}
-	{mask "$/model/steam_mask"}
-	{envmap "$/environment/envmap_metal02"}
-	{blend none}
-	{tile}
-}
