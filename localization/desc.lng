@@ -314,6 +314,9 @@
 				{"telepuzik2" "<c(c3baae)>Дипси"}
 				{"shaverma" "<c(c3baae)>Шаверма"}
 				{"alisa" "<c(c3baae)>Яндекс алиса"}
+				{"lesha" "<c(c3baae)>Л`ша Дроченко"}
+				{"nikita" "<c(c3baae)>Никита..."}
+				{"yarik" "<c(c3baae)>Хуярик"}
 			}
 			{"ger2"
 				{"ap_miner" "<c(c3baae)>ПП минёр"}
@@ -369,6 +372,7 @@
 		}
 	}
 	{"squad"
+		{"yln(fem)" "Каратели логики(разрабы)"}
 		{"kuchas(fem)" "Малинки малинки весёлые поминки"}
 		{"telepuziks(fem)" "Кибер телепузики"}
 		{"shavermas(fem)" "ШАУРМААААААА"}

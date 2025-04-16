@@ -1,0 +1,60 @@
+{breed
+	{skin "jap_t4"}
+	{portrait nikita}
+	{icon home_guard}
+	{icon_priority 0}
+	{nationality rob}
+	{armors
+		{head fieldcap_rus}
+	}
+	{perks
+		{"health" "400%"
+		}
+		{"health_regeneration" "1000%"
+		}
+		{"stamina" "20%"
+		}
+		{"stamina_regeneration" "500%"
+		}
+		{"vision" mp_soldier
+		}
+		{"speed" 0.7
+		}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_5
+		}
+		{"smg" lvl_5
+		}
+		{"mgun" lvl_5
+		}
+		{"rifle" lvl_5
+		}
+		{"rocketlauncher" lvl_5
+		}
+		{"melee" lvl_5
+		}
+	}
+	{veterancy
+		{"lvl_1" 3
+		}
+		{"lvl_2" 5
+		}
+		{"lvl_3" 10
+		}
+		{"lvl_4" 20
+		}
+		{"lvl_5" 30
+		}
+	}
+	{inventory
+		{item "bandage" 10}
+		{item "mg34_x2" filling "mgun ammo" 200}
+		{item "mgun ammo" 1500}
+		{in_hands 1}
+	}
+}
