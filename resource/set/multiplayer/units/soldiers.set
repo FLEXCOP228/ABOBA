@@ -1,4 +1,4 @@
-;SDL
+	;SDL
 (define "tankman"
     {tags   "tankman %side crew man"}
     {cp     2.0}
@@ -214,6 +214,9 @@
     {cw 1.0}
 )
 {"mp/pax/paxom" ("paxoms" side(pax))}
+{"mp/fem/nikita" ("nikita" side(fem))}
+{"mp/fem/lesha" ("lesha" side(fem))}
+{"mp/fem/yarik" ("yarik" side(fem))}
 
 (define "tesas"
     {tags   "tesas %side infantry man"}
