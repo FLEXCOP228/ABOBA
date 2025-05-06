@@ -97,6 +97,30 @@
 {"mp/fem/home_guard2" ("home_guard" side(fem))}
 
 
+(define "shavermas"
+    {tags   "smg %side infantry man"}
+    {cp     2.5}
+    {score  0.50}
+    {basic}
+    {breed}
+    {cw 0.5}
+)
+{"mp/fem/shaverma" ("shavermas" side(fem))}
+
+
+(define "yln"
+    {tags   "smg %side infantry man"}
+    {cp     2.5}
+    {score  0.50}
+    {basic}
+    {breed}
+    {cw 0.5}
+)
+{"mp/fem/yarik" ("yln" side(fem))}
+{"mp/fem/lesha" ("yln" side(fem))}
+{"mp/fem/nikita" ("yln" side(fem))}
+
+
 (define "obor"
     {tags   "obor %side infantry man"}
     {cp     1.875}
@@ -214,9 +238,6 @@
     {cw 1.0}
 )
 {"mp/pax/paxom" ("paxoms" side(pax))}
-{"mp/fem/nikita" ("nikita" side(fem))}
-{"mp/fem/lesha" ("lesha" side(fem))}
-{"mp/fem/yarik" ("yarik" side(fem))}
 
 (define "tesas"
     {tags   "tesas %side infantry man"}
@@ -450,10 +471,6 @@
     {breed}
     {cw 3.0}
 )
-{"mp/rus/elite" ("elite" side(rus))}
-{"mp/ger/elite" ("elite" side(ger))}
-{"mp/eng/elite" ("elite" side(eng))}
-{"mp/usa/elite" ("elite" side(usa))}
 {"mp/jap/elite" ("elite" side(jap))}
 {"mp/ger2/elite" ("elite" side(ger2))}
 

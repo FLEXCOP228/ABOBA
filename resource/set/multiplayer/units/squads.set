@@ -123,7 +123,7 @@
 ("squad_with4types" side(fem) name(kuchas) c(0) g(squad_2) c1(home_guard:0) c2(smg:8) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(60) f(1.0))
 ("squad_with4types" side(fem) name(stefanofs) c(0) g(squad_2) c1(home_guard:4) c2(home_guard2:5) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(90) f(1.0))
 ("squad_with4types" side(fem) name(telepuziks) c(0) g(squad_2) c1(telepuzik2:6) c2(telepuzik:2) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(125) f(1.0))
-("squad_with4types" side(fem) name(shavermas) c(0) g(squad_2) c1(shaverma:30) c2(alisa:1) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(222) f(1.0))
+("squad_with4types" side(fem) name(shavermas) c(0) g(squad_2) c1(shaverma:30) c2(alisa:1) c3(smg:0) c4(mgun:0) b(squad1) t(all inf_only) level(1) cost(122) f(1.0))
 ("squad_with4types" side(fem) name(yln) c(666) g(squad_3) c1(yarik:1) c2(lesha:1) c3(nikita:1) b(squad1) t(all inf_only) level(1) cost(333) f(1.0))
 ("squad_with4types" side(ger2) name(riflemans) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(140) f(1.0))
 
