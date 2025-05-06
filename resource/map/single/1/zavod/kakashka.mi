@@ -104,6 +104,15 @@
 		{xform zl 85.64}
 		{Player 0}
 		{MID 8}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.914259}
+					{prevposition -1690.93 -1704.41 19.8481}
+					{prevdirection 0.741298 0.659048 -0.127019}
+				}
+			}
+		}
 		{FsmState "stand"}
 	}
 	{Human "mp/fem/alisa" 0xc010
@@ -111,15 +120,6 @@
 		{xform zl 85.64}
 		{Player 0}
 		{MID 9}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.851}
-					{prevposition -1720.55 -1648.06 20.2052}
-					{prevdirection 0.963769 0.232724 -0.130343}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/fem/alisa" 0xc011
@@ -127,15 +127,6 @@
 		{xform zl 85.64}
 		{Player 0}
 		{MID 10}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.7755}
-					{prevposition -1642.95 -1665.85 23.9643}
-					{prevdirection 0.999115 -0.032712 -0.0264266}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Entity "st_fence1_af" 0x8000
@@ -1359,8 +1350,8 @@
 		{MID 75}
 	}
 	{Human "mp/rob/tankman1" 0x8089
-		{Position -1870.86 -1527.7}
-		{xform y 2.09 zw 55.5}
+		{Position -1870.89 -1527.75}
+		{xform y 2.09 zw 55.9}
 		{Player 0}
 		{MID 76}
 	}
@@ -1753,15 +1744,6 @@
 		{xform zl 85.64}
 		{Player 0}
 		{MID 103}
-		{Weaponry
-			{State
-				{AccuracyByMotion
-					{value 0.75}
-					{prevposition -1719.59 1586.85 23.9946}
-					{prevdirection -0.198264 0.980146 -0.00237677}
-				}
-			}
-		}
 		{FsmState "stand"}
 	}
 	{Human "mp/fem/alisa" 0x80cf
@@ -1802,98 +1784,6 @@
 		{MID 109}
 		{FsmState "stand"}
 	}
-	{Entity "browningm2" 0x80d5
-		{Extender "stuff"
-			{Item "browning_x4" filled}
-		}
-	}
-	{Entity "browningm2" 0x80d6
-		{Extender "stuff"
-			{Item "browning_x4" filled}
-		}
-	}
-	{Entity "browningm2" 0x80d7
-		{Extender "stuff"
-			{Item "browning_x4" filled}
-		}
-	}
-	{Entity "browningm2" 0x80d8
-		{Extender "stuff"
-			{Item "browning_x4" filled}
-		}
-	}
-	{Entity "sks_45" 0x80d9
-		{Extender "stuff"
-			{Item "sks" filled}
-		}
-	}
-	{Entity "mp3008" 0x80da
-		{Extender "stuff"
-			{Item "mp3008" filled}
-		}
-	}
-	{Entity "sks_45" 0x80db
-		{Extender "stuff"
-			{Item "sks" filled}
-		}
-	}
-	{Entity "mp3008" 0x80dc
-		{Extender "stuff"
-			{Item "mp3008" filled}
-		}
-	}
-	{Human "mp/fem/alisa" 0x80dd
-		{Position 525.63 1749.29}
-		{xform zl 85.64}
-		{Player 0}
-		{MID 110}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/alisa" 0x80de
-		{Position 601.89 1756.04}
-		{xform zl 85.64}
-		{Player 0}
-		{MID 111}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/alisa" 0x80df
-		{Position 556.22 1817.81}
-		{xform zl 85.64}
-		{Player 0}
-		{MID 112}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/alisa" 0x80e0
-		{Position 519.53 1885.59}
-		{xform zl 85.64}
-		{Player 0}
-		{MID 113}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/telepuzik" 0x80e1
-		{Position 447.06 1665.48}
-		{Player 0}
-		{MID 114}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/telepuzik2" 0x80e2
-		{Position 446.14 1746.9}
-		{Player 0}
-		{MID 115}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/telepuzik" 0x80e3
-		{Position 448.09 1809.52}
-		{Player 0}
-		{MID 116}
-		{FsmState "stand"}
-	}
-	{Human "mp/fem/telepuzik2" 0x80e4
-		{Position 444.12 1874.95}
-		{Player 0}
-		{MID 117}
-		{FsmState "stand"}
-	}
 	{Human "mp/fem/nikita" 0x80e5
 		{Position -1973.76 -1982.3}
 		{Player 0}
@@ -1903,6 +1793,598 @@
 	{Entity "mg34" 0x80e6
 		{Extender "stuff"
 			{Item "mg34_x2" filled}
+		}
+	}
+	{Entity "browningm2" 0x80e7
+		{Extender "stuff"
+			{Item "browning_x4" filled}
+		}
+	}
+	{Entity "browningm2" 0x80e8
+		{Extender "stuff"
+			{Item "browning_x4" filled}
+		}
+	}
+	{Entity "browningm2" 0x80e9
+		{Extender "stuff"
+			{Item "browning_x4" filled}
+		}
+	}
+	{Entity "browningm2" 0x80ea
+		{Extender "stuff"
+			{Item "browning_x4" filled}
+		}
+	}
+	{Entity "sks_45" 0x80eb
+		{Extender "stuff"
+			{Item "sks" filled}
+		}
+	}
+	{Entity "mp3008" 0x80ec
+		{Extender "stuff"
+			{Item "mp3008" filled}
+		}
+	}
+	{Entity "sks_45" 0x80ed
+		{Extender "stuff"
+			{Item "sks" filled}
+		}
+	}
+	{Entity "mp3008" 0x80ee
+		{Extender "stuff"
+			{Item "mp3008" filled}
+		}
+	}
+	{Human "mp/fem/alisa" 0x80ef
+		{Position -1727.82 826.25}
+		{xform zl 85.64}
+		{Player 0}
+		{MID 119}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -1701.63 840.132 20.3409}
+					{prevdirection 0.938657 0.321823 -0.123909}
+				}
+			}
+		}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/alisa" 0x80f0
+		{Position -1651.56 833}
+		{xform zl 85.64}
+		{Player 0}
+		{MID 120}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/alisa" 0x80f1
+		{Position -1697.23 894.77}
+		{xform zl 85.64}
+		{Player 0}
+		{MID 121}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/alisa" 0x80f2
+		{Position -1733.92 962.55}
+		{xform zl 85.64}
+		{Player 0}
+		{MID 122}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/telepuzik" 0x80f3
+		{Position -1806.39 742.44}
+		{Player 0}
+		{MID 123}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/telepuzik2" 0x80f4
+		{Position -1799.89 823.91}
+		{xform zl 0.4}
+		{Player 0}
+		{MID 124}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/telepuzik" 0x80f5
+		{Position -1805.36 886.48}
+		{Player 0}
+		{MID 125}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/telepuzik2" 0x80f6
+		{Position -1809.33 951.91}
+		{Player 0}
+		{MID 126}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc036
+		{Position -1931.69 1252.3}
+		{Player 0}
+		{MID 110}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc037
+		{Position -1914.5 1281.71}
+		{Player 0}
+		{MID 111}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc039
+		{Position -1903.35 1269.37}
+		{Player 0}
+		{MID 112}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc03b
+		{Position -1885.62 1250.69}
+		{Player 0}
+		{MID 113}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc03d
+		{Position -1901.27 1231.95}
+		{Player 0}
+		{MID 114}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc03e
+		{Position -1920.85 1224}
+		{Player 0}
+		{MID 115}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc042
+		{Position -1864.14 1188.22}
+		{Player 0}
+		{MID 116}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc043
+		{Position -1847.93 1199.73}
+		{Player 0}
+		{MID 117}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc045
+		{Position -1867.15 1223.97}
+		{Player 0}
+		{MID 127}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc047
+		{Position -1899.69 1205.23}
+		{Player 0}
+		{MID 128}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/shaverma" 0xc049
+		{Position -1907.46 1190.93}
+		{Player 0}
+		{MID 129}
+		{LastThrowItem "dynamite_ladung"}
+		{FsmState "stand"}
+	}
+	{Human "mp/fem/lesha" 0xc04c
+		{Position -1924.89 1545.8}
+		{Player 0}
+		{MID 130}
+		{FsmState "stand"}
+	}
+	{Entity "stg44_scope" 0xc04d
+		{Extender "stuff"
+			{Item "sg44b" filled}
+		}
+	}
+	{Entity "thompson" 0x80e0
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "thompson" 0x80e2
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "st_fence1_af" 0x80e4
+		{Position 1060.51 1868.7}
+		{xform zl -82.67}
+	}
+	{Human "mp/pax/tesas" 0x80f7
+		{Position 1465.84 588.96}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 131}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1465.84 588.963 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x80e4}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Human "mp/pax/tesas" 0x80f8
+		{Position 1442.39 605.9}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 132}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1442.39 605.901 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x80e4}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0x80f9
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "thompson" 0x80fb
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "st_fence1_af" 0x80fd
+		{Position 1034.31 1703.75}
+		{xform zl -78.53}
+	}
+	{Human "mp/pax/tesas" 0x80fe
+		{Position 1465.84 588.96}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 133}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1465.84 588.963 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x80fd}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Human "mp/pax/tesas" 0x80ff
+		{Position 1442.39 605.9}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 134}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1442.39 605.901 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x80fd}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0x8100
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "thompson" 0x8102
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "st_fence1_af" 0x8104
+		{Position 1455.14 1452.72}
+		{xform zl -156.24}
+	}
+	{Human "mp/pax/tesas" 0x8105
+		{Position 1465.84 588.96}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 135}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1465.84 588.963 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x8104}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Human "mp/pax/tesas" 0x8106
+		{Position 1442.39 605.9}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 136}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1442.39 605.901 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x8104}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0x8107
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "thompson" 0x8109
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "st_fence1_af" 0x810b
+		{Position 1726.47 1695.78}
+		{xform zl -90.65}
+	}
+	{Human "mp/pax/tesas" 0x810c
+		{Position 1465.84 588.96}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 137}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1465.84 588.963 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x810b}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Human "mp/pax/tesas" 0x810d
+		{Position 1442.39 605.9}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 138}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1442.39 605.901 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x810b}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0x810e
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Entity "thompson" 0x8110
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0x8113
+		{Position 1465.84 588.96}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 139}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1465.84 588.963 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x8112}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Human "mp/pax/tesas" 0x8114
+		{Position 1442.39 605.9}
+		{xform zl -125.84}
+		{Player 1}
+		{MID 140}
+		{LastThrowItem "rg42x3 grenade"}
+		{Cover
+			{sector 1442.39 605.901 {type "snipe_cover"}
+				{wall 1501.86 554.316 1398.99 628.617}
+				{row 0}
+				{link 0x8112}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Human "mp/fem/smg" 0x8115
+		{Position -1914.14 1750.73}
+		{Player 0}
+		{MID 141}
+		{NameId 0 0}
+		{FsmState "stand"}
+	}
+	{Entity "stg44_scope" 0x8116
+		{Extender "stuff"
+			{Item "sg44b" filled}
+		}
+	}
+	{Human "mp/fem/smg" 0x8117
+		{Position -1918.47 1715.9}
+		{Player 0}
+		{MID 142}
+		{FsmState "stand"}
+	}
+	{Entity "stg44_scope" 0x8118
+		{Extender "stuff"
+			{Item "sg44b" filled}
+		}
+	}
+	{Human "mp/fem/smg" 0x8119
+		{Position -1923.83 1672.8}
+		{Player 0}
+		{MID 143}
+		{FsmState "stand"}
+	}
+	{Entity "stg44_scope" 0x811a
+		{Extender "stuff"
+			{Item "sg44b" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc038
+		{Position 1747.27 1710.11}
+		{xform zl 179.35}
+		{Player 1}
+		{MID 144}
+		{Cover
+			{sector 1747.27 1710.11 {type "snipe_cover"}
+				{wall 1739.38 1631.79 1740.82 1758.68}
+				{row 0}
+				{link 0x810b}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc03a
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc03c
+		{Position 1746.94 1681.19}
+		{xform zl 179.35}
+		{Player 1}
+		{MID 145}
+		{Cover
+			{sector 1746.94 1681.19 {type "snipe_cover"}
+				{wall 1739.38 1631.79 1740.82 1758.68}
+				{row 0}
+				{link 0x810b}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc03f
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc040
+		{Position 1476.79 1439.7}
+		{xform zl 113.76}
+		{Player 1}
+		{MID 146}
+		{Cover
+			{sector 1476.79 1439.7 {type "snipe_cover"}
+				{wall 1402.21 1414.52 1518.35 1465.64}
+				{row 0}
+				{link 0x8104}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc041
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc044
+		{Position 1450.31 1428.05}
+		{xform zl 113.76}
+		{Player 1}
+		{MID 147}
+		{Cover
+			{sector 1450.31 1428.05 {type "snipe_cover"}
+				{wall 1402.21 1414.52 1518.35 1465.64}
+				{row 0}
+				{link 0x8104}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc046
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc048
+		{Position 1057.39 1693.78}
+		{xform zl -168.53}
+		{Player 1}
+		{MID 148}
+		{Cover
+			{sector 1057.39 1693.78 {type "snipe_cover"}
+				{wall 1060.37 1643.9 1035.14 1768.26}
+				{row 0}
+				{link 0x80fd}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc04a
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc04b
+		{Position 1051.64 1722.13}
+		{xform zl -168.53}
+		{Player 1}
+		{MID 149}
+		{Cover
+			{sector 1051.64 1722.13 {type "snipe_cover"}
+				{wall 1060.37 1643.9 1035.14 1768.26}
+				{row 0}
+				{link 0x80fd}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc04e
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc04f
+		{Position 1079.12 1885.78}
+		{xform zl -172.67}
+		{Player 1}
+		{MID 150}
+		{Cover
+			{sector 1079.12 1885.78 {type "snipe_cover"}
+				{wall 1082.18 1807.12 1065.99 1932.98}
+				{row 0}
+				{link 0x80e4}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc050
+		{Extender "stuff"
+			{Item "thompson_30" filled}
+		}
+	}
+	{Human "mp/pax/tesas" 0xc051
+		{Position 1082.81 1857.09}
+		{xform zl -172.67}
+		{Player 1}
+		{MID 151}
+		{Cover
+			{sector 1082.81 1857.09 {type "snipe_cover"}
+				{wall 1082.18 1807.12 1065.99 1932.98}
+				{row 0}
+				{link 0x80e4}
+			}
+		}
+		{FsmState "snipe"}
+	}
+	{Entity "thompson" 0xc052
+		{Extender "stuff"
+			{Item "thompson_30" filled}
 		}
 	}
 	{Link 0xc015 {0x807e "driver"}}
@@ -3719,132 +4201,6 @@
 			{item "pistol" "ammo" 50 {cell 0 3}}
 		}
 	}
-	{Inventory 0x80dd
-		{box
-			{clear}
-			{item 0x80d5 {cell 0 0}{user "hand_right"}}
-			{item "hmgun" "ammo" 100 {cell 0 2}}
-			{item "hmgun" "ammo" 100 {cell 2 2}}
-			{item "hmgun" "ammo" 100 {cell 4 2}}
-			{item "hmgun" "ammo" 100 {cell 0 4}}
-			{item "hmgun" "ammo" 100 {cell 2 4}}
-			{item "hmgun" "ammo" 100 {cell 4 4}}
-			{item "hmgun" "ammo" 100 {cell 0 6}}
-			{item "hmgun" "ammo" 100 {cell 2 6}}
-			{item "hmgun" "ammo" 100 {cell 4 6}}
-			{item "hmgun" "ammo" 100 {cell 0 8}}
-			{item "hmgun" "ammo" 100 {cell 2 8}}
-			{item "hmgun" "ammo" 100 {cell 4 8}}
-		}
-	}
-	{Inventory 0x80de
-		{box
-			{clear}
-			{item 0x80d6 {cell 0 0}{user "hand_right"}}
-			{item "hmgun" "ammo" 100 {cell 0 2}}
-			{item "hmgun" "ammo" 100 {cell 2 2}}
-			{item "hmgun" "ammo" 100 {cell 4 2}}
-			{item "hmgun" "ammo" 100 {cell 0 4}}
-			{item "hmgun" "ammo" 100 {cell 2 4}}
-			{item "hmgun" "ammo" 100 {cell 4 4}}
-			{item "hmgun" "ammo" 100 {cell 0 6}}
-			{item "hmgun" "ammo" 100 {cell 2 6}}
-			{item "hmgun" "ammo" 100 {cell 4 6}}
-			{item "hmgun" "ammo" 100 {cell 0 8}}
-			{item "hmgun" "ammo" 100 {cell 2 8}}
-			{item "hmgun" "ammo" 100 {cell 4 8}}
-		}
-	}
-	{Inventory 0x80df
-		{box
-			{clear}
-			{item 0x80d7 {cell 0 0}{user "hand_right"}}
-			{item "hmgun" "ammo" 100 {cell 0 2}}
-			{item "hmgun" "ammo" 100 {cell 2 2}}
-			{item "hmgun" "ammo" 100 {cell 4 2}}
-			{item "hmgun" "ammo" 100 {cell 0 4}}
-			{item "hmgun" "ammo" 100 {cell 2 4}}
-			{item "hmgun" "ammo" 100 {cell 4 4}}
-			{item "hmgun" "ammo" 100 {cell 0 6}}
-			{item "hmgun" "ammo" 100 {cell 2 6}}
-			{item "hmgun" "ammo" 100 {cell 4 6}}
-			{item "hmgun" "ammo" 100 {cell 0 8}}
-			{item "hmgun" "ammo" 100 {cell 2 8}}
-			{item "hmgun" "ammo" 100 {cell 4 8}}
-		}
-	}
-	{Inventory 0x80e0
-		{box
-			{clear}
-			{item 0x80d8 {cell 0 0}{user "hand_right"}}
-			{item "hmgun" "ammo" 100 {cell 0 2}}
-			{item "hmgun" "ammo" 100 {cell 2 2}}
-			{item "hmgun" "ammo" 100 {cell 4 2}}
-			{item "hmgun" "ammo" 100 {cell 0 4}}
-			{item "hmgun" "ammo" 100 {cell 2 4}}
-			{item "hmgun" "ammo" 100 {cell 4 4}}
-			{item "hmgun" "ammo" 100 {cell 0 6}}
-			{item "hmgun" "ammo" 100 {cell 2 6}}
-			{item "hmgun" "ammo" 100 {cell 4 6}}
-			{item "hmgun" "ammo" 100 {cell 0 8}}
-			{item "hmgun" "ammo" 100 {cell 2 8}}
-			{item "hmgun" "ammo" 100 {cell 4 8}}
-		}
-	}
-	{Inventory 0x80e1
-		{box
-			{clear}
-			{item "rifle" "ammo" 25 {cell 0 0}}
-			{item "rifle" "ammo" 25 {cell 1 0}}
-			{item "rifle" "ammo" 25 {cell 2 0}}
-			{item "rifle" "ammo" 25 {cell 3 0}}
-			{item "rifle" "ammo" 25 {cell 4 0}}
-			{item "rifle" "ammo" 25 {cell 5 0}}
-			{item "rifle" "ammo" 25 {cell 0 1}}
-			{item "rifle" "ammo" 25 {cell 1 1}}
-			{item "m39" "grenade" {cell 2 1}}
-			{item "m39" "grenade" {cell 3 1}}
-			{item 0x80d9 {cell 0 2}{user "hand_right"}}
-		}
-	}
-	{Inventory 0x80e2
-		{box
-			{clear}
-			{item "m39" "grenade" {cell 0 0}}
-			{item 0x80da {cell 1 0}{user "hand_right"}}
-			{item "pistol" "ammo" 100 {cell 0 2}}
-			{item "pistol" "ammo" 100 {cell 2 2}}
-			{item "pistol" "ammo" 100 {cell 4 2}}
-			{item "pistol" "ammo" 50 {cell 0 3}}
-		}
-	}
-	{Inventory 0x80e3
-		{box
-			{clear}
-			{item "rifle" "ammo" 25 {cell 0 0}}
-			{item "rifle" "ammo" 25 {cell 1 0}}
-			{item "rifle" "ammo" 25 {cell 2 0}}
-			{item "rifle" "ammo" 25 {cell 3 0}}
-			{item "rifle" "ammo" 25 {cell 4 0}}
-			{item "rifle" "ammo" 25 {cell 5 0}}
-			{item "rifle" "ammo" 25 {cell 0 1}}
-			{item "rifle" "ammo" 25 {cell 1 1}}
-			{item "m39" "grenade" {cell 2 1}}
-			{item "m39" "grenade" {cell 3 1}}
-			{item 0x80db {cell 0 2}{user "hand_right"}}
-		}
-	}
-	{Inventory 0x80e4
-		{box
-			{clear}
-			{item "m39" "grenade" {cell 0 0}}
-			{item 0x80dc {cell 1 0}{user "hand_right"}}
-			{item "pistol" "ammo" 100 {cell 0 2}}
-			{item "pistol" "ammo" 100 {cell 2 2}}
-			{item "pistol" "ammo" 100 {cell 4 2}}
-			{item "pistol" "ammo" 50 {cell 0 3}}
-		}
-	}
 	{Inventory 0x80e5
 		{box
 			{clear}
@@ -3867,6 +4223,668 @@
 			{item "mgun" "ammo" 100 {cell 0 7}}
 			{item "mgun" "ammo" 100 {cell 2 7}}
 			{item "fieldcap_rus" {cell 4 7}{user "head"}}
+		}
+	}
+	{Inventory 0x80ef
+		{box
+			{clear}
+			{item 0x80e7 {cell 0 0}{user "hand_right"}}
+			{item "hmgun" "ammo" 100 {cell 0 2}}
+			{item "hmgun" "ammo" 100 {cell 2 2}}
+			{item "hmgun" "ammo" 100 {cell 4 2}}
+			{item "hmgun" "ammo" 100 {cell 0 4}}
+			{item "hmgun" "ammo" 100 {cell 2 4}}
+			{item "hmgun" "ammo" 100 {cell 4 4}}
+			{item "hmgun" "ammo" 100 {cell 0 6}}
+			{item "hmgun" "ammo" 100 {cell 2 6}}
+			{item "hmgun" "ammo" 100 {cell 4 6}}
+			{item "hmgun" "ammo" 100 {cell 0 8}}
+			{item "hmgun" "ammo" 100 {cell 2 8}}
+			{item "hmgun" "ammo" 100 {cell 4 8}}
+		}
+	}
+	{Inventory 0x80f0
+		{box
+			{clear}
+			{item 0x80e8 {cell 0 0}{user "hand_right"}}
+			{item "hmgun" "ammo" 100 {cell 0 2}}
+			{item "hmgun" "ammo" 100 {cell 2 2}}
+			{item "hmgun" "ammo" 100 {cell 4 2}}
+			{item "hmgun" "ammo" 100 {cell 0 4}}
+			{item "hmgun" "ammo" 100 {cell 2 4}}
+			{item "hmgun" "ammo" 100 {cell 4 4}}
+			{item "hmgun" "ammo" 100 {cell 0 6}}
+			{item "hmgun" "ammo" 100 {cell 2 6}}
+			{item "hmgun" "ammo" 100 {cell 4 6}}
+			{item "hmgun" "ammo" 100 {cell 0 8}}
+			{item "hmgun" "ammo" 100 {cell 2 8}}
+			{item "hmgun" "ammo" 100 {cell 4 8}}
+		}
+	}
+	{Inventory 0x80f1
+		{box
+			{clear}
+			{item 0x80e9 {cell 0 0}{user "hand_right"}}
+			{item "hmgun" "ammo" 100 {cell 0 2}}
+			{item "hmgun" "ammo" 100 {cell 2 2}}
+			{item "hmgun" "ammo" 100 {cell 4 2}}
+			{item "hmgun" "ammo" 100 {cell 0 4}}
+			{item "hmgun" "ammo" 100 {cell 2 4}}
+			{item "hmgun" "ammo" 100 {cell 4 4}}
+			{item "hmgun" "ammo" 100 {cell 0 6}}
+			{item "hmgun" "ammo" 100 {cell 2 6}}
+			{item "hmgun" "ammo" 100 {cell 4 6}}
+			{item "hmgun" "ammo" 100 {cell 0 8}}
+			{item "hmgun" "ammo" 100 {cell 2 8}}
+			{item "hmgun" "ammo" 100 {cell 4 8}}
+		}
+	}
+	{Inventory 0x80f2
+		{box
+			{clear}
+			{item 0x80ea {cell 0 0}{user "hand_right"}}
+			{item "hmgun" "ammo" 100 {cell 0 2}}
+			{item "hmgun" "ammo" 100 {cell 2 2}}
+			{item "hmgun" "ammo" 100 {cell 4 2}}
+			{item "hmgun" "ammo" 100 {cell 0 4}}
+			{item "hmgun" "ammo" 100 {cell 2 4}}
+			{item "hmgun" "ammo" 100 {cell 4 4}}
+			{item "hmgun" "ammo" 100 {cell 0 6}}
+			{item "hmgun" "ammo" 100 {cell 2 6}}
+			{item "hmgun" "ammo" 100 {cell 4 6}}
+			{item "hmgun" "ammo" 100 {cell 0 8}}
+			{item "hmgun" "ammo" 100 {cell 2 8}}
+			{item "hmgun" "ammo" 100 {cell 4 8}}
+		}
+	}
+	{Inventory 0x80f3
+		{box
+			{clear}
+			{item "rifle" "ammo" 25 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 1 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "m39" "grenade" {cell 2 1}}
+			{item "m39" "grenade" {cell 3 1}}
+			{item 0x80eb {cell 0 2}{user "hand_right"}}
+		}
+	}
+	{Inventory 0x80f4
+		{box
+			{clear}
+			{item "m39" "grenade" {cell 0 0}}
+			{item 0x80ec {cell 1 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 50 {cell 0 3}}
+		}
+	}
+	{Inventory 0x80f5
+		{box
+			{clear}
+			{item "rifle" "ammo" 25 {cell 0 0}}
+			{item "rifle" "ammo" 25 {cell 1 0}}
+			{item "rifle" "ammo" 25 {cell 2 0}}
+			{item "rifle" "ammo" 25 {cell 3 0}}
+			{item "rifle" "ammo" 25 {cell 4 0}}
+			{item "rifle" "ammo" 25 {cell 5 0}}
+			{item "rifle" "ammo" 25 {cell 0 1}}
+			{item "rifle" "ammo" 25 {cell 1 1}}
+			{item "m39" "grenade" {cell 2 1}}
+			{item "m39" "grenade" {cell 3 1}}
+			{item 0x80ed {cell 0 2}{user "hand_right"}}
+		}
+	}
+	{Inventory 0x80f6
+		{box
+			{clear}
+			{item "m39" "grenade" {cell 0 0}}
+			{item 0x80ee {cell 1 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 50 {cell 0 3}}
+		}
+	}
+	{Inventory 0xc036
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc037
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc039
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc03b
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc03d
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc03e
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc042
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc043
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc045
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc047
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc049
+		{box
+			{clear}
+			{item "dynamite_ladung" {cell 0 0}{user "hand_right"}}
+		}
+	}
+	{Inventory 0xc04c
+		{box
+			{clear}
+			{item 0xc04d {cell 0 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 100 {cell 0 4}}
+			{item "pistol" "ammo" 100 {cell 2 4}}
+			{item "pistol" "ammo" 100 {cell 4 4}}
+			{item "pistol" "ammo" 100 {cell 0 5}}
+			{item "pistol" "ammo" 100 {cell 2 5}}
+			{item "pistol" "ammo" 100 {cell 4 5}}
+			{item "pistol" "ammo" 100 {cell 0 6}}
+			{item "pistol" "ammo" 100 {cell 2 6}}
+			{item "pistol" "ammo" 100 {cell 4 6}}
+			{item "pistol" "ammo" 100 {cell 0 7}}
+			{item "pistol" "ammo" 100 {cell 2 7}}
+			{item "pistol" "ammo" 100 {cell 4 7}}
+			{item "pistol" "ammo" 100 {cell 0 8}}
+			{item "pistol" "ammo" 100 {cell 2 8}}
+			{item "pistol" "ammo" 100 {cell 4 8}}
+			{item "pistol" "ammo" 100 {cell 0 9}}
+			{item "pistol" "ammo" 100 {cell 2 9}}
+			{item "pistol" "ammo" 100 {cell 4 9}}
+		}
+	}
+	{Inventory 0x80f7
+		{box
+			{clear}
+			{item 0x80e0 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x80f8
+		{box
+			{clear}
+			{item 0x80e2 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x80fe
+		{box
+			{clear}
+			{item 0x80f9 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x80ff
+		{box
+			{clear}
+			{item 0x80fb {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x8105
+		{box
+			{clear}
+			{item 0x8100 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x8106
+		{box
+			{clear}
+			{item 0x8102 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x810c
+		{box
+			{clear}
+			{item 0x8107 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x810d
+		{box
+			{clear}
+			{item 0x8109 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x8113
+		{box
+			{clear}
+			{item 0x810e {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x8114
+		{box
+			{clear}
+			{item 0x8110 {cell 0 0}{user "hand_left"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}{user "hand_right"}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0x8115
+		{box
+			{clear}
+			{item 0x8116 {cell 0 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 100 {cell 0 4}}
+			{item "pistol" "ammo" 100 {cell 2 4}}
+			{item "pistol" "ammo" 100 {cell 4 4}}
+			{item "pistol" "ammo" 100 {cell 0 5}}
+			{item "pistol" "ammo" 100 {cell 2 5}}
+			{item "pistol" "ammo" 100 {cell 4 5}}
+			{item "pistol" "ammo" 100 {cell 0 6}}
+			{item "pistol" "ammo" 100 {cell 2 6}}
+			{item "pistol" "ammo" 100 {cell 4 6}}
+			{item "pistol" "ammo" 100 {cell 0 7}}
+			{item "pistol" "ammo" 100 {cell 2 7}}
+			{item "pistol" "ammo" 100 {cell 4 7}}
+			{item "pistol" "ammo" 100 {cell 0 8}}
+			{item "pistol" "ammo" 100 {cell 2 8}}
+			{item "pistol" "ammo" 100 {cell 4 8}}
+			{item "pistol" "ammo" 100 {cell 0 9}}
+			{item "pistol" "ammo" 100 {cell 2 9}}
+			{item "pistol" "ammo" 100 {cell 4 9}}
+		}
+	}
+	{Inventory 0x8117
+		{box
+			{clear}
+			{item 0x8118 {cell 0 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 100 {cell 0 4}}
+			{item "pistol" "ammo" 100 {cell 2 4}}
+			{item "pistol" "ammo" 100 {cell 4 4}}
+			{item "pistol" "ammo" 100 {cell 0 5}}
+			{item "pistol" "ammo" 100 {cell 2 5}}
+			{item "pistol" "ammo" 100 {cell 4 5}}
+			{item "pistol" "ammo" 100 {cell 0 6}}
+			{item "pistol" "ammo" 100 {cell 2 6}}
+			{item "pistol" "ammo" 100 {cell 4 6}}
+			{item "pistol" "ammo" 100 {cell 0 7}}
+			{item "pistol" "ammo" 100 {cell 2 7}}
+			{item "pistol" "ammo" 100 {cell 4 7}}
+			{item "pistol" "ammo" 100 {cell 0 8}}
+			{item "pistol" "ammo" 100 {cell 2 8}}
+			{item "pistol" "ammo" 100 {cell 4 8}}
+			{item "pistol" "ammo" 100 {cell 0 9}}
+			{item "pistol" "ammo" 100 {cell 2 9}}
+			{item "pistol" "ammo" 100 {cell 4 9}}
+		}
+	}
+	{Inventory 0x8119
+		{box
+			{clear}
+			{item 0x811a {cell 0 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 100 {cell 0 4}}
+			{item "pistol" "ammo" 100 {cell 2 4}}
+			{item "pistol" "ammo" 100 {cell 4 4}}
+			{item "pistol" "ammo" 100 {cell 0 5}}
+			{item "pistol" "ammo" 100 {cell 2 5}}
+			{item "pistol" "ammo" 100 {cell 4 5}}
+			{item "pistol" "ammo" 100 {cell 0 6}}
+			{item "pistol" "ammo" 100 {cell 2 6}}
+			{item "pistol" "ammo" 100 {cell 4 6}}
+			{item "pistol" "ammo" 100 {cell 0 7}}
+			{item "pistol" "ammo" 100 {cell 2 7}}
+			{item "pistol" "ammo" 100 {cell 4 7}}
+			{item "pistol" "ammo" 100 {cell 0 8}}
+			{item "pistol" "ammo" 100 {cell 2 8}}
+			{item "pistol" "ammo" 100 {cell 4 8}}
+			{item "pistol" "ammo" 100 {cell 0 9}}
+			{item "pistol" "ammo" 100 {cell 2 9}}
+			{item "pistol" "ammo" 100 {cell 4 9}}
+		}
+	}
+	{Inventory 0xc038
+		{box
+			{clear}
+			{item 0xc03a {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc03c
+		{box
+			{clear}
+			{item 0xc03f {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc040
+		{box
+			{clear}
+			{item 0xc041 {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc044
+		{box
+			{clear}
+			{item 0xc046 {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc048
+		{box
+			{clear}
+			{item 0xc04a {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc04b
+		{box
+			{clear}
+			{item 0xc04e {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc04f
+		{box
+			{clear}
+			{item 0xc050 {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
+		}
+	}
+	{Inventory 0xc051
+		{box
+			{clear}
+			{item 0xc052 {cell 0 0}{user "hand_right"}}
+			{item "bandage" 5 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "pistol" "ammo" 100 {cell 0 3}}
+			{item "pistol" "ammo" 100 {cell 2 3}}
+			{item "pistol" "ammo" 100 {cell 4 3}}
+			{item "pistol" "ammo" 50 {cell 0 4}}
+			{item "m61" "grenade" {cell 2 4}}
+			{item "rg42x3" "grenade" {cell 3 4}}
+			{item "molotov_coctail" "grenade" {cell 0 5}}
+			{item "smoke" "grenade" {cell 2 5}}
 		}
 	}
 	{Brain 0x8002
@@ -4246,55 +5264,237 @@
 			{move_mode hold}
 		}
 	}
-	{Brain 0x80dd
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80de
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80df
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80e0
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80e1
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80e2
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80e3
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
-	{Brain 0x80e4
-		{Properties
-			{control user}
-			{move_mode hold}
-		}
-	}
 	{Brain 0x80e5
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80ef
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f0
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f1
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f2
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f3
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f4
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f5
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f6
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc036
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc037
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc039
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc03b
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc03d
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc03e
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc042
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc043
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc045
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc047
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc049
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc04c
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f7
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80f8
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80fe
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x80ff
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8105
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8106
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x810c
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x810d
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8113
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8114
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8115
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8117
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x8119
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc038
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc03c
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc040
+		{Properties
+			{fire_mode hold}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc044
+		{Properties
+			{fire_mode hold}
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc048
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc04b
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc04f
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0xc051
 		{Properties
 			{move_mode hold}
 		}
