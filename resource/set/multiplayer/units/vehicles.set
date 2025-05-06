@@ -63,6 +63,7 @@
     {content "* ( mp/%s/tractorist:%n5 )"}
 )
 
+; 1 vehicle with blya
 (define "vse"
     ("generic_v" c(%c) sc(%sc) t(%t %s) g(%g) b(%b) cw(%cw) cp(%cp))
     {content "* ( mp/%s/home_guard:%n6 )"}
