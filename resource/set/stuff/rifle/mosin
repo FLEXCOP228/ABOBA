@@ -4,6 +4,6 @@
 	{fireSound "rifle/mosin_shot/"}
 	{reloadSound "rifle_bolt_five"}
 	
-	("speed" s(50))
+	("speed" s(755))
 	("accuracy_boost")
 }

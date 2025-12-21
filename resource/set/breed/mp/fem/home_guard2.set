@@ -53,8 +53,8 @@
 		{item "ammo pistol" 500}
 		{item "bandage" 9}
 		{item "grenade type97" 2}
-		{item "barrel"}
+		{item "barrel" filling "fuel" 500}
 		{item "rpg40 grenade"}
-		{in_hands 4}
+		{in_hands 0}
 	}
 }
