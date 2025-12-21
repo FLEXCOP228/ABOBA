@@ -54,6 +54,6 @@
 		{item "grenade type97"}
 		{item "type99rifle" filling "rifle ammo" 5}
 		{item "b33r"}
-		{in_hands 4}
+		{in_hands 3}
 	}
 }
