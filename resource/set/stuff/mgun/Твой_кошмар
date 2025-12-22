@@ -1,0 +1,10 @@
+{from "mg42"
+	{filling "ammo mgun" 1000}
+	("speed" s(60))
+	("recoveryTime" r(5000))
+	{range 750 800}
+	{projectileDamage 25}
+	{projectileDamageClip 25}
+	{projectileDamageTable {50 25} {100 20}}
+	{projectileDamageThreshold 21.5}
+}

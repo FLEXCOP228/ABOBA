@@ -39,7 +39,7 @@
 
 ;°°°Button 3°°°
 
-{"pz1b"             ("v" c(0) t(all light arcade) s(ukr) n1(1) n2(1) g(d1) sc(9.00)  b(v3) cw(0) cp(5)) {level 1} {cost 99} {fore 0.6}}
+{"pz1b"             ("v" c(0) t(all light arcade) s(ukr) n1(1) n2(1) g(d1) sc(9.00)  b(v3) cw(0) cp(5)) {level 1} {cost 80} {fore 0.6}}
 {"sdkfz223"         ("v" c(0) t(all light) 		s(ukr) n1(1) n2(1) g(d2) sc(9.00)  b(v3) cw(0) cp(5)) {level 1} {cost 175} {fore 0.6}}
 {"pz2l"         ("v" c(0) t(all light) 		s(ukr) n1(2) n2(1) g(d2) sc(9.00)  b(v3) cw(0) cp(5)) {level 1} {cost 230} {fore 0.6}}
 

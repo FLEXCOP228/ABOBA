@@ -59,10 +59,10 @@
 		{item "smoke_paradrop_ammo grenade"}
 		{item "plant" 3}
 		{item "knife_union"}
-		{item "mg42_120"}
-		{item "mgun ammo" 500}
 		{item "f1 grenade"}
 		{item "type99 grenade"}
-		{in_hands 0}
+		{item "Твой_кошмар" filling "mgun ammo" 120}
+		{item "mgun ammo" 1000}
+		{in_hands 6}
 	}
 }

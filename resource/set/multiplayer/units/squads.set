@@ -99,7 +99,7 @@
 ("squad_with4types" side(rus) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(140) f(1.0))
 ("squad_with4types" side(pax) name(paxoms) c(666) g(squad_3) c1(paxom:1) b(squad1) t(all inf_only) level(1) cost(230) f(1.0))
 ("squad_with4types" side(pax) name(aries) c(0) g(squad_3) c1(ap_miner:6) b(squad1) t(all inf_only) level(1) cost(85) f(1.0))
-("squad_with4types" side(ukr) name(zelyn) c(666) g(squad_4) c1(zelya:1) b(squad1) t(all inf_only) level(1) cost(300) f(1.0))
+("squad_with4types" side(ukr) name(zelyn) c(666) g(squad_4) c1(zelya:1) b(squad1) t(all inf_only) level(1) cost(400) f(1.0))
 ("squad_with4types" side(rob) name(homs400) c(1) g(squad_5) c1(hom400:10) c2(hom:1) b(squad1) t(all inf_only) level(1) cost(50) f(1.0))
 ("squad_with4types" side(rob) name(home_guard) c(1) g(squad_6) c1(home_guard:4) c2(home_guard2:4) b(squad1) t(all inf_only) level(1) cost(175) f(1.0))
 ("squad_with4types" side(pax) name(tesass) c(1) g(squad_7) c1(tesas:1) c2(rifle:4) c3(smg:3) b(squad2) t(all inf_only) level(1) cost(130) f(1.0))
