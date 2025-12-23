@@ -277,6 +277,51 @@
 
 
 
+(define "evrei_ukr"
+    {tags   "evrei_ukr %side infantry man"}
+    {cp     2.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/ukr/evrei" ("evrei_ukr" side(ukr))}
+{"mp/ukr/evrei1" ("evrei_ukr" side(ukr))}
+{"mp/ukr/evrei2" ("evrei_ukr" side(ukr))}
+{"mp/ukr/evrei3" ("evrei_ukr" side(ukr))}
+
+
+
+(define "evrei_pax"
+    {tags   "evrei_pax %side infantry man"}
+    {cp     2.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/ukr/evrei" ("evrei_pax" side(pax))}
+{"mp/ukr/evrei1" ("evrei_pax" side(pax))}
+{"mp/ukr/evrei2" ("evrei_pax" side(pax))}
+{"mp/ukr/evrei3" ("evrei_pax" side(pax))}
+
+
+
+(define "evrei_fem"
+    {tags   "evrei_fem %side infantry man"}
+    {cp     2.5}
+    {score  0.75}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/ukr/evrei" ("evrei_fem" side(fem))}
+{"mp/ukr/evrei1" ("evrei_fem" side(fem))}
+{"mp/ukr/evrei2" ("evrei_fem" side(fem))}
+{"mp/ukr/evrei3" ("evrei_fem" side(fem))}
+
+
+
 (define "shews"
     {tags   "shews %side infantry man"}
     {cp     3.5}
