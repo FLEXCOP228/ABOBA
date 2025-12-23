@@ -153,9 +153,9 @@
 {"storm_mech_eng"		("vb4" c(0) c1(m3_eng) 		t(all inf_only) s(eng) n1(6) n2(2) n3(1) n4(1) 	g(squad_6) b(squad1)) {level 12} {cost 465} {fore 1.0}}
 {"storm_mech_jap"		("vb3" c(0) c1(ho-ha3mgun) 	t(all inf_only) s(jap) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 450} {fore 1.0}}
 {"storm_mech_ost"		("vb3" c(0) c1(sdkfz250_1) 	t(all inf_only) s(ger2) n1(3) n2(1) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 350} {fore 1.0}}
-{"evrei_ukr"		("vb5" c(0) c1(sdkfz251_1) 	t(all inf_only) s(ukr) n1(4) n2(3) n3(1) n4(2) 		g(squad_6) b(squad2)) {level 12} {cost 550} {fore 1.0}}
-{"evrei_pax"		("vb5" c(0) c1(sdkfz251_1) 	t(all inf_only) s(pax) n1(4) n2(3) n3(1) n4(2) 		g(squad_6) b(squad2)) {level 12} {cost 550} {fore 1.0}}
-{"evrei_fem"		("vb5" c(0) c1(sdkfz251_1) 	t(all inf_only) s(fem) n1(4) n2(3) n3(1) n4(2) 		g(squad_6) b(squad2)) {level 12} {cost 550} {fore 1.0}}
+{"evrei_ukr"		("vb5" c(0) c1(zis5) 	t(all inf_only) s(ukr) n1(4) n2(4) n3(2) n4(2) 		g(squad_6) b(squad2)) {level 12} {cost 550} {fore 1.0}}
+{"evrei_pax"		("vb5" c(0) c1(zis5) 	t(all inf_only) s(pax) n1(4) n2(4) n3(2) n4(2) 		g(squad_6) b(squad2)) {level 12} {cost 550} {fore 1.0}}
+{"evrei_fem"		("vb5" c(0) c1(zis5) 	t(all inf_only) s(fem) n1(4) n2(4) n3(2) n4(2) 		g(squad_6) b(squad2)) {level 12} {cost 550} {fore 1.0}}
 
 
 ("squad_with1types" side(rus) name(ap_miners) c(120) g(squad_7) c1(ap_miner:4) b(squad1) t(all inf_only engineers mines) level(11) cost(150) f(0))
