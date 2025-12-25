@@ -3,7 +3,7 @@
 	{portrait ukr_shew}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality she}
+	{nationality ban}
 	{armors
 		{head cap1_ger}
 	}

@@ -3,7 +3,7 @@
 	{portrait usa_officer}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality tan}
+	{nationality ban}
 	{perks
 		{"health" "100%"
 		}

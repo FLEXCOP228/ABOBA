@@ -3,7 +3,7 @@
 	{portrait obor}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality obo}
+	{nationality ban}
 	{perks
 		{"health" "100%"
 		}

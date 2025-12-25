@@ -3,7 +3,7 @@
 	{portrait alisa}
 	{icon home_guard}
 	{icon_priority 0}
-	{nationality rob}
+	{nationality ban}
 	{armors
 		{body body_armor}
 	}

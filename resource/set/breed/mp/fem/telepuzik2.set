@@ -3,7 +3,7 @@
 	{portrait telepuzik2}
 	{icon home_guard}
 	{icon_priority 0}
-	{nationality rob}
+	{nationality ban}
 	{perks
 		{"health" "100%"
 		}

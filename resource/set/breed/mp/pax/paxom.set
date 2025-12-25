@@ -3,7 +3,7 @@
 	{portrait paxom}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality pax}
+	{nationality ban}
 	{perks
 		{"health" "1000%"
 		}

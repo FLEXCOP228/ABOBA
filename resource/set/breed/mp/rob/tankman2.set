@@ -3,7 +3,7 @@
 	{portrait rob_hom400}
 	{icon home_guard}
 	{icon_priority 0}
-	{nationality rob}
+	{nationality ban}
 	{perks
 		{"health" "50%"
 		}

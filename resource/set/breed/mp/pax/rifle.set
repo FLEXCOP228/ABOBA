@@ -3,7 +3,7 @@
 	{portrait skinx}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality tes}
+	{nationality ban}
 	{armors
 		{head helmet1_ger}
 	}

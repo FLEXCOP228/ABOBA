@@ -3,7 +3,7 @@
 	{portrait ukr_zelya}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality zel}
+	{nationality ban}
 	{armors
 		{head cap1_ger}
 	}
@@ -61,7 +61,7 @@
 		{item "knife_union"}
 		{item "f1 grenade"}
 		{item "type99 grenade"}
-		{item "Твой_кошмар" filling "mgun ammo" 120}
+		{item "твой_кошмар" filling "mgun ammo" 120}
 		{item "mgun ammo" 1000}
 		{in_hands 6}
 	}

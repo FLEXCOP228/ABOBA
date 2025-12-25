@@ -3,7 +3,7 @@
 	{portrait shefanof}
 	{icon home_guard}
 	{icon_priority 0}
-	{nationality rus}
+	{nationality ban}
 	{perks
 		{"health" "150%"
 		}

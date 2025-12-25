@@ -3,7 +3,7 @@
 	{portrait tesas}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality tes}
+	{nationality ban}
 	{perks
 		{"health" "200%"
 		}

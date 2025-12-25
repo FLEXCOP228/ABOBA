@@ -3,7 +3,7 @@
 	{portrait pod1}
 	{icon sniper}
 	{icon_priority 5}
-	{nationality pod}
+	{nationality ban}
 	{armors
 		{head rw_cap}
 	}
